@@ -141,8 +141,7 @@ export default function Footer() {
 
         <p className="alta-corners mt-8 border-l-4 border-alta-teal bg-alta-50 px-4 py-3 text-xs leading-relaxed text-alta-700">
           აქციის ფასები მოქმედებს მხოლოდ გლდანის ფილიალში ({BRANCH.address}),{" "}
-          {CAMPAIGN_DATES_ON}, ან მარაგის ამოწურვამდე. ფასები მითითებულია
-          ლარში, დღგ-ის ჩათვლით.
+          {CAMPAIGN_DATES_ON}. ფასები მითითებულია ლარში, დღგ-ის ჩათვლით.
         </p>
       </div>
 
