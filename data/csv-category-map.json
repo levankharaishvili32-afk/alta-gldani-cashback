@@ -1,12 +1,19 @@
 {
-  "_comment": "Display labels and URL slugs for the group/category columns of data/telavi-products.csv. The CSV is the source of truth for which bucket a product filters into; this file only supplies the label the UI prints and the ascii id that ends up in ?cat= / ?sub=. Anything missing falls back to a slug of the raw CSV value.",
-
+  "_comment": "Display labels and URL slugs for the group/category columns of data/campaign-products.csv. The CSV is the source of truth for which bucket a product filters into; this file only supplies the label the UI prints and the ascii id that ends up in ?cat= / ?sub=. Anything missing falls back to a slug of the raw CSV value.",
   "_comment_new_categories": "The last seven entries under `categories` arrived with the August 2026 promotion file. Each is labelled by what the category is called, not by the one or two products in it this month — if the next file carries five mixers the bucket is already right. `Boiler` covered two Smarton hot dog makers; should a later file use that word for water boilers, change the label here. Run `python3 scripts/import-promo-xlsx.py <file.xlsx>` and it will name any category still missing from this map.",
-
   "groups": {
-    "IT": { "slug": "it", "label": "IT ტექნიკა" },
-    "TV & Gaming": { "slug": "tv-gaming", "label": "ტელევიზორები და გეიმინგი" },
-    "თეთრი ტექნიკა": { "slug": "home", "label": "თეთრი ტექნიკა" },
+    "IT": {
+      "slug": "it",
+      "label": "IT ტექნიკა"
+    },
+    "TV & Gaming": {
+      "slug": "tv-gaming",
+      "label": "ტელევიზორები და გეიმინგი"
+    },
+    "თეთრი ტექნიკა": {
+      "slug": "home",
+      "label": "თეთრი ტექნიკა"
+    },
     "მობილურები და აქსესუარები": {
       "slug": "mobile",
       "label": "მობილურები და აქსესუარები"
@@ -63,13 +70,25 @@
     "Meat Machine": "ხორცსაკეპები",
     "Popcorn Maker": "პოპკორნის აპარატები",
     "Accessories / SDA": "აქსესუარები",
-
     "Mixer": "მიქსერები",
     "Coffee Grinder": "ყავის საფქვავები",
     "Milk Frother": "რძის ამომყვანები",
     "Sandwich Maker": "სენდვიჩმეიკერები",
     "Waffle Maker": "ვაფლის აპარატები",
     "Multi Boiler": "მულტიქვაბები",
-    "Boiler": "ჰოთ-დოგის აპარატები"
+    "Boiler": "ჰოთ-დოგის აპარატები",
+    "Wireless Charger": "უსადენო დამტენები",
+    "Washing Machine": "სარეცხი მანქანები",
+    "Refrigerator": "მაცივრები",
+    "Built-in Dishwasher": "ჩასაშენებელი ჭურჭლის სარეცხი მანქანები",
+    "Dryer": "საშრობი მანქანები",
+    "Dishwasher": "ჭურჭლის სარეცხი მანქანები",
+    "Rice Cooker": "ბრინჯის მადუღარები",
+    "Car Camera": "ვიდეორეგისტრატორები",
+    "Power Supply": "კვების ბლოკები",
+    "Desktop PC": "კომპიუტერები",
+    "RAM": "ოპერატიული მეხსიერება",
+    "Audio": "აუდიო",
+    "Camera": "ფოტოაპარატები"
   }
 }

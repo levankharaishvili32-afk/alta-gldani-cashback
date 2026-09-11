@@ -1,5 +1,23 @@
 [
   {
+    "id": "mobile",
+    "label": "მობილურები და აქსესუარები",
+    "subcategories": [
+      {
+        "id": "speaker",
+        "label": "დინამიკები"
+      },
+      {
+        "id": "wireless-charger",
+        "label": "უსადენო დამტენები"
+      },
+      {
+        "id": "headphone",
+        "label": "ყურსასმენები"
+      }
+    ]
+  },
+  {
     "id": "home",
     "label": "თეთრი ტექნიკა",
     "subcategories": [
@@ -8,8 +26,8 @@
         "label": "აეროგრილები"
       },
       {
-        "id": "blender",
-        "label": "ბლენდერები"
+        "id": "rice-cooker",
+        "label": "ბრინჯის მადუღარები"
       },
       {
         "id": "kettle",
@@ -24,8 +42,8 @@
         "label": "კლიმატური ტექნიკა"
       },
       {
-        "id": "microwave",
-        "label": "მიკროტალღური ღუმელები"
+        "id": "refrigerator",
+        "label": "მაცივრები"
       },
       {
         "id": "mixer",
@@ -36,20 +54,12 @@
         "label": "მტვერსასრუტები"
       },
       {
-        "id": "multi-boiler",
-        "label": "მულტიქვაბები"
+        "id": "washing-machine",
+        "label": "სარეცხი მანქანები"
       },
       {
-        "id": "popcorn-maker",
-        "label": "პოპკორნის აპარატები"
-      },
-      {
-        "id": "milk-frother",
-        "label": "რძის ამომყვანები"
-      },
-      {
-        "id": "kitchen-machine",
-        "label": "სამზარეულოს კომბაინები"
+        "id": "dryer",
+        "label": "საშრობი მანქანები"
       },
       {
         "id": "sandwich-maker",
@@ -68,46 +78,20 @@
         "label": "უთოები"
       },
       {
-        "id": "oven",
-        "label": "ღუმელები"
-      },
-      {
         "id": "coffee-maker",
         "label": "ყავის აპარატები"
       },
       {
-        "id": "coffee-press",
-        "label": "ყავის პრესები"
+        "id": "built-in-dishwasher",
+        "label": "ჩასაშენებელი ჭურჭლის სარეცხი მანქანები"
       },
       {
-        "id": "coffee-grinder",
-        "label": "ყავის საფქვავები"
+        "id": "juicer",
+        "label": "წვენსაწურები"
       },
       {
-        "id": "chopper",
-        "label": "ჩოპერები"
-      },
-      {
-        "id": "fruit-dryer",
-        "label": "ხილის საშრობები"
-      },
-      {
-        "id": "meat-machine",
-        "label": "ხორცსაკეპები"
-      },
-      {
-        "id": "boiler",
-        "label": "ჰოთ-დოგის აპარატები"
-      }
-    ]
-  },
-  {
-    "id": "mobile",
-    "label": "მობილურები და აქსესუარები",
-    "subcategories": [
-      {
-        "id": "smartphone",
-        "label": "სმარტფონები"
+        "id": "dishwasher",
+        "label": "ჭურჭლის სარეცხი მანქანები"
       }
     ]
   },
@@ -116,40 +100,28 @@
     "label": "IT ტექნიკა",
     "subcategories": [
       {
-        "id": "adapter",
-        "label": "ადაპტერები"
-      },
-      {
         "id": "cooling-stand",
         "label": "გამაგრილებელი სადგამები"
       },
       {
-        "id": "hdd-external",
-        "label": "გარე მყარი დისკები"
+        "id": "car-camera",
+        "label": "ვიდეორეგისტრატორები"
       },
       {
-        "id": "speaker",
-        "label": "დინამიკები"
+        "id": "power-supply",
+        "label": "კვების ბლოკები"
       },
       {
         "id": "keyboard",
         "label": "კლავიატურები"
       },
       {
+        "id": "desktop-pc",
+        "label": "კომპიუტერები"
+      },
+      {
         "id": "mouse",
         "label": "მაუსები"
-      },
-      {
-        "id": "mouse-pad",
-        "label": "მაუსპადები"
-      },
-      {
-        "id": "flash-card",
-        "label": "მეხსიერების ბარათები"
-      },
-      {
-        "id": "microphone",
-        "label": "მიკროფონები"
       },
       {
         "id": "monitor",
@@ -168,6 +140,10 @@
         "label": "ნოუთბუქის ჩანთები"
       },
       {
+        "id": "ram",
+        "label": "ოპერატიული მეხსიერება"
+      },
+      {
         "id": "printer",
         "label": "პრინტერები"
       },
@@ -176,28 +152,12 @@
         "label": "როუტერები"
       },
       {
-        "id": "tablet",
-        "label": "ტაბლეტები"
-      },
-      {
-        "id": "ups",
-        "label": "უწყვეტი კვების წყაროები"
-      },
-      {
-        "id": "flash-drive",
-        "label": "ფლეშ მეხსიერება"
-      },
-      {
         "id": "headphone",
         "label": "ყურსასმენები"
       },
       {
         "id": "hdd-internal",
         "label": "შიდა მყარი დისკები"
-      },
-      {
-        "id": "joystick",
-        "label": "ჯოისტიკები"
       }
     ]
   },
@@ -206,12 +166,16 @@
     "label": "ტელევიზორები და გეიმინგი",
     "subcategories": [
       {
-        "id": "gaming",
-        "label": "გეიმინგი"
+        "id": "audio",
+        "label": "აუდიო"
       },
       {
         "id": "tv",
         "label": "ტელევიზორები"
+      },
+      {
+        "id": "camera",
+        "label": "ფოტოაპარატები"
       }
     ]
   }

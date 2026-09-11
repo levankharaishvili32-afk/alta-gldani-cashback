@@ -6,7 +6,7 @@
     "else — the barCode from the commercial team's file.",
     "",
     "This exists because removing a product by hand does not stay removed. The",
-    "site is regenerated from data/telavi-products.csv by `npm run scrape`, and",
+    "site is regenerated from data/campaign-products.csv by `npm run scrape`, and",
     "that CSV is regenerated from whatever workbook the commercial team sends",
     "next. Delete a row from either and the next import quietly puts it back.",
     "An id listed here is dropped at the point products.json is written, so it",

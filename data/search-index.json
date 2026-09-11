@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-12T07:17:00.690Z",
- "products": 308,
+ "generated_at": "2026-09-11T11:18:14.678Z",
+ "products": 168,
  "code_pattern": "^\\d{5,7}$",
  "aliases": [
   {
@@ -400,323 +400,483 @@
  ],
  "entries": [
   {
-   "id": "86675",
-   "title": "Panasonic ER-GB42-K520",
+   "id": "147286",
+   "title": "House Of Marley Smile Jamaica (EM-JE041-CPD) - COPPER",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley smile jamaica em je 041 cpd copper",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ სმილე ჯამაიცა ემ ჯე 041 ცპდ ცოპპერ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "77550",
+   "title": "House of Marley Smile Jamaica (EM-JE041-DN) - Denim",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley smile jamaica em je 041 dn denim",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ სმილე ჯამაიცა ემ ჯე 041 დნ დენიმ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "76917",
+   "title": "House Of Marley Smile Jamaica (EM-JE041-RA) - Rasta",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley smile jamaica em je 041 ra rasta",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ სმილე ჯამაიცა ემ ჯე 041 რა რასთა",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "118464",
+   "title": "House of Marley Smile Jamaica (EM-JE041-RD) - Red",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley smile jamaica em je 041 rd red",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ სმილე ჯამაიცა ემ ჯე 041 რდ რედ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "76918",
+   "title": "House Of Marley Smile Jamaica (EM-JE041-SB) - Signature Black",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley smile jamaica em je 041 sb signature black",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ სმილე ჯამაიცა ემ ჯე 041 სბ სიგნათურე ბლაცქ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "175533",
+   "title": "House of Marley EM-JE042-BA S. JAMAICA WIRED USB-C EARBUDS Black",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley em je 042 ba s jamaica wired usb c earbuds black",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ ემ ჯე 042 ბა ს ჯამაიცა ვირედ უსბ ც ეარბუდს ბლაცქ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "175534",
+   "title": "House of Marley EM-JE042-CP S. JAMAICA WIRED USB-C EARBUDS Copper",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley em je 042 cp s jamaica wired usb c earbuds copper",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ ემ ჯე 042 ცპ ს ჯამაიცა ვირედ უსბ ც ეარბუდს ცოპპერ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "175535",
+   "title": "House of Marley EM-JE042-RA S. JAMAICA WIRED USB-C EARBUDS Rasta",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley em je 042 ra s jamaica wired usb c earbuds rasta",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ ემ ჯე 042 რა ს ჯამაიცა ვირედ უსბ ც ეარბუდს რასთა",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "175536",
+   "title": "House of Marley EM-JE042-SB S. JAMAICA WIRED USB-C EARBUDS Signature Black",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley em je 042 sb s jamaica wired usb c earbuds signature black",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ ემ ჯე 042 სბ ს ჯამაიცა ვირედ უსბ ც ეარბუდს სიგნათურე ბლაცქ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "81857",
+   "title": "House of Marley Positive Vibration 2 (EM-JH121-CP) - Copper",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley positive vibration 2 em jh 121 cp copper",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ პოსითივე ვიბრათიონ 2 ემ ჯხ 121 ცპ ცოპპერ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "125460",
+   "title": "House Of Marley Champion True Wireless Earbuds Black (EM-JE131-SB)",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley champion true wireless earbuds black em je 131 sb",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ ჩამპიონ თრუე ვირელესს ეარბუდს ბლაცქ ემ ჯე 131 სბ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "162105",
+   "title": "House of Marley Positive Vibration Riddim EM-JH135 - Rasta",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley positive vibration riddim em jh 135 rasta",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ პოსითივე ვიბრათიონ რიდდიმ ემ ჯხ 135 რასთა",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "162106",
+   "title": "House of Marley Positive Vibration Riddim EM-JH135 - Signature Black",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley positive vibration riddim em jh 135 signature black",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ პოსითივე ვიბრათიონ რიდდიმ ემ ჯხ 135 სიგნათურე ბლაცქ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "162096",
+   "title": "House of Marley Smile Jamaica TWS Earbuds EM-JE124 - Cream",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley smile jamaica tws earbuds em je 124 cream",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ სმილე ჯამაიცა თვს ეარბუდს ემ ჯე 124 ცრეამ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "162097",
+   "title": "House of Marley Smile Jamaica TWS Earbuds EM-JE124 - Signature Black",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley smile jamaica tws earbuds em je 124 signature black",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ სმილე ჯამაიცა თვს ეარბუდს ემ ჯე 124 სიგნათურე ბლაცქ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "162102",
+   "title": "House of Marley Zion TWS Exec Earbuds EM-JE105 - Signature Black",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley zion tws exec earbuds em je 105 signature black",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ ზიონ თვს ეხეც ეარბუდს ემ ჯე 105 სიგნათურე ბლაცქ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "162103",
+   "title": "House of Marley ZionTWS Exec Earbuds EM-JE105 - Cream",
+   "brand": "House of Marley",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "house of marley ziontws exec earbuds em je 105 cream",
+    "brand": "house of marley",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ ზიონთვს ეხეც ეარბუდს ემ ჯე 105 ცრეამ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "136893",
+   "title": "House Of Marley Get Together Mini 2 (EM-JA021-SB) - Signature Black",
+   "brand": "House of Marley",
+   "category": "დინამიკები",
+   "latin": {
+    "title": "house of marley get together mini 2 em ja 021 sb signature black",
+    "brand": "house of marley",
+    "category": "dinamikebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ გეთ თოგეთხერ მინი 2 ემ ჯა 021 სბ სიგნათურე ბლაცქ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "დინამიქები"
+   }
+  },
+  {
+   "id": "162095",
+   "title": "House Of Marley EM-JA023 Roots Solar - Cream",
+   "brand": "House of Marley",
+   "category": "დინამიკები",
+   "latin": {
+    "title": "house of marley em ja 023 roots solar cream",
+    "brand": "house of marley",
+    "category": "dinamikebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ ემ ჯა 023 როოც სოლარ ცრეამ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "დინამიქები"
+   }
+  },
+  {
+   "id": "162094",
+   "title": "House Of Marley EM-JA023 Roots Solar - Signature Black",
+   "brand": "House of Marley",
+   "category": "დინამიკები",
+   "latin": {
+    "title": "house of marley em ja 023 roots solar signature black",
+    "brand": "house of marley",
+    "category": "dinamikebi"
+   },
+   "ka": {
+    "title": "ხოუსე ოფ მარლეყ ემ ჯა 023 როოც სოლარ სიგნათურე ბლაცქ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "დინამიქები"
+   }
+  },
+  {
+   "id": "163833",
+   "title": "Aukey EP-M3A Move Vibe Wireless Earbuds - White",
+   "brand": "Aukey",
+   "category": "ყურსასმენები",
+   "latin": {
+    "title": "aukey ep m 3 a move vibe wireless earbuds white",
+    "brand": "aukey",
+    "category": "qursasmenebi"
+   },
+   "ka": {
+    "title": "აუქეყ ეპ მ 3 ა მოვე ვიბე ვირელესს ეარბუდს ვხითე",
+    "brand": "აუქეყ",
+    "category": "ყურსასმენები"
+   }
+  },
+  {
+   "id": "163826",
+   "title": "Aukey 3 in-1 15W LC-MC311A MagFusion Pro Qi2 Active Cooling Wireless Charging Station - Gray",
+   "brand": "Aukey",
+   "category": "უსადენო დამტენები",
+   "latin": {
+    "title": "aukey 3 in 1 15 w lc mc 311 a magfusion pro qi 2 active cooling wireless charging station gray",
+    "brand": "aukey",
+    "category": "usadeno damtenebi"
+   },
+   "ka": {
+    "title": "აუქეყ 3 ინ 1 15 ვ ლც მც 311 ა მაგფუსიონ პრო ყი 2 აცთივე ცოოლინგ ვირელესს ჩარგინგ სთათიონ გრაყ",
+    "brand": "აუქეყ",
+    "category": "უსადენო დამთენები"
+   }
+  },
+  {
+   "id": "163820",
+   "title": "Aukey 3 in-1 15W LC-MC312 MagFusion Z Qi2 Foldable Wireless Charging Station - Gray",
+   "brand": "Aukey",
+   "category": "უსადენო დამტენები",
+   "latin": {
+    "title": "aukey 3 in 1 15 w lc mc 312 magfusion z qi 2 foldable wireless charging station gray",
+    "brand": "aukey",
+    "category": "usadeno damtenebi"
+   },
+   "ka": {
+    "title": "აუქეყ 3 ინ 1 15 ვ ლც მც 312 მაგფუსიონ ზ ყი 2 ფოლდაბლე ვირელესს ჩარგინგ სთათიონ გრაყ",
+    "brand": "აუქეყ",
+    "category": "უსადენო დამთენები"
+   }
+  },
+  {
+   "id": "147847",
+   "title": "Hoco CQ4 Unique 3-in-1 folding magnetic wireless fast charger Black",
+   "brand": "Hoco",
+   "category": "უსადენო დამტენები",
+   "latin": {
+    "title": "hoco cq 4 unique 3 in 1 folding magnetic wireless fast charger black",
+    "brand": "hoco",
+    "category": "usadeno damtenebi"
+   },
+   "ka": {
+    "title": "ხოცო ცყ 4 უნიყუე 3 ინ 1 ფოლდინგ მაგნეთიც ვირელესს ფასთ ჩარგერ ბლაცქ",
+    "brand": "ხოცო",
+    "category": "უსადენო დამთენები"
+   }
+  },
+  {
+   "id": "130416",
+   "title": "Panasonic RB-HF420BGEK",
    "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "panasonic er gb 42 k 520",
+    "title": "panasonic rb hf 420 bgek",
     "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "პანასონიც ერ გბ 42 ქ 520",
+    "title": "პანასონიც რბ ხფ 420 ბგექ",
     "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "98888",
-   "title": "Sencor SHP 8400BK",
-   "brand": "Sencor",
-   "category": "სილამაზე და ჯანმრთელობა",
-   "latin": {
-    "title": "sencor shp 8400 bk",
-    "brand": "sencor",
-    "category": "silamaze da janmrteloba"
-   },
-   "ka": {
-    "title": "სენცორ შპ 8400 ბქ",
-    "brand": "სენცორ",
-    "category": "სილამაზე და ჯანმრთელობა"
-   }
-  },
-  {
-   "id": "153051",
-   "title": "LG A9N-PRIME.BBWQCIS",
-   "brand": "LG",
-   "category": "მტვერსასრუტები",
-   "latin": {
-    "title": "lg a 9 n prime bbwqcis",
-    "brand": "lg",
-    "category": "mtversasrutebi"
-   },
-   "ka": {
-    "title": "ლგ ა 9 ნ პრიმე ბბვყცის",
-    "brand": "ლგ",
-    "category": "მთვერსასრუთები"
-   }
-  },
-  {
-   "id": "161321",
-   "title": "Remington NE3150 E51 Linear NE Clipper",
-   "brand": "Remington",
-   "category": "სილამაზე და ჯანმრთელობა",
-   "latin": {
-    "title": "remington ne 3150 e 51 linear ne clipper",
-    "brand": "remington",
-    "category": "silamaze da janmrteloba"
-   },
-   "ka": {
-    "title": "რემინგთონ ნე 3150 ე 51 ლინეარ ნე ცლიპპერ",
-    "brand": "რემინგთონ",
-    "category": "სილამაზე და ჯანმრთელობა"
-   }
-  },
-  {
-   "id": "161323",
-   "title": "Remington NE3870 E51 Nose and Detail Trimmer",
-   "brand": "Remington",
-   "category": "სილამაზე და ჯანმრთელობა",
-   "latin": {
-    "title": "remington ne 3870 e 51 nose and detail trimmer",
-    "brand": "remington",
-    "category": "silamaze da janmrteloba"
-   },
-   "ka": {
-    "title": "რემინგთონ ნე 3870 ე 51 ნოსე ანდ დეთაილ თრიმმერ",
-    "brand": "რემინგთონ",
-    "category": "სილამაზე და ჯანმრთელობა"
-   }
-  },
-  {
-   "id": "151193",
-   "title": "Sencor SHF 902BK",
-   "brand": "Sencor",
-   "category": "კლიმატური ტექნიკა",
-   "latin": {
-    "title": "sencor shf 902 bk",
-    "brand": "sencor",
-    "category": "klimaturi teknika"
-   },
-   "ka": {
-    "title": "სენცორ შფ 902 ბქ",
-    "brand": "სენცორ",
-    "category": "ქლიმათური თექნიქა"
-   }
-  },
-  {
-   "id": "138741",
-   "title": "Sencor SHP 0450BK Multifunction Blade",
-   "brand": "Sencor",
-   "category": "სილამაზე და ჯანმრთელობა",
-   "latin": {
-    "title": "sencor shp 0450 bk multifunction blade",
-    "brand": "sencor",
-    "category": "silamaze da janmrteloba"
-   },
-   "ka": {
-    "title": "სენცორ შპ 0450 ბქ მულთიფუნცთიონ ბლადე",
-    "brand": "სენცორ",
-    "category": "სილამაზე და ჯანმრთელობა"
-   }
-  },
-  {
-   "id": "143136",
-   "title": "Braun SI 5006BL",
-   "brand": "Braun",
-   "category": "უთოები",
-   "latin": {
-    "title": "braun si 5006 bl",
-    "brand": "braun",
-    "category": "utoebi"
-   },
-   "ka": {
-    "title": "ბრაუნ სი 5006 ბლ",
-    "brand": "ბრაუნ",
-    "category": "უთოები"
-   }
-  },
-  {
-   "id": "165650",
-   "title": "Sencor SVC 1016GR 3AAA Vacuum Cleaner",
-   "brand": "Sencor",
-   "category": "მტვერსასრუტები",
-   "latin": {
-    "title": "sencor svc 1016 gr 3 aaa vacuum cleaner",
-    "brand": "sencor",
-    "category": "mtversasrutebi"
-   },
-   "ka": {
-    "title": "სენცორ სვც 1016 გრ 3 ააა ვაცუუმ ცლეანერ",
-    "brand": "სენცორ",
-    "category": "მთვერსასრუთები"
-   }
-  },
-  {
-   "id": "100194",
-   "title": "Braun SI3054GY",
-   "brand": "Braun",
-   "category": "უთოები",
-   "latin": {
-    "title": "braun si 3054 gy",
-    "brand": "braun",
-    "category": "utoebi"
-   },
-   "ka": {
-    "title": "ბრაუნ სი 3054 გყ",
-    "brand": "ბრაუნ",
-    "category": "უთოები"
-   }
-  },
-  {
-   "id": "168221",
-   "title": "Sencor SVC 8776BK Cordless Vacuum Cleaner with Mop",
-   "brand": "Sencor",
-   "category": "მტვერსასრუტები",
-   "latin": {
-    "title": "sencor svc 8776 bk cordless vacuum cleaner with mop",
-    "brand": "sencor",
-    "category": "mtversasrutebi"
-   },
-   "ka": {
-    "title": "სენცორ სვც 8776 ბქ ცორდლესს ვაცუუმ ცლეანერ ვითხ მოპ",
-    "brand": "სენცორ",
-    "category": "მთვერსასრუთები"
-   }
-  },
-  {
-   "id": "99690",
-   "title": "Sencor SFE 3011BK Desk Fan",
-   "brand": "Sencor",
-   "category": "კლიმატური ტექნიკა",
-   "latin": {
-    "title": "sencor sfe 3011 bk desk fan",
-    "brand": "sencor",
-    "category": "klimaturi teknika"
-   },
-   "ka": {
-    "title": "სენცორ სფე 3011 ბქ დესქ ფან",
-    "brand": "სენცორ",
-    "category": "ქლიმათური თექნიქა"
-   }
-  },
-  {
-   "id": "129740",
-   "title": "Sencor SFE 2311BK Desk Fan",
-   "brand": "Sencor",
-   "category": "კლიმატური ტექნიკა",
-   "latin": {
-    "title": "sencor sfe 2311 bk desk fan",
-    "brand": "sencor",
-    "category": "klimaturi teknika"
-   },
-   "ka": {
-    "title": "სენცორ სფე 2311 ბქ დესქ ფან",
-    "brand": "სენცორ",
-    "category": "ქლიმათური თექნიქა"
-   }
-  },
-  {
-   "id": "167698",
-   "title": "Sencor SFN 9025WH Air Cooler",
-   "brand": "Sencor",
-   "category": "კლიმატური ტექნიკა",
-   "latin": {
-    "title": "sencor sfn 9025 wh air cooler",
-    "brand": "sencor",
-    "category": "klimaturi teknika"
-   },
-   "ka": {
-    "title": "სენცორ სფნ 9025 ვხ აირ ცოოლერ",
-    "brand": "სენცორ",
-    "category": "ქლიმათური თექნიქა"
-   }
-  },
-  {
-   "id": "68822",
-   "title": "Panasonic ER-GY10CM520",
+   "id": "130418",
+   "title": "Panasonic RB-HF420BGEA",
    "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "panasonic er gy 10 cm 520",
+    "title": "panasonic rb hf 420 bgea",
     "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "პანასონიც ერ გყ 10 ცმ 520",
+    "title": "პანასონიც რბ ხფ 420 ბგეა",
     "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "71604",
-   "title": "Panasonic ES-GA21-S820",
-   "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
+   "id": "154096",
+   "title": "Technics EAH-AZ40M2GN II TWS Earbuds Rose gold",
+   "brand": "Technics",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "panasonic es ga 21 s 820",
-    "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
+    "title": "technics eah az 40 m 2 gn ii tws earbuds rose gold",
+    "brand": "technics",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "პანასონიც ეს გა 21 ს 820",
-    "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
+    "title": "თეჩნიცს ეახ აზ 40 მ 2 გნ იი თვს ეარბუდს როსე გოლდ",
+    "brand": "თეჩნიცს",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "97526",
-   "title": "Philips BHH880/00",
-   "brand": "Philips",
-   "category": "სილამაზე და ჯანმრთელობა",
+   "id": "154097",
+   "title": "Technics EAH-AZ60M2GK II TWS Earbuds Black",
+   "brand": "Technics",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "philips bhh 880 00",
-    "brand": "philips",
-    "category": "silamaze da janmrteloba"
+    "title": "technics eah az 60 m 2 gk ii tws earbuds black",
+    "brand": "technics",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ფილიპს ბხხ 880 00",
-    "brand": "ფილიპს",
-    "category": "სილამაზე და ჯანმრთელობა"
+    "title": "თეჩნიცს ეახ აზ 60 მ 2 გქ იი თვს ეარბუდს ბლაცქ",
+    "brand": "თეჩნიცს",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "151194",
-   "title": "Sencor SHI 6300GD",
-   "brand": "Sencor",
-   "category": "სილამაზე და ჯანმრთელობა",
+   "id": "154100",
+   "title": "Technics EAH-AZ60M2GS II TWS Earbuds Silver",
+   "brand": "Technics",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "sencor shi 6300 gd",
-    "brand": "sencor",
-    "category": "silamaze da janmrteloba"
+    "title": "technics eah az 60 m 2 gs ii tws earbuds silver",
+    "brand": "technics",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "სენცორ ში 6300 გდ",
-    "brand": "სენცორ",
-    "category": "სილამაზე და ჯანმრთელობა"
+    "title": "თეჩნიცს ეახ აზ 60 მ 2 გს იი თვს ეარბუდს სილვერ",
+    "brand": "თეჩნიცს",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "106219",
-   "title": "Sencor SHP 4501BK",
-   "brand": "Sencor",
-   "category": "სილამაზე და ჯანმრთელობა",
+   "id": "148449",
+   "title": "Canyon BTHS-3 Wireless headphones - Beige (CNS-CBTHS3BE)",
+   "brand": "Canyon",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "sencor shp 4501 bk",
-    "brand": "sencor",
-    "category": "silamaze da janmrteloba"
+    "title": "canyon bths 3 wireless headphones beige cns cbths 3 be",
+    "brand": "canyon",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "სენცორ შპ 4501 ბქ",
-    "brand": "სენცორ",
-    "category": "სილამაზე და ჯანმრთელობა"
-   }
-  },
-  {
-   "id": "103622",
-   "title": "Franko FVC-1157",
-   "brand": "Franko",
-   "category": "მტვერსასრუტები",
-   "latin": {
-    "title": "franko fvc 1157",
-    "brand": "franko",
-    "category": "mtversasrutebi"
-   },
-   "ka": {
-    "title": "ფრანქო ფვც 1157",
-    "brand": "ფრანქო",
-    "category": "მთვერსასრუთები"
+    "title": "ცანყონ ბთხს 3 ვირელესს ხეადფონეს ბეიგე ცნს ცბთხს 3 ბე",
+    "brand": "ცანყონ",
+    "category": "ყურსასმენები"
    }
   },
   {
@@ -736,177 +896,225 @@
    }
   },
   {
-   "id": "170107",
-   "title": "LG A9LSLIM.BCBQCIS Stick",
-   "brand": "LG",
+   "id": "71732",
+   "title": "Panasonic ER-GP80-K820",
+   "brand": "Panasonic",
+   "category": "სილამაზე და ჯანმრთელობა",
+   "latin": {
+    "title": "panasonic er gp 80 k 820",
+    "brand": "panasonic",
+    "category": "silamaze da janmrteloba"
+   },
+   "ka": {
+    "title": "პანასონიც ერ გპ 80 ქ 820",
+    "brand": "პანასონიც",
+    "category": "სილამაზე და ჯანმრთელობა"
+   }
+  },
+  {
+   "id": "76410",
+   "title": "Panasonic ER-GP21-K820",
+   "brand": "Panasonic",
+   "category": "სილამაზე და ჯანმრთელობა",
+   "latin": {
+    "title": "panasonic er gp 21 k 820",
+    "brand": "panasonic",
+    "category": "silamaze da janmrteloba"
+   },
+   "ka": {
+    "title": "პანასონიც ერ გპ 21 ქ 820",
+    "brand": "პანასონიც",
+    "category": "სილამაზე და ჯანმრთელობა"
+   }
+  },
+  {
+   "id": "131836",
+   "title": "Panasonic ES-LS9A-K820",
+   "brand": "Panasonic",
+   "category": "სილამაზე და ჯანმრთელობა",
+   "latin": {
+    "title": "panasonic es ls 9 a k 820",
+    "brand": "panasonic",
+    "category": "silamaze da janmrteloba"
+   },
+   "ka": {
+    "title": "პანასონიც ეს ლს 9 ა ქ 820",
+    "brand": "პანასონიც",
+    "category": "სილამაზე და ჯანმრთელობა"
+   }
+  },
+  {
+   "id": "131835",
+   "title": "Panasonic ES-LS6A-K820",
+   "brand": "Panasonic",
+   "category": "სილამაზე და ჯანმრთელობა",
+   "latin": {
+    "title": "panasonic es ls 6 a k 820",
+    "brand": "panasonic",
+    "category": "silamaze da janmrteloba"
+   },
+   "ka": {
+    "title": "პანასონიც ეს ლს 6 ა ქ 820",
+    "brand": "პანასონიც",
+    "category": "სილამაზე და ჯანმრთელობა"
+   }
+  },
+  {
+   "id": "131838",
+   "title": "Panasonic ES-LV9U-K820",
+   "brand": "Panasonic",
+   "category": "სილამაზე და ჯანმრთელობა",
+   "latin": {
+    "title": "panasonic es lv 9 u k 820",
+    "brand": "panasonic",
+    "category": "silamaze da janmrteloba"
+   },
+   "ka": {
+    "title": "პანასონიც ეს ლვ 9 უ ქ 820",
+    "brand": "პანასონიც",
+    "category": "სილამაზე და ჯანმრთელობა"
+   }
+  },
+  {
+   "id": "168221",
+   "title": "Sencor SVC 8776BK Cordless Vacuum Cleaner with Mop",
+   "brand": "Sencor",
    "category": "მტვერსასრუტები",
    "latin": {
-    "title": "lg a 9 lslim bcbqcis stick",
-    "brand": "lg",
+    "title": "sencor svc 8776 bk cordless vacuum cleaner with mop",
+    "brand": "sencor",
     "category": "mtversasrutebi"
    },
    "ka": {
-    "title": "ლგ ა 9 ლსლიმ ბცბყცის სთიცქ",
-    "brand": "ლგ",
+    "title": "სენცორ სვც 8776 ბქ ცორდლესს ვაცუუმ ცლეანერ ვითხ მოპ",
+    "brand": "სენცორ",
     "category": "მთვერსასრუთები"
    }
   },
   {
-   "id": "161299",
-   "title": "Remington AS7500",
+   "id": "165648",
+   "title": "Sencor SRW 6010WH Robot Window Cleaner",
+   "brand": "Sencor",
+   "category": "მტვერსასრუტები",
+   "latin": {
+    "title": "sencor srw 6010 wh robot window cleaner",
+    "brand": "sencor",
+    "category": "mtversasrutebi"
+   },
+   "ka": {
+    "title": "სენცორ სრვ 6010 ვხ რობოთ ვინდოვ ცლეანერ",
+    "brand": "სენცორ",
+    "category": "მთვერსასრუთები"
+   }
+  },
+  {
+   "id": "160045",
+   "title": "Sencor SVC 308BK Handheld Vacuum Cleaner",
+   "brand": "Sencor",
+   "category": "მტვერსასრუტები",
+   "latin": {
+    "title": "sencor svc 308 bk handheld vacuum cleaner",
+    "brand": "sencor",
+    "category": "mtversasrutebi"
+   },
+   "ka": {
+    "title": "სენცორ სვც 308 ბქ ხანდხელდ ვაცუუმ ცლეანერ",
+    "brand": "სენცორ",
+    "category": "მთვერსასრუთები"
+   }
+  },
+  {
+   "id": "163259",
+   "title": "Remington S6700 E51 Sleek & Curl Expert",
    "brand": "Remington",
    "category": "სილამაზე და ჯანმრთელობა",
    "latin": {
-    "title": "remington as 7500",
+    "title": "remington s 6700 e 51 sleek & curl expert",
     "brand": "remington",
     "category": "silamaze da janmrteloba"
    },
    "ka": {
-    "title": "რემინგთონ ას 7500",
+    "title": "რემინგთონ ს 6700 ე 51 სლეექ & ცურლ ეხპერთ",
     "brand": "რემინგთონ",
     "category": "სილამაზე და ჯანმრთელობა"
    }
   },
   {
-   "id": "161301",
-   "title": "Remington AS5860 E51 Botanicals Rotating Airstyler",
-   "brand": "Remington",
+   "id": "129735",
+   "title": "Sencor SHA 8400WH-EUE3",
+   "brand": "Sencor",
+   "category": "კლიმატური ტექნიკა",
+   "latin": {
+    "title": "sencor sha 8400 wh eue 3",
+    "brand": "sencor",
+    "category": "klimaturi teknika"
+   },
+   "ka": {
+    "title": "სენცორ შა 8400 ვხ ეუე 3",
+    "brand": "სენცორ",
+    "category": "ქლიმათური თექნიქა"
+   }
+  },
+  {
+   "id": "162217",
+   "title": "Sencor SDH 1028WH - Dehumidifier",
+   "brand": "Sencor",
+   "category": "კლიმატური ტექნიკა",
+   "latin": {
+    "title": "sencor sdh 1028 wh dehumidifier",
+    "brand": "sencor",
+    "category": "klimaturi teknika"
+   },
+   "ka": {
+    "title": "სენცორ სდხ 1028 ვხ დეხუმიდიფიერ",
+    "brand": "სენცორ",
+    "category": "ქლიმათური თექნიქა"
+   }
+  },
+  {
+   "id": "96051",
+   "title": "BRAUN SI3042VI",
+   "brand": "Braun",
+   "category": "უთოები",
+   "latin": {
+    "title": "braun si 3042 vi",
+    "brand": "braun",
+    "category": "utoebi"
+   },
+   "ka": {
+    "title": "ბრაუნ სი 3042 ვი",
+    "brand": "ბრაუნ",
+    "category": "უთოები"
+   }
+  },
+  {
+   "id": "163663",
+   "title": "Philips QP6552/15 One Blade",
+   "brand": "Philips",
    "category": "სილამაზე და ჯანმრთელობა",
    "latin": {
-    "title": "remington as 5860 e 51 botanicals rotating airstyler",
-    "brand": "remington",
+    "title": "philips qp 6552 15 one blade",
+    "brand": "philips",
     "category": "silamaze da janmrteloba"
    },
    "ka": {
-    "title": "რემინგთონ ას 5860 ე 51 ბოთანიცალს როთათინგ აირსთყლერ",
-    "brand": "რემინგთონ",
+    "title": "ფილიპს ყპ 6552 15 ონე ბლადე",
+    "brand": "ფილიპს",
     "category": "სილამაზე და ჯანმრთელობა"
    }
   },
   {
-   "id": "161307",
-   "title": "Remington AC9095 E51 Silk AC Dryer",
-   "brand": "Remington",
-   "category": "სილამაზე და ჯანმრთელობა",
-   "latin": {
-    "title": "remington ac 9095 e 51 silk ac dryer",
-    "brand": "remington",
-    "category": "silamaze da janmrteloba"
-   },
-   "ka": {
-    "title": "რემინგთონ აც 9095 ე 51 სილქ აც დრყერ",
-    "brand": "რემინგთონ",
-    "category": "სილამაზე და ჯანმრთელობა"
-   }
-  },
-  {
-   "id": "163257",
-   "title": "Remington S3500 E51 Ceramic Straight 230",
-   "brand": "Remington",
-   "category": "სილამაზე და ჯანმრთელობა",
-   "latin": {
-    "title": "remington s 3500 e 51 ceramic straight 230",
-    "brand": "remington",
-    "category": "silamaze da janmrteloba"
-   },
-   "ka": {
-    "title": "რემინგთონ ს 3500 ე 51 ცერამიც სთრაიგთ 230",
-    "brand": "რემინგთონ",
-    "category": "სილამაზე და ჯანმრთელობა"
-   }
-  },
-  {
-   "id": "65723",
-   "title": "Panasonic ER-GB60K520",
+   "id": "65733",
+   "title": "Panasonic ES6002A520",
    "brand": "Panasonic",
    "category": "სილამაზე და ჯანმრთელობა",
    "latin": {
-    "title": "panasonic er gb 60 k 520",
+    "title": "panasonic es 6002 a 520",
     "brand": "panasonic",
     "category": "silamaze da janmrteloba"
    },
    "ka": {
-    "title": "პანასონიც ერ გბ 60 ქ 520",
-    "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
-   }
-  },
-  {
-   "id": "65725",
-   "title": "Panasonic ER-GN30K520",
-   "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
-   "latin": {
-    "title": "panasonic er gn 30 k 520",
-    "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
-   },
-   "ka": {
-    "title": "პანასონიც ერ გნ 30 ქ 520",
-    "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
-   }
-  },
-  {
-   "id": "65730",
-   "title": "Panasonic ER206K520",
-   "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
-   "latin": {
-    "title": "panasonic er 206 k 520",
-    "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
-   },
-   "ka": {
-    "title": "პანასონიც ერ 206 ქ 520",
-    "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
-   }
-  },
-  {
-   "id": "76407",
-   "title": "Panasonic ER-1410-S520",
-   "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
-   "latin": {
-    "title": "panasonic er 1410 s 520",
-    "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
-   },
-   "ka": {
-    "title": "პანასონიც ერ 1410 ს 520",
-    "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
-   }
-  },
-  {
-   "id": "82611",
-   "title": "Panasonic ER407K520",
-   "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
-   "latin": {
-    "title": "panasonic er 407 k 520",
-    "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
-   },
-   "ka": {
-    "title": "პანასონიც ერ 407 ქ 520",
-    "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
-   }
-  },
-  {
-   "id": "65734",
-   "title": "Panasonic ES-RT37-S520",
-   "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
-   "latin": {
-    "title": "panasonic es rt 37 s 520",
-    "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
-   },
-   "ka": {
-    "title": "პანასონიც ეს რთ 37 ს 520",
+    "title": "პანასონიც ეს 6002 ა 520",
     "brand": "პანასონიც",
     "category": "სილამაზე და ჯანმრთელობა"
    }
@@ -928,371 +1136,275 @@
    }
   },
   {
-   "id": "90738",
-   "title": "Panasonic NI-M300TVTW",
-   "brand": "Panasonic",
-   "category": "უთოები",
+   "id": "156240",
+   "title": "TCL P2210FLG",
+   "brand": "TCL",
+   "category": "სარეცხი მანქანები",
    "latin": {
-    "title": "panasonic ni m 300 tvtw",
-    "brand": "panasonic",
-    "category": "utoebi"
+    "title": "tcl p 2210 flg",
+    "brand": "tcl",
+    "category": "saretskhi mankanebi"
    },
    "ka": {
-    "title": "პანასონიც ნი მ 300 თვთვ",
-    "brand": "პანასონიც",
-    "category": "უთოები"
+    "title": "თცლ პ 2210 ფლგ",
+    "brand": "თცლ",
+    "category": "სარეცხი მანქანები"
    }
   },
   {
-   "id": "94635",
-   "title": "Braun SI 3030 PU",
-   "brand": "Braun",
-   "category": "უთოები",
+   "id": "158942",
+   "title": "LG GC-GR-B509FMFW.APYQMER Silver",
+   "brand": "LG",
+   "category": "მაცივრები",
    "latin": {
-    "title": "braun si 3030 pu",
-    "brand": "braun",
-    "category": "utoebi"
+    "title": "lg gc gr b 509 fmfw apyqmer silver",
+    "brand": "lg",
+    "category": "matsivrebi"
    },
    "ka": {
-    "title": "ბრაუნ სი 3030 პუ",
-    "brand": "ბრაუნ",
-    "category": "უთოები"
+    "title": "ლგ გც გრ ბ 509 ფმფვ აპყყმერ სილვერ",
+    "brand": "ლგ",
+    "category": "მაცივრები"
    }
   },
   {
-   "id": "113770",
-   "title": "Braun SI3053BL",
-   "brand": "Braun",
-   "category": "უთოები",
+   "id": "160575",
+   "title": "TCL P275BFW",
+   "brand": "TCL",
+   "category": "მაცივრები",
    "latin": {
-    "title": "braun si 3053 bl",
-    "brand": "braun",
-    "category": "utoebi"
+    "title": "tcl p 275 bfw",
+    "brand": "tcl",
+    "category": "matsivrebi"
    },
    "ka": {
-    "title": "ბრაუნ სი 3053 ბლ",
-    "brand": "ბრაუნ",
-    "category": "უთოები"
+    "title": "თცლ პ 275 ბფვ",
+    "brand": "თცლ",
+    "category": "მაცივრები"
    }
   },
   {
-   "id": "161368",
-   "title": "Russell Hobbs 23912-70/RH Adventure Kettle Bru 2.4kW",
-   "brand": "Russell Hobbs",
-   "category": "ელექტროჩაიდნები",
+   "id": "168764",
+   "title": "Toshiba TW-BK100GF4UZ(WK)",
+   "brand": "Toshiba",
+   "category": "სარეცხი მანქანები",
    "latin": {
-    "title": "russell hobbs 23912 70 rh adventure kettle bru 2 4 kw",
-    "brand": "russell hobbs",
-    "category": "elektrochaidnebi"
+    "title": "toshiba tw bk 100 gf 4 uz wk",
+    "brand": "toshiba",
+    "category": "saretskhi mankanebi"
    },
    "ka": {
-    "title": "რუსსელლ ხობბს 23912 70 რხ ადვენთურე ქეთთლე ბრუ 2 4 ქვ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "ელექთროჩაიდნები"
+    "title": "თოშიბა თვ ბქ 100 გფ 4 უზ ვქ",
+    "brand": "თოშიბა",
+    "category": "სარეცხი მანქანები"
    }
   },
   {
-   "id": "161371",
-   "title": "Russell Hobbs 26061-56/RH Honeycomb 2S Toaster Black",
-   "brand": "Russell Hobbs",
-   "category": "ტოსტერები",
+   "id": "154704",
+   "title": "AEG LWR73164Q White",
+   "brand": "AEG",
+   "category": "სარეცხი მანქანები",
    "latin": {
-    "title": "russell hobbs 26061 56 rh honeycomb 2 s toaster black",
-    "brand": "russell hobbs",
-    "category": "tosterebi"
+    "title": "aeg lwr 73164 q white",
+    "brand": "aeg",
+    "category": "saretskhi mankanebi"
    },
    "ka": {
-    "title": "რუსსელლ ხობბს 26061 56 რხ ხონეყცომბ 2 ს თოასთერ ბლაცქ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "თოსთერები"
+    "title": "აეგ ლვრ 73164 ყ ვხითე",
+    "brand": "აეგ",
+    "category": "სარეცხი მანქანები"
    }
   },
   {
-   "id": "161372",
-   "title": "Russell Hobbs 26810-56/RH 3 in 1 Sandwich Maker",
-   "brand": "Russell Hobbs",
-   "category": "სენდვიჩმეიკერები",
+   "id": "175318",
+   "title": "LG F2Y2HYP6J.AMBQME2 - Middle Black",
+   "brand": "LG",
+   "category": "სარეცხი მანქანები",
    "latin": {
-    "title": "russell hobbs 26810 56 rh 3 in 1 sandwich maker",
-    "brand": "russell hobbs",
-    "category": "sendvichmeikerebi"
+    "title": "lg f 2 y 2 hyp 6 j ambqme 2 middle black",
+    "brand": "lg",
+    "category": "saretskhi mankanebi"
    },
    "ka": {
-    "title": "რუსსელლ ხობბს 26810 56 რხ 3 ინ 1 სანდვიჩ მაქერ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "სენდვიჩმეიქერები"
+    "title": "ლგ ფ 2 ყ 2 ხყპ 6 ჯ ამბყმე 2 მიდდლე ბლაცქ",
+    "brand": "ლგ",
+    "category": "სარეცხი მანქანები"
    }
   },
   {
-   "id": "161373",
-   "title": "Russell Hobbs 24080-56/RH Adventure 2SL Toaster BRU",
-   "brand": "Russell Hobbs",
-   "category": "ტოსტერები",
+   "id": "172565",
+   "title": "Toshiba TW-BN80C2UZ(WK)",
+   "brand": "Toshiba",
+   "category": "სარეცხი მანქანები",
    "latin": {
-    "title": "russell hobbs 24080 56 rh adventure 2 sl toaster bru",
-    "brand": "russell hobbs",
-    "category": "tosterebi"
+    "title": "toshiba tw bn 80 c 2 uz wk",
+    "brand": "toshiba",
+    "category": "saretskhi mankanebi"
    },
    "ka": {
-    "title": "რუსსელლ ხობბს 24080 56 რხ ადვენთურე 2 სლ თოასთერ ბრუ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "თოსთერები"
+    "title": "თოშიბა თვ ბნ 80 ც 2 უზ ვქ",
+    "brand": "თოშიბა",
+    "category": "სარეცხი მანქანები"
    }
   },
   {
-   "id": "161376",
-   "title": "Russell Hobbs 24371-56/RH Inspire 2SL Toaster Black",
-   "brand": "Russell Hobbs",
-   "category": "ტოსტერები",
+   "id": "163337",
+   "title": "Electrolux EEM48300L",
+   "brand": "Electrolux",
+   "category": "ჩასაშენებელი ჭურჭლის სარეცხი მანქანები",
    "latin": {
-    "title": "russell hobbs 24371 56 rh inspire 2 sl toaster black",
-    "brand": "russell hobbs",
-    "category": "tosterebi"
+    "title": "electrolux eem 48300 l",
+    "brand": "electrolux",
+    "category": "chasashenebeli churchlis saretskhi mankanebi"
    },
    "ka": {
-    "title": "რუსსელლ ხობბს 24371 56 რხ ინსპირე 2 სლ თოასთერ ბლაცქ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "თოსთერები"
+    "title": "ელეცთროლუხ ეემ 48300 ლ",
+    "brand": "ელეცთროლუხ",
+    "category": "ჩასაშენებელი ჩურჩლის სარეცხი მანქანები"
    }
   },
   {
-   "id": "161378",
-   "title": "Russell Hobbs 24620-56/RH",
-   "brand": "Russell Hobbs",
-   "category": "ვაფლის აპარატები",
-   "latin": {
-    "title": "russell hobbs 24620 56 rh",
-    "brand": "russell hobbs",
-    "category": "vaflis aparatebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 24620 56 რხ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "ვაფლის აპარათები"
-   }
-  },
-  {
-   "id": "161381",
-   "title": "Russell Hobbs 24630-56/RH Fiesta Popcorn Maker",
-   "brand": "Russell Hobbs",
-   "category": "პოპკორნის აპარატები",
-   "latin": {
-    "title": "russell hobbs 24630 56 rh fiesta popcorn maker",
-    "brand": "russell hobbs",
-    "category": "popkornis aparatebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 24630 56 რხ ფიესთა პოპცორნ მაქერ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "პოპქორნის აპარათები"
-   }
-  },
-  {
-   "id": "161387",
-   "title": "Russell Hobbs 26430-56/RH Distinctions 2S Toaster Blk",
-   "brand": "Russell Hobbs",
-   "category": "ტოსტერები",
-   "latin": {
-    "title": "russell hobbs 26430 56 rh distinctions 2 s toaster blk",
-    "brand": "russell hobbs",
-    "category": "tosterebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 26430 56 რხ დისთინცთიონს 2 ს თოასთერ ბლქ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "თოსთერები"
-   }
-  },
-  {
-   "id": "161390",
-   "title": "Russell Hobbs 26520-56/RH SatisFry Air&Grill Multi 5.5",
-   "brand": "Russell Hobbs",
-   "category": "აეროგრილები",
-   "latin": {
-    "title": "russell hobbs 26520 56 rh satisfry air&grill multi 5 5",
-    "brand": "russell hobbs",
-    "category": "aerogrilebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 26520 56 რხ სათისფრყ აირ&გრილლ მულთი 5 5",
-    "brand": "რუსსელლ ხობბს",
-    "category": "აეროგრილები"
-   }
-  },
-  {
-   "id": "161391",
-   "title": "Russell Hobbs 26510-56/RH SatisFry Air Large 5L",
-   "brand": "Russell Hobbs",
-   "category": "აეროგრილები",
-   "latin": {
-    "title": "russell hobbs 26510 56 rh satisfry air large 5 l",
-    "brand": "russell hobbs",
-    "category": "aerogrilebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 26510 56 რხ სათისფრყ აირ ლარგე 5 ლ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "აეროგრილები"
-   }
-  },
-  {
-   "id": "161394",
-   "title": "Russell Hobbs 26450-56/RH Distinctions Espresso Black",
-   "brand": "Russell Hobbs",
-   "category": "ყავის აპარატები",
-   "latin": {
-    "title": "russell hobbs 26450 56 rh distinctions espresso black",
-    "brand": "russell hobbs",
-    "category": "qavis aparatebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 26450 56 რხ დისთინცთიონს ესპრესსო ბლაცქ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "ყავის აპარათები"
-   }
-  },
-  {
-   "id": "161395",
-   "title": "Russell Hobbs 21274-70/RH Textures Kettle Grey 2.4kW",
-   "brand": "Russell Hobbs",
-   "category": "ელექტროჩაიდნები",
-   "latin": {
-    "title": "russell hobbs 21274 70 rh textures kettle grey 2 4 kw",
-    "brand": "russell hobbs",
-    "category": "elektrochaidnebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 21274 70 რხ თეხთურეს ქეთთლე გრეყ 2 4 ქვ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "ელექთროჩაიდნები"
-   }
-  },
-  {
-   "id": "161396",
-   "title": "Russell Hobbs 27160-56/RH SatisFry Air Medium 4L",
-   "brand": "Russell Hobbs",
-   "category": "აეროგრილები",
-   "latin": {
-    "title": "russell hobbs 27160 56 rh satisfry air medium 4 l",
-    "brand": "russell hobbs",
-    "category": "aerogrilebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 27160 56 რხ სათისფრყ აირ მედიუმ 4 ლ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "აეროგრილები"
-   }
-  },
-  {
-   "id": "155878",
-   "title": "Samsung MC32DG7646KKBW - Black",
+   "id": "167836",
+   "title": "Samsung WW80AG6L28WELP",
    "brand": "Samsung",
-   "category": "მიკროტალღური ღუმელები",
+   "category": "სარეცხი მანქანები",
    "latin": {
-    "title": "samsung mc 32 dg 7646 kkbw black",
+    "title": "samsung ww 80 ag 6 l 28 welp",
     "brand": "samsung",
-    "category": "mikrotalghuri ghumelebi"
+    "category": "saretskhi mankanebi"
    },
    "ka": {
-    "title": "სამსუნგ მც 32 დგ 7646 ქქბვ ბლაცქ",
+    "title": "სამსუნგ ვვ 80 აგ 6 ლ 28 ველპ",
     "brand": "სამსუნგ",
-    "category": "მიქროთალგური გუმელები"
+    "category": "სარეცხი მანქანები"
    }
   },
   {
-   "id": "140652",
-   "title": "Electrolux E4HB1-6GG",
-   "brand": "Electrolux",
-   "category": "ბლენდერები",
+   "id": "117358",
+   "title": "Samsung DV90T6240LX/LP",
+   "brand": "Samsung",
+   "category": "საშრობი მანქანები",
    "latin": {
-    "title": "electrolux e 4 hb 1 6 gg",
-    "brand": "electrolux",
-    "category": "blenderebi"
+    "title": "samsung dv 90 t 6240 lx lp",
+    "brand": "samsung",
+    "category": "sashrobi mankanebi"
    },
    "ka": {
-    "title": "ელეცთროლუხ ე 4 ხბ 1 6 გგ",
-    "brand": "ელეცთროლუხ",
-    "category": "ბლენდერები"
+    "title": "სამსუნგ დვ 90 თ 6240 ლხ ლპ",
+    "brand": "სამსუნგ",
+    "category": "საშრობი მანქანები"
    }
   },
   {
-   "id": "145998",
-   "title": "Electrolux E3K1-3ST",
-   "brand": "Electrolux",
-   "category": "ელექტროჩაიდნები",
+   "id": "163363",
+   "title": "AEG FSB72907P",
+   "brand": "AEG",
+   "category": "ჩასაშენებელი ჭურჭლის სარეცხი მანქანები",
    "latin": {
-    "title": "electrolux e 3 k 1 3 st",
-    "brand": "electrolux",
-    "category": "elektrochaidnebi"
+    "title": "aeg fsb 72907 p",
+    "brand": "aeg",
+    "category": "chasashenebeli churchlis saretskhi mankanebi"
    },
    "ka": {
-    "title": "ელეცთროლუხ ე 3 ქ 1 3 სთ",
-    "brand": "ელეცთროლუხ",
-    "category": "ელექთროჩაიდნები"
+    "title": "აეგ ფსბ 72907 პ",
+    "brand": "აეგ",
+    "category": "ჩასაშენებელი ჩურჩლის სარეცხი მანქანები"
    }
   },
   {
-   "id": "152130",
-   "title": "Electrolux EAF3B",
+   "id": "171426",
+   "title": "Electrolux ESM48310SW",
    "brand": "Electrolux",
-   "category": "აეროგრილები",
+   "category": "ჭურჭლის სარეცხი მანქანები",
    "latin": {
-    "title": "electrolux eaf 3 b",
+    "title": "electrolux esm 48310 sw",
     "brand": "electrolux",
-    "category": "aerogrilebi"
+    "category": "churchlis saretskhi mankanebi"
    },
    "ka": {
-    "title": "ელეცთროლუხ ეაფ 3 ბ",
+    "title": "ელეცთროლუხ ესმ 48310 სვ",
     "brand": "ელეცთროლუხ",
-    "category": "აეროგრილები"
+    "category": "ჩურჩლის სარეცხი მანქანები"
    }
   },
   {
-   "id": "159116",
-   "title": "Electrolux E6EC1-6BST Espresso",
+   "id": "171667",
+   "title": "Electrolux EEA23200L",
    "brand": "Electrolux",
+   "category": "ჩასაშენებელი ჭურჭლის სარეცხი მანქანები",
+   "latin": {
+    "title": "electrolux eea 23200 l",
+    "brand": "electrolux",
+    "category": "chasashenebeli churchlis saretskhi mankanebi"
+   },
+   "ka": {
+    "title": "ელეცთროლუხ ეეა 23200 ლ",
+    "brand": "ელეცთროლუხ",
+    "category": "ჩასაშენებელი ჩურჩლის სარეცხი მანქანები"
+   }
+  },
+  {
+   "id": "140877",
+   "title": "DeLonghi Eletta Explore (ECAM450.65.G)",
+   "brand": "DeLonghi",
    "category": "ყავის აპარატები",
    "latin": {
-    "title": "electrolux e 6 ec 1 6 bst espresso",
-    "brand": "electrolux",
+    "title": "delonghi eletta explore ecam 450 65 g",
+    "brand": "delonghi",
     "category": "qavis aparatebi"
    },
    "ka": {
-    "title": "ელეცთროლუხ ე 6 ეც 1 6 ბსთ ესპრესსო",
-    "brand": "ელეცთროლუხ",
+    "title": "დელონგი ელეთთა ეხპლორე ეცამ 450 65 გ",
+    "brand": "დელონგი",
     "category": "ყავის აპარათები"
    }
   },
   {
-   "id": "167396",
-   "title": "Electrolux EAF12B Air Fryer",
+   "id": "165728",
+   "title": "Sencor SES 4910SS Espresso Machine",
+   "brand": "Sencor",
+   "category": "ყავის აპარატები",
+   "latin": {
+    "title": "sencor ses 4910 ss espresso machine",
+    "brand": "sencor",
+    "category": "qavis aparatebi"
+   },
+   "ka": {
+    "title": "სენცორ სეს 4910 სს ესპრესსო მაჩინე",
+    "brand": "სენცორ",
+    "category": "ყავის აპარათები"
+   }
+  },
+  {
+   "id": "152127",
+   "title": "Electrolux EAF7B Air Fryer",
    "brand": "Electrolux",
    "category": "აეროგრილები",
    "latin": {
-    "title": "electrolux eaf 12 b air fryer",
+    "title": "electrolux eaf 7 b air fryer",
     "brand": "electrolux",
     "category": "aerogrilebi"
    },
    "ka": {
-    "title": "ელეცთროლუხ ეაფ 12 ბ აირ ფრყერ",
+    "title": "ელეცთროლუხ ეაფ 7 ბ აირ ფრყერ",
     "brand": "ელეცთროლუხ",
     "category": "აეროგრილები"
    }
   },
   {
-   "id": "106188",
-   "title": "Sencor SCG 1050WH",
+   "id": "175922",
+   "title": "Sencor SSJ 8050SS",
    "brand": "Sencor",
-   "category": "ყავის საფქვავები",
+   "category": "წვენსაწურები",
    "latin": {
-    "title": "sencor scg 1050 wh",
+    "title": "sencor ssj 8050 ss",
     "brand": "sencor",
-    "category": "qavis safkvavebi"
+    "category": "tsvensatsurebi"
    },
    "ka": {
-    "title": "სენცორ სცგ 1050 ვხ",
+    "title": "სენცორ სსჯ 8050 სს",
     "brand": "სენცორ",
-    "category": "ყავის საფქვავები"
+    "category": "ცვენსაცურები"
    }
   },
   {
@@ -1312,1234 +1424,738 @@
    }
   },
   {
-   "id": "122624",
-   "title": "Sencor SFD 851GR Food Dehydrator",
+   "id": "158526",
+   "title": "Sencor SRM 0650SS",
    "brand": "Sencor",
-   "category": "ხილის საშრობები",
+   "category": "ბრინჯის მადუღარები",
    "latin": {
-    "title": "sencor sfd 851 gr food dehydrator",
+    "title": "sencor srm 0650 ss",
     "brand": "sencor",
-    "category": "khilis sashrobebi"
+    "category": "brinjis madugharebi"
    },
    "ka": {
-    "title": "სენცორ სფდ 851 გრ ფოოდ დეხყდრათორ",
+    "title": "სენცორ სრმ 0650 სს",
     "brand": "სენცორ",
-    "category": "ხილის საშრობები"
+    "category": "ბრინჯის მადუგარები"
    }
   },
   {
-   "id": "125133",
-   "title": "Sencor STM 6359BK",
+   "id": "113749",
+   "title": "Sencor SSM 9410SS",
    "brand": "Sencor",
-   "category": "სამზარეულოს კომბაინები",
+   "category": "სენდვიჩმეიკერები",
    "latin": {
-    "title": "sencor stm 6359 bk",
+    "title": "sencor ssm 9410 ss",
     "brand": "sencor",
-    "category": "samzareulos kombainebi"
+    "category": "sendvichmeikerebi"
    },
    "ka": {
-    "title": "სენცორ სთმ 6359 ბქ",
+    "title": "სენცორ სსმ 9410 სს",
     "brand": "სენცორ",
-    "category": "სამზარეულოს ქომბაინები"
+    "category": "სენდვიჩმეიქერები"
    }
   },
   {
-   "id": "129733",
-   "title": "Sencor SEO 2000BK",
-   "brand": "Sencor",
-   "category": "ღუმელები",
-   "latin": {
-    "title": "sencor seo 2000 bk",
-    "brand": "sencor",
-    "category": "ghumelebi"
-   },
-   "ka": {
-    "title": "სენცორ სეო 2000 ბქ",
-    "brand": "სენცორ",
-    "category": "გუმელები"
-   }
-  },
-  {
-   "id": "141628",
-   "title": "Sencor SCE 2100BK",
-   "brand": "Sencor",
-   "category": "ყავის პრესები",
-   "latin": {
-    "title": "sencor sce 2100 bk",
-    "brand": "sencor",
-    "category": "qavis presebi"
-   },
-   "ka": {
-    "title": "სენცორ სცე 2100 ბქ",
-    "brand": "სენცორ",
-    "category": "ყავის პრესები"
-   }
-  },
-  {
-   "id": "157724",
-   "title": "Sencor SHM 5400WH",
+   "id": "129728",
+   "title": "Sencor SHM 5207SS",
    "brand": "Sencor",
    "category": "მიქსერები",
    "latin": {
-    "title": "sencor shm 5400 wh",
+    "title": "sencor shm 5207 ss",
     "brand": "sencor",
     "category": "mikserebi"
    },
    "ka": {
-    "title": "სენცორ შმ 5400 ვხ",
+    "title": "სენცორ შმ 5207 სს",
     "brand": "სენცორ",
     "category": "მიქსერები"
    }
   },
   {
-   "id": "165721",
-   "title": "Sencor SRM 2000WH Low Carb Rice Cooker",
-   "brand": "Sencor",
-   "category": "მულტიქვაბები",
-   "latin": {
-    "title": "sencor srm 2000 wh low carb rice cooker",
-    "brand": "sencor",
-    "category": "multikvabebi"
-   },
-   "ka": {
-    "title": "სენცორ სრმ 2000 ვხ ლოვ ცარბ რიცე ცოოქერ",
-    "brand": "სენცორ",
-    "category": "მულთიქვაბები"
-   }
-  },
-  {
-   "id": "165733",
-   "title": "Sencor SMF 2030WH Milk Frother",
-   "brand": "Sencor",
-   "category": "რძის ამომყვანები",
-   "latin": {
-    "title": "sencor smf 2030 wh milk frother",
-    "brand": "sencor",
-    "category": "rdzis amomqvanebi"
-   },
-   "ka": {
-    "title": "სენცორ სმფ 2030 ვხ მილქ ფროთხერ",
-    "brand": "სენცორ",
-    "category": "რზის ამომყვანები"
-   }
-  },
-  {
-   "id": "165735",
-   "title": "Sencor SFR 5510BK Air Fryer",
-   "brand": "Sencor",
+   "id": "161396",
+   "title": "Russell Hobbs 27160-56/RH SatisFry Air Medium 4L",
+   "brand": "Russell Hobbs",
    "category": "აეროგრილები",
    "latin": {
-    "title": "sencor sfr 5510 bk air fryer",
-    "brand": "sencor",
+    "title": "russell hobbs 27160 56 rh satisfry air medium 4 l",
+    "brand": "russell hobbs",
     "category": "aerogrilebi"
    },
    "ka": {
-    "title": "სენცორ სფრ 5510 ბქ აირ ფრყერ",
-    "brand": "სენცორ",
+    "title": "რუსსელლ ხობბს 27160 56 რხ სათისფრყ აირ მედიუმ 4 ლ",
+    "brand": "რუსსელლ ხობბს",
     "category": "აეროგრილები"
    }
   },
   {
-   "id": "168748",
-   "title": "Sencor STM 3740WH",
-   "brand": "Sencor",
-   "category": "სამზარეულოს კომბაინები",
+   "id": "161368",
+   "title": "Russell Hobbs 23912-70/RH Adventure Kettle Bru 2.4kW",
+   "brand": "Russell Hobbs",
+   "category": "ელექტროჩაიდნები",
    "latin": {
-    "title": "sencor stm 3740 wh",
-    "brand": "sencor",
-    "category": "samzareulos kombainebi"
+    "title": "russell hobbs 23912 70 rh adventure kettle bru 2 4 kw",
+    "brand": "russell hobbs",
+    "category": "elektrochaidnebi"
    },
    "ka": {
-    "title": "სენცორ სთმ 3740 ვხ",
-    "brand": "სენცორ",
-    "category": "სამზარეულოს ქომბაინები"
+    "title": "რუსსელლ ხობბს 23912 70 რხ ადვენთურე ქეთთლე ბრუ 2 4 ქვ",
+    "brand": "რუსსელლ ხობბს",
+    "category": "ელექთროჩაიდნები"
    }
   },
   {
-   "id": "98840",
-   "title": "Sencor STM 6351GR",
-   "brand": "Sencor",
-   "category": "სამზარეულოს კომბაინები",
+   "id": "161378",
+   "title": "Russell Hobbs 24620-56/RH",
+   "brand": "Russell Hobbs",
+   "category": "ვაფლის აპარატები",
    "latin": {
-    "title": "sencor stm 6351 gr",
-    "brand": "sencor",
-    "category": "samzareulos kombainebi"
+    "title": "russell hobbs 24620 56 rh",
+    "brand": "russell hobbs",
+    "category": "vaflis aparatebi"
    },
    "ka": {
-    "title": "სენცორ სთმ 6351 გრ",
-    "brand": "სენცორ",
-    "category": "სამზარეულოს ქომბაინები"
+    "title": "რუსსელლ ხობბს 24620 56 რხ",
+    "brand": "რუსსელლ ხობბს",
+    "category": "ვაფლის აპარათები"
    }
   },
   {
-   "id": "98865",
-   "title": "Sencor STS 6058BK",
-   "brand": "Sencor",
+   "id": "161390",
+   "title": "Russell Hobbs 26520-56/RH SatisFry Air&Grill Multi 5.5",
+   "brand": "Russell Hobbs",
+   "category": "აეროგრილები",
+   "latin": {
+    "title": "russell hobbs 26520 56 rh satisfry air&grill multi 5 5",
+    "brand": "russell hobbs",
+    "category": "aerogrilebi"
+   },
+   "ka": {
+    "title": "რუსსელლ ხობბს 26520 56 რხ სათისფრყ აირ&გრილლ მულთი 5 5",
+    "brand": "რუსსელლ ხობბს",
+    "category": "აეროგრილები"
+   }
+  },
+  {
+   "id": "161375",
+   "title": "Russell Hobbs 27350-56/RH Essentials Air Fryer",
+   "brand": "Russell Hobbs",
+   "category": "აეროგრილები",
+   "latin": {
+    "title": "russell hobbs 27350 56 rh essentials air fryer",
+    "brand": "russell hobbs",
+    "category": "aerogrilebi"
+   },
+   "ka": {
+    "title": "რუსსელლ ხობბს 27350 56 რხ ესსენთიალს აირ ფრყერ",
+    "brand": "რუსსელლ ხობბს",
+    "category": "აეროგრილები"
+   }
+  },
+  {
+   "id": "161367",
+   "title": "Russell Hobbs 26060-56/RH Honeycomb 2S Toaster White",
+   "brand": "Russell Hobbs",
    "category": "ტოსტერები",
    "latin": {
-    "title": "sencor sts 6058 bk",
-    "brand": "sencor",
+    "title": "russell hobbs 26060 56 rh honeycomb 2 s toaster white",
+    "brand": "russell hobbs",
     "category": "tosterebi"
    },
    "ka": {
-    "title": "სენცორ სც 6058 ბქ",
-    "brand": "სენცორ",
+    "title": "რუსსელლ ხობბს 26060 56 რხ ხონეყცომბ 2 ს თოასთერ ვხითე",
+    "brand": "რუსსელლ ხობბს",
     "category": "თოსთერები"
    }
   },
   {
-   "id": "98873",
-   "title": "Sencor SWK 1773VT",
-   "brand": "Sencor",
-   "category": "ელექტროჩაიდნები",
+   "id": "156818",
+   "title": "Canyon DVR25 Car Video Recorder",
+   "brand": "Canyon",
+   "category": "ვიდეორეგისტრატორები",
    "latin": {
-    "title": "sencor swk 1773 vt",
-    "brand": "sencor",
-    "category": "elektrochaidnebi"
+    "title": "canyon dvr 25 car video recorder",
+    "brand": "canyon",
+    "category": "videoregistratorebi"
    },
    "ka": {
-    "title": "სენცორ სვქ 1773 ვთ",
-    "brand": "სენცორ",
-    "category": "ელექთროჩაიდნები"
+    "title": "ცანყონ დვრ 25 ცარ ვიდეო რეცორდერ",
+    "brand": "ცანყონ",
+    "category": "ვიდეორეგისთრათორები"
    }
   },
   {
-   "id": "99684",
-   "title": "Sencor SHB 4310",
-   "brand": "Sencor",
-   "category": "ჩოპერები",
+   "id": "171671",
+   "title": "70MAI Dash Cam M510",
+   "brand": "70mai",
+   "category": "ვიდეორეგისტრატორები",
    "latin": {
-    "title": "sencor shb 4310",
-    "brand": "sencor",
-    "category": "choperebi"
+    "title": "70 mai dash cam m 510",
+    "brand": "70 mai",
+    "category": "videoregistratorebi"
    },
    "ka": {
-    "title": "სენცორ შბ 4310",
-    "brand": "სენცორ",
-    "category": "ჩოპერები"
+    "title": "70 მაი დაშ ცამ მ 510",
+    "brand": "70 მაი",
+    "category": "ვიდეორეგისთრათორები"
    }
   },
   {
-   "id": "148463",
-   "title": "Philips EP2236/40",
-   "brand": "Philips",
-   "category": "ყავის აპარატები",
+   "id": "171666",
+   "title": "70MAI Dash Cam M310",
+   "brand": "70mai",
+   "category": "ვიდეორეგისტრატორები",
    "latin": {
-    "title": "philips ep 2236 40",
-    "brand": "philips",
-    "category": "qavis aparatebi"
+    "title": "70 mai dash cam m 310",
+    "brand": "70 mai",
+    "category": "videoregistratorebi"
    },
    "ka": {
-    "title": "ფილიპს ეპ 2236 40",
-    "brand": "ფილიპს",
-    "category": "ყავის აპარათები"
+    "title": "70 მაი დაშ ცამ მ 310",
+    "brand": "70 მაი",
+    "category": "ვიდეორეგისთრათორები"
    }
   },
   {
-   "id": "149326",
-   "title": "Philips HD9243/90",
-   "brand": "Philips",
-   "category": "აეროგრილები",
+   "id": "142601",
+   "title": "Razer Laptop Stand (RC21-01110100-W3M1) - Black",
+   "brand": "Razer",
+   "category": "გამაგრილებელი სადგამები",
    "latin": {
-    "title": "philips hd 9243 90",
-    "brand": "philips",
-    "category": "aerogrilebi"
+    "title": "razer laptop stand rc 21 01110100 w 3 m 1 black",
+    "brand": "razer",
+    "category": "gamagrilebeli sadgamebi"
    },
    "ka": {
-    "title": "ფილიპს ხდ 9243 90",
-    "brand": "ფილიპს",
-    "category": "აეროგრილები"
+    "title": "რაზერ ლაპთოპ სთანდ რც 21 01110100 ვ 3 მ 1 ბლაცქ",
+    "brand": "რაზერ",
+    "category": "გამაგრილებელი სადგამები"
    }
   },
   {
-   "id": "150738",
-   "title": "Philips HD9350/90 1.7 L Capacity 2200W",
-   "brand": "Philips",
-   "category": "ელექტროჩაიდნები",
-   "latin": {
-    "title": "philips hd 9350 90 1 7 l capacity 2200 w",
-    "brand": "philips",
-    "category": "elektrochaidnebi"
-   },
-   "ka": {
-    "title": "ფილიპს ხდ 9350 90 1 7 ლ ცაპაცითყ 2200 ვ",
-    "brand": "ფილიპს",
-    "category": "ელექთროჩაიდნები"
-   }
-  },
-  {
-   "id": "113493",
-   "title": "Panasonic NN-ST34HWZPE",
-   "brand": "Panasonic",
-   "category": "მიკროტალღური ღუმელები",
-   "latin": {
-    "title": "panasonic nn st 34 hwzpe",
-    "brand": "panasonic",
-    "category": "mikrotalghuri ghumelebi"
-   },
-   "ka": {
-    "title": "პანასონიც ნნ სთ 34 ხვზპე",
-    "brand": "პანასონიც",
-    "category": "მიქროთალგური გუმელები"
-   }
-  },
-  {
-   "id": "125617",
-   "title": "Panasonic NN-C69MSZPE",
-   "brand": "Panasonic",
-   "category": "მიკროტალღური ღუმელები",
-   "latin": {
-    "title": "panasonic nn c 69 mszpe",
-    "brand": "panasonic",
-    "category": "mikrotalghuri ghumelebi"
-   },
-   "ka": {
-    "title": "პანასონიც ნნ ც 69 მსზპე",
-    "brand": "პანასონიც",
-    "category": "მიქროთალგური გუმელები"
-   }
-  },
-  {
-   "id": "166434",
-   "title": "Panasonic NN-ST34HMZUE",
-   "brand": "Panasonic",
-   "category": "მიკროტალღური ღუმელები",
-   "latin": {
-    "title": "panasonic nn st 34 hmzue",
-    "brand": "panasonic",
-    "category": "mikrotalghuri ghumelebi"
-   },
-   "ka": {
-    "title": "პანასონიც ნნ სთ 34 ხმზუე",
-    "brand": "პანასონიც",
-    "category": "მიქროთალგური გუმელები"
-   }
-  },
-  {
-   "id": "168089",
-   "title": "Panasonic MX-EP3111WTQ",
-   "brand": "Panasonic",
-   "category": "ბლენდერები",
-   "latin": {
-    "title": "panasonic mx ep 3111 wtq",
-    "brand": "panasonic",
-    "category": "blenderebi"
-   },
-   "ka": {
-    "title": "პანასონიც მხ ეპ 3111 ვთყ",
-    "brand": "პანასონიც",
-    "category": "ბლენდერები"
-   }
-  },
-  {
-   "id": "66741",
-   "title": "Panasonic MK-MG1510WTQ",
-   "brand": "Panasonic",
-   "category": "ხორცსაკეპები",
-   "latin": {
-    "title": "panasonic mk mg 1510 wtq",
-    "brand": "panasonic",
-    "category": "khortssakepebi"
-   },
-   "ka": {
-    "title": "პანასონიც მქ მგ 1510 ვთყ",
-    "brand": "პანასონიც",
-    "category": "ხორცსაქეპები"
-   }
-  },
-  {
-   "id": "151189",
-   "title": "Smarton HM 020 Hot Dog Maker",
-   "brand": "Smarton",
-   "category": "ჰოთ-დოგის აპარატები",
-   "latin": {
-    "title": "smarton hm 020 hot dog maker",
-    "brand": "smarton",
-    "category": "hot dogis aparatebi"
-   },
-   "ka": {
-    "title": "სმართონ ხმ 020 ხოთ დოგ მაქერ",
-    "brand": "სმართონ",
-    "category": "ხოთ დოგის აპარათები"
-   }
-  },
-  {
-   "id": "151190",
-   "title": "Smarton HM 050 Hot Dog Maker",
-   "brand": "Smarton",
-   "category": "ჰოთ-დოგის აპარატები",
-   "latin": {
-    "title": "smarton hm 050 hot dog maker",
-    "brand": "smarton",
-    "category": "hot dogis aparatebi"
-   },
-   "ka": {
-    "title": "სმართონ ხმ 050 ხოთ დოგ მაქერ",
-    "brand": "სმართონ",
-    "category": "ხოთ დოგის აპარათები"
-   }
-  },
-  {
-   "id": "71257",
-   "title": "FRANKO FBL-1012",
-   "brand": "Franko",
-   "category": "ბლენდერები",
-   "latin": {
-    "title": "franko fbl 1012",
-    "brand": "franko",
-    "category": "blenderebi"
-   },
-   "ka": {
-    "title": "ფრანქო ფბლ 1012",
-    "brand": "ფრანქო",
-    "category": "ბლენდერები"
-   }
-  },
-  {
-   "id": "71259",
-   "title": "FRANKO FBL-1037",
-   "brand": "Franko",
-   "category": "ბლენდერები",
-   "latin": {
-    "title": "franko fbl 1037",
-    "brand": "franko",
-    "category": "blenderebi"
-   },
-   "ka": {
-    "title": "ფრანქო ფბლ 1037",
-    "brand": "ფრანქო",
-    "category": "ბლენდერები"
-   }
-  },
-  {
-   "id": "170907",
-   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - Black",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 17 e sim only 8 gb 256 gb black",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ ბლაცქ",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "171322",
-   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - Mist Blue",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 17 e sim only 8 gb 256 gb mist blue",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ მისთ ბლუე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "171321",
-   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - Sage",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 17 e sim only 8 gb 256 gb sage",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ საგე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "170908",
-   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - White",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 17 e sim only 8 gb 256 gb white",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ ვხითე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "170906",
-   "title": "Apple iPhone 17 Pro e-Sim Only 12GB/256GB - Cosmic Orange",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 17 pro e sim only 12 gb 256 gb cosmic orange",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 17 პრო ე სიმ ონლყ 12 გბ 256 გბ ცოსმიც ორანგე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "170905",
-   "title": "Apple iPhone 17 Pro e-Sim Only 12GB/256GB - Deep Blue",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 17 pro e sim only 12 gb 256 gb deep blue",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 17 პრო ე სიმ ონლყ 12 გბ 256 გბ დეეპ ბლუე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "170898",
-   "title": "Apple iPhone 17 Pro e-Sim Only 12GB/256GB - Silver",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 17 pro e sim only 12 gb 256 gb silver",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 17 პრო ე სიმ ონლყ 12 გბ 256 გბ სილვერ",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "170902",
-   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/256GB - Cosmic Orange",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 17 pro max e sim only 12 gb 256 gb cosmic orange",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 256 გბ ცოსმიც ორანგე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "170901",
-   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/256GB - Deep Blue",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 17 pro max e sim only 12 gb 256 gb deep blue",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 256 გბ დეეპ ბლუე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "171022",
-   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/256GB - Silver",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 17 pro max e sim only 12 gb 256 gb silver",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 256 გბ სილვერ",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "169769",
-   "title": "Apple iPhone 17 Pro 12GB/256GB - Cosmic Orange",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 17 pro 12 gb 256 gb cosmic orange",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 17 პრო 12 გბ 256 გბ ცოსმიც ორანგე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "169792",
-   "title": "Apple iPhone Air 12GB/256GB - Sky Blue",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone air 12 gb 256 gb sky blue",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე აირ 12 გბ 256 გბ სქყ ბლუე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "169790",
-   "title": "Apple iPhone Air 12GB/256GB - Cloud White",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone air 12 gb 256 gb cloud white",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე აირ 12 გბ 256 გბ ცლოუდ ვხითე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "169789",
-   "title": "Apple iPhone Air 12GB/256GB - Space Black",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone air 12 gb 256 gb space black",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე აირ 12 გბ 256 გბ სპაცე ბლაცქ",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "157981",
-   "title": "Apple iPhone 16 128GB - Pink",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 16 128 gb pink",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 16 128 გბ პინქ",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "157988",
-   "title": "Apple iPhone 16 128GB - Teal",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 16 128 gb teal",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 16 128 გბ თეალ",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "157985",
-   "title": "Apple iPhone 16 128GB - Ultramarine",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 16 128 gb ultramarine",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 16 128 გბ ულთრამარინე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "157978",
-   "title": "Apple iPhone 16 128GB - White",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 16 128 gb white",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 16 128 გბ ვხითე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "145224",
-   "title": "Apple iPhone 15 128GB - Black",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 15 128 gb black",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 15 128 გბ ბლაცქ",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "145226",
-   "title": "Apple iPhone 15 128GB - Blue",
-   "brand": "Apple",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "apple iphone 15 128 gb blue",
-    "brand": "apple",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "აპპლე იფონე 15 128 გბ ბლუე",
-    "brand": "აპპლე",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "170319",
-   "title": "Honor X9d 12GB/256GB Forest Green",
-   "brand": "Honor",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "honor x 9 d 12 gb 256 gb forest green",
-    "brand": "honor",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "ხონორ ხ 9 დ 12 გბ 256 გბ ფორესთ გრეენ",
-    "brand": "ხონორ",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "170316",
-   "title": "Honor X9d 8GB/256GB Forest Green",
-   "brand": "Honor",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "honor x 9 d 8 gb 256 gb forest green",
-    "brand": "honor",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "ხონორ ხ 9 დ 8 გბ 256 გბ ფორესთ გრეენ",
-    "brand": "ხონორ",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "170315",
-   "title": "Honor X9d 8GB/256GB Midnight Black",
-   "brand": "Honor",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "honor x 9 d 8 gb 256 gb midnight black",
-    "brand": "honor",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "ხონორ ხ 9 დ 8 გბ 256 გბ მიდნიგთ ბლაცქ",
-    "brand": "ხონორ",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "170317",
-   "title": "Honor X9d 8GB/256GB Sunrise Gold",
-   "brand": "Honor",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "honor x 9 d 8 gb 256 gb sunrise gold",
-    "brand": "honor",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "ხონორ ხ 9 დ 8 გბ 256 გბ სუნრისე გოლდ",
-    "brand": "ხონორ",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "162646",
-   "title": "Samsung S931B Galaxy S25 12GB/128GB 5G Icy Blue",
-   "brand": "Samsung",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "samsung s 931 b galaxy s 25 12 gb 128 gb 5 g icy blue",
-    "brand": "samsung",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "სამსუნგ ს 931 ბ გალახყ ს 25 12 გბ 128 გბ 5 გ იცყ ბლუე",
-    "brand": "სამსუნგ",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "162652",
-   "title": "Samsung S931B Galaxy S25 12GB/256GB 5G Silver Shadow",
-   "brand": "Samsung",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "samsung s 931 b galaxy s 25 12 gb 256 gb 5 g silver shadow",
-    "brand": "samsung",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "სამსუნგ ს 931 ბ გალახყ ს 25 12 გბ 256 გბ 5 გ სილვერ შადოვ",
-    "brand": "სამსუნგ",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "169672",
-   "title": "Samsung A175F Galaxy A17 (6GB/128GB) LTE Duos - Light Blue",
-   "brand": "Samsung",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "samsung a 175 f galaxy a 17 6 gb 128 gb lte duos light blue",
-    "brand": "samsung",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "სამსუნგ ა 175 ფ გალახყ ა 17 6 გბ 128 გბ ლთე დუოს ლიგთ ბლუე",
-    "brand": "სამსუნგ",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "175815",
-   "title": "Xiaomi Redmi 15C 4GB/128GB Without Charger Midnight Black",
-   "brand": "Xiaomi",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "xiaomi redmi 15 c 4 gb 128 gb without charger midnight black",
-    "brand": "xiaomi",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "ხიაომი რედმი 15 ც 4 გბ 128 გბ ვითხოუთ ჩარგერ მიდნიგთ ბლაცქ",
-    "brand": "ხიაომი",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "175817",
-   "title": "Xiaomi Redmi 15C 4GB/128GB Without Charger Mint Green",
-   "brand": "Xiaomi",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "xiaomi redmi 15 c 4 gb 128 gb without charger mint green",
-    "brand": "xiaomi",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "ხიაომი რედმი 15 ც 4 გბ 128 გბ ვითხოუთ ჩარგერ მინთ გრეენ",
-    "brand": "ხიაომი",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "175816",
-   "title": "Xiaomi Redmi 15C 4GB/128GB Without Charger Moonlight Blue",
-   "brand": "Xiaomi",
-   "category": "სმარტფონები",
-   "latin": {
-    "title": "xiaomi redmi 15 c 4 gb 128 gb without charger moonlight blue",
-    "brand": "xiaomi",
-    "category": "smartfonebi"
-   },
-   "ka": {
-    "title": "ხიაომი რედმი 15 ც 4 გბ 128 გბ ვითხოუთ ჩარგერ მოონლიგთ ბლუე",
-    "brand": "ხიაომი",
-    "category": "სმართფონები"
-   }
-  },
-  {
-   "id": "171046",
-   "title": "Lenovo Tab Plus 11.5\" ZADX0175UZ - Luna Grey",
+   "id": "153343",
+   "title": "Lenovo Legion E510 In-ear Headphones - Storm Grey",
    "brand": "Lenovo",
-   "category": "ტაბლეტები",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "lenovo tab plus 11 5 zadx 0175 uz luna grey",
+    "title": "lenovo legion e 510 in ear headphones storm grey",
     "brand": "lenovo",
-    "category": "tabletebi"
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ლენოვო თაბ პლუს 11 5 ზადხ 0175 უზ ლუნა გრეყ",
+    "title": "ლენოვო ლეგიონ ე 510 ინ ეარ ხეადფონეს სთორმ გრეყ",
     "brand": "ლენოვო",
-    "category": "თაბლეთები"
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "172444",
-   "title": "Samsung Galaxy Tab A11+ 5G 11'' SM-X236BZAACAU 6GB 128GB - Gray",
-   "brand": "Samsung",
-   "category": "ტაბლეტები",
+   "id": "142606",
+   "title": "Razer Base Station V2 Chroma Headset Stand with USB 3.1 Hub and 7.1 Surround Sound - Quartz",
+   "brand": "Razer",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "samsung galaxy tab a 11 5 g 11 sm x 236 bzaacau 6 gb 128 gb gray",
-    "brand": "samsung",
-    "category": "tabletebi"
+    "title": "razer base station v 2 chroma headset stand with usb 3 1 hub and 7 1 surround sound quartz",
+    "brand": "razer",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "სამსუნგ გალახყ თაბ ა 11 5 გ 11 სმ ხ 236 ბზააცაუ 6 გბ 128 გბ გრაყ",
-    "brand": "სამსუნგ",
-    "category": "თაბლეთები"
+    "title": "რაზერ ბასე სთათიონ ვ 2 ჩრომა ხეადსეთ სთანდ ვითხ უსბ 3 1 ხუბ ანდ 7 1 სურროუნდ სოუნდ ყუართზ",
+    "brand": "რაზერ",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "173487",
-   "title": "Blackview LINK 1 KIDS WI-FI 8.68\" HD+ 4GB 64GB - BLUE",
-   "brand": "Blackview",
-   "category": "ტაბლეტები",
+   "id": "142486",
+   "title": "Genesis Vanad 300 Mouse bungee",
+   "brand": "Genesis",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "blackview link 1 kids wi fi 8 68 hd 4 gb 64 gb blue",
-    "brand": "blackview",
-    "category": "tabletebi"
+    "title": "genesis vanad 300 mouse bungee",
+    "brand": "genesis",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ბლაცქვიევ ლინქ 1 ქიდს ვი ფი 8 68 ხდ 4 გბ 64 გბ ბლუე",
-    "brand": "ბლაცქვიევ",
-    "category": "თაბლეთები"
+    "title": "გენესის ვანად 300 მოუსე ბუნგეე",
+    "brand": "გენესის",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "173486",
-   "title": "Blackview LINK 1 KIDS WI-FI 8.68\" HD+ 4GB 64GB - PURPLE",
-   "brand": "Blackview",
-   "category": "ტაბლეტები",
+   "id": "157789",
+   "title": "MARVO HZ-10 Kobe 30 HEADSET STAND",
+   "brand": "Marvo",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "blackview link 1 kids wi fi 8 68 hd 4 gb 64 gb purple",
-    "brand": "blackview",
-    "category": "tabletebi"
+    "title": "marvo hz 10 kobe 30 headset stand",
+    "brand": "marvo",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ბლაცქვიევ ლინქ 1 ქიდს ვი ფი 8 68 ხდ 4 გბ 64 გბ პურპლე",
-    "brand": "ბლაცქვიევ",
-    "category": "თაბლეთები"
+    "title": "მარვო ხზ 10 ქობე 30 ხეადსეთ სთანდ",
+    "brand": "მარვო",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "175692",
-   "title": "Blackview Mega 2 LTE 11.97' IPS 6GB 256GB Grey",
-   "brand": "Blackview",
-   "category": "ტაბლეტები",
+   "id": "142485",
+   "title": "Genesis Vanad 200 Mouse bungee",
+   "brand": "Genesis",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "blackview mega 2 lte 11 97 ips 6 gb 256 gb grey",
-    "brand": "blackview",
-    "category": "tabletebi"
+    "title": "genesis vanad 200 mouse bungee",
+    "brand": "genesis",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ბლაცქვიევ მეგა 2 ლთე 11 97 იპს 6 გბ 256 გბ გრეყ",
-    "brand": "ბლაცქვიევ",
-    "category": "თაბლეთები"
+    "title": "გენესის ვანად 200 მოუსე ბუნგეე",
+    "brand": "გენესის",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "171333",
-   "title": "Blackview TAB 20 KIDS WI-FI 10.1'' HD 4GB 64GB Blue",
-   "brand": "Blackview",
-   "category": "ტაბლეტები",
+   "id": "162366",
+   "title": "CANYON PC headset HSC-1 PC Mic Flat 2m Black",
+   "brand": "Canyon",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "blackview tab 20 kids wi fi 10 1 hd 4 gb 64 gb blue",
-    "brand": "blackview",
-    "category": "tabletebi"
+    "title": "canyon pc headset hsc 1 pc mic flat 2 m black",
+    "brand": "canyon",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ბლაცქვიევ თაბ 20 ქიდს ვი ფი 10 1 ხდ 4 გბ 64 გბ ბლუე",
-    "brand": "ბლაცქვიევ",
-    "category": "თაბლეთები"
+    "title": "ცანყონ პც ხეადსეთ ხსც 1 პც მიც ფლათ 2 მ ბლაცქ",
+    "brand": "ცანყონ",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "171335",
-   "title": "Blackview TAB 20 KIDS WI-FI 10.1'' HD 4GB 64GB green",
-   "brand": "Blackview",
-   "category": "ტაბლეტები",
+   "id": "158983",
+   "title": "Sony INZONE Buds Truly Wireless Noise Canceling Gaming Earbuds (WF-G700N/WZ) - White",
+   "brand": "Sony",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "blackview tab 20 kids wi fi 10 1 hd 4 gb 64 gb green",
-    "brand": "blackview",
-    "category": "tabletebi"
+    "title": "sony inzone buds truly wireless noise canceling gaming earbuds wf g 700 n wz white",
+    "brand": "sony",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ბლაცქვიევ თაბ 20 ქიდს ვი ფი 10 1 ხდ 4 გბ 64 გბ გრეენ",
-    "brand": "ბლაცქვიევ",
-    "category": "თაბლეთები"
+    "title": "სონყ ინზონე ბუდს თრულყ ვირელესს ნოისე ცანცელინგ გამინგ ეარბუდს ვფ გ 700 ნ ვზ ვხითე",
+    "brand": "სონყ",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "171337",
-   "title": "Blackview Tab 20 Wi-Fi 10.1'' HD 4GB 64GB - Black",
-   "brand": "Blackview",
-   "category": "ტაბლეტები",
+   "id": "152097",
+   "title": "Sony INZONE Buds Truly Wireless Noise Canceling Gaming Earbuds (WF-G700N/BZ) - Black",
+   "brand": "Sony",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "blackview tab 20 wi fi 10 1 hd 4 gb 64 gb black",
-    "brand": "blackview",
-    "category": "tabletebi"
+    "title": "sony inzone buds truly wireless noise canceling gaming earbuds wf g 700 n bz black",
+    "brand": "sony",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ბლაცქვიევ თაბ 20 ვი ფი 10 1 ხდ 4 გბ 64 გბ ბლაცქ",
-    "brand": "ბლაცქვიევ",
-    "category": "თაბლეთები"
+    "title": "სონყ ინზონე ბუდს თრულყ ვირელესს ნოისე ცანცელინგ გამინგ ეარბუდს ვფ გ 700 ნ ბზ ბლაცქ",
+    "brand": "სონყ",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "171338",
-   "title": "Blackview Tab 20 Wi-Fi 10.1'' HD 4GB 64GB - Blue",
-   "brand": "Blackview",
-   "category": "ტაბლეტები",
+   "id": "150456",
+   "title": "Sony INZONE H5 Wireless Gaming Headset (WH-G500/WZ) - White",
+   "brand": "Sony",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "blackview tab 20 wi fi 10 1 hd 4 gb 64 gb blue",
-    "brand": "blackview",
-    "category": "tabletebi"
+    "title": "sony inzone h 5 wireless gaming headset wh g 500 wz white",
+    "brand": "sony",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ბლაცქვიევ თაბ 20 ვი ფი 10 1 ხდ 4 გბ 64 გბ ბლუე",
-    "brand": "ბლაცქვიევ",
-    "category": "თაბლეთები"
+    "title": "სონყ ინზონე ხ 5 ვირელესს გამინგ ხეადსეთ ვხ გ 500 ვზ ვხითე",
+    "brand": "სონყ",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "171339",
-   "title": "Blackview Tab 20 Wi-Fi 10.1'' HD 4GB 64GB Green",
-   "brand": "Blackview",
-   "category": "ტაბლეტები",
+   "id": "110082",
+   "title": "Lenovo Legion H500 Pro Gaming Headset (GXD0T69864)",
+   "brand": "Lenovo",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "blackview tab 20 wi fi 10 1 hd 4 gb 64 gb green",
-    "brand": "blackview",
-    "category": "tabletebi"
+    "title": "lenovo legion h 500 pro gaming headset gxd 0 t 69864",
+    "brand": "lenovo",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ბლაცქვიევ თაბ 20 ვი ფი 10 1 ხდ 4 გბ 64 გბ გრეენ",
-    "brand": "ბლაცქვიევ",
-    "category": "თაბლეთები"
+    "title": "ლენოვო ლეგიონ ხ 500 პრო გამინგ ხეადსეთ გხდ 0 თ 69864",
+    "brand": "ლენოვო",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "163045",
-   "title": "Blackview Tab 60 Pro LTE 10.1'' 8/128GB Blue",
-   "brand": "Blackview",
-   "category": "ტაბლეტები",
+   "id": "165263",
+   "title": "Dark Project SONO Wireless Headset White",
+   "brand": "Dark Project",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "blackview tab 60 pro lte 10 1 8 128 gb blue",
-    "brand": "blackview",
-    "category": "tabletebi"
+    "title": "dark project sono wireless headset white",
+    "brand": "dark project",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ბლაცქვიევ თაბ 60 პრო ლთე 10 1 8 128 გბ ბლუე",
-    "brand": "ბლაცქვიევ",
-    "category": "თაბლეთები"
+    "title": "დარქ პროჯეცთ სონო ვირელესს ხეადსეთ ვხითე",
+    "brand": "დარქ პროჯეცთ",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "163046",
-   "title": "Blackview Tab 60 Pro LTE 10.1'' 8/128GB Green",
-   "brand": "Blackview",
-   "category": "ტაბლეტები",
+   "id": "165264",
+   "title": "Dark Project One VEXO Wireless Headset Grey",
+   "brand": "Dark Project",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "blackview tab 60 pro lte 10 1 8 128 gb green",
-    "brand": "blackview",
-    "category": "tabletebi"
+    "title": "dark project one vexo wireless headset grey",
+    "brand": "dark project",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ბლაცქვიევ თაბ 60 პრო ლთე 10 1 8 128 გბ გრეენ",
-    "brand": "ბლაცქვიევ",
-    "category": "თაბლეთები"
+    "title": "დარქ პროჯეცთ ონე ვეხო ვირელესს ხეადსეთ გრეყ",
+    "brand": "დარქ პროჯეცთ",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "163044",
-   "title": "Blackview Tab 60 Pro LTE 10.1'' 8/128GB Grey",
-   "brand": "Blackview",
-   "category": "ტაბლეტები",
+   "id": "165266",
+   "title": "Dark Project One VEXO Wired Headset Grey",
+   "brand": "Dark Project",
+   "category": "ყურსასმენები",
    "latin": {
-    "title": "blackview tab 60 pro lte 10 1 8 128 gb grey",
-    "brand": "blackview",
-    "category": "tabletebi"
+    "title": "dark project one vexo wired headset grey",
+    "brand": "dark project",
+    "category": "qursasmenebi"
    },
    "ka": {
-    "title": "ბლაცქვიევ თაბ 60 პრო ლთე 10 1 8 128 გბ გრეყ",
-    "brand": "ბლაცქვიევ",
-    "category": "თაბლეთები"
+    "title": "დარქ პროჯეცთ ონე ვეხო ვირედ ხეადსეთ გრეყ",
+    "brand": "დარქ პროჯეცთ",
+    "category": "ყურსასმენები"
    }
   },
   {
-   "id": "173484",
-   "title": "Blackview ZENO 10 5G 11\" FHD+ 6GB 256GB with case, pen bt mouse & keyboard - BLACK",
-   "brand": "Blackview",
-   "category": "ტაბლეტები",
+   "id": "172458",
+   "title": "Dark Project ALU87 Fuji II - Mechanical Gaming Keyboard",
+   "brand": "Dark Project",
+   "category": "კლავიატურები",
    "latin": {
-    "title": "blackview zeno 10 5 g 11 fhd 6 gb 256 gb with case pen bt mouse & keyboard black",
-    "brand": "blackview",
-    "category": "tabletebi"
+    "title": "dark project alu 87 fuji ii mechanical gaming keyboard",
+    "brand": "dark project",
+    "category": "klaviaturebi"
    },
    "ka": {
-    "title": "ბლაცქვიევ ზენო 10 5 გ 11 ფხდ 6 გბ 256 გბ ვითხ ცასე პენ ბთ მოუსე & ქეყბოარდ ბლაცქ",
-    "brand": "ბლაცქვიევ",
-    "category": "თაბლეთები"
+    "title": "დარქ პროჯეცთ ალუ 87 ფუჯი იი მეჩანიცალ გამინგ ქეყბოარდ",
+    "brand": "დარქ პროჯეცთ",
+    "category": "ქლავიათურები"
    }
   },
   {
-   "id": "175556",
-   "title": "Apple MacBook Neo 13'' Apple A18 Pro 8GB/256GB Z1TS00022 - Indigo",
-   "brand": "Apple",
-   "category": "ნოუთბუქები",
+   "id": "171784",
+   "title": "Lenovo Legion K510 Mini Pro Gaming Keyboard",
+   "brand": "Lenovo",
+   "category": "კლავიატურები",
    "latin": {
-    "title": "apple macbook neo 13 apple a 18 pro 8 gb 256 gb z 1 ts 00022 indigo",
-    "brand": "apple",
-    "category": "noutbukebi"
+    "title": "lenovo legion k 510 mini pro gaming keyboard",
+    "brand": "lenovo",
+    "category": "klaviaturebi"
    },
    "ka": {
-    "title": "აპპლე მაცბოოქ ნეო 13 აპპლე ა 18 პრო 8 გბ 256 გბ ზ 1 ც 00022 ინდიგო",
-    "brand": "აპპლე",
-    "category": "ნოუთბუქები"
+    "title": "ლენოვო ლეგიონ ქ 510 მინი პრო გამინგ ქეყბოარდ",
+    "brand": "ლენოვო",
+    "category": "ქლავიათურები"
    }
   },
   {
-   "id": "170423",
-   "title": "Asus Vivobook Go 15.6\" (E1504FA-BQ1163) -Silver",
+   "id": "165209",
+   "title": "HP 230 Wireless Keyboard",
+   "brand": "HP",
+   "category": "კლავიატურები",
+   "latin": {
+    "title": "hp 230 wireless keyboard",
+    "brand": "hp",
+    "category": "klaviaturebi"
+   },
+   "ka": {
+    "title": "ხპ 230 ვირელესს ქეყბოარდ",
+    "brand": "ხპ",
+    "category": "ქლავიათურები"
+   }
+  },
+  {
+   "id": "156421",
+   "title": "Lenovo Lenovo 300 USB Keyboard",
+   "brand": "Lenovo",
+   "category": "კლავიატურები",
+   "latin": {
+    "title": "lenovo lenovo 300 usb keyboard",
+    "brand": "lenovo",
+    "category": "klaviaturebi"
+   },
+   "ka": {
+    "title": "ლენოვო ლენოვო 300 უსბ ქეყბოარდ",
+    "brand": "ლენოვო",
+    "category": "ქლავიათურები"
+   }
+  },
+  {
+   "id": "148144",
+   "title": "Marvo G946",
+   "brand": "Marvo",
+   "category": "მაუსები",
+   "latin": {
+    "title": "marvo g 946",
+    "brand": "marvo",
+    "category": "mausebi"
+   },
+   "ka": {
+    "title": "მარვო გ 946",
+    "brand": "მარვო",
+    "category": "მაუსები"
+   }
+  },
+  {
+   "id": "166259",
+   "title": "HyperX Pulsefire Saga Gaming Mouse Black",
+   "brand": "HyperX",
+   "category": "მაუსები",
+   "latin": {
+    "title": "hyperx pulsefire saga gaming mouse black",
+    "brand": "hyperx",
+    "category": "mausebi"
+   },
+   "ka": {
+    "title": "ხყპერხ პულსეფირე საგა გამინგ მოუსე ბლაცქ",
+    "brand": "ხყპერხ",
+    "category": "მაუსები"
+   }
+  },
+  {
+   "id": "77626",
+   "title": "Lenovo Professional Wireless Laser Mouse (4X30H56886)",
+   "brand": "Lenovo",
+   "category": "მაუსები",
+   "latin": {
+    "title": "lenovo professional wireless laser mouse 4 x 30 h 56886",
+    "brand": "lenovo",
+    "category": "mausebi"
+   },
+   "ka": {
+    "title": "ლენოვო პროფესსიონალ ვირელესს ლასერ მოუსე 4 ხ 30 ხ 56886",
+    "brand": "ლენოვო",
+    "category": "მაუსები"
+   }
+  },
+  {
+   "id": "136695",
+   "title": "Asus MW203 Multi-Device Wireless Silent Mouse - Blue",
+   "brand": "Asus",
+   "category": "მაუსები",
+   "latin": {
+    "title": "asus mw 203 multi device wireless silent mouse blue",
+    "brand": "asus",
+    "category": "mausebi"
+   },
+   "ka": {
+    "title": "ასუს მვ 203 მულთი დევიცე ვირელესს სილენთ მოუსე ბლუე",
+    "brand": "ასუს",
+    "category": "მაუსები"
+   }
+  },
+  {
+   "id": "153873",
+   "title": "Canyon GM-321 Wired - Black",
+   "brand": "Canyon",
+   "category": "მაუსები",
+   "latin": {
+    "title": "canyon gm 321 wired black",
+    "brand": "canyon",
+    "category": "mausebi"
+   },
+   "ka": {
+    "title": "ცანყონ გმ 321 ვირედ ბლაცქ",
+    "brand": "ცანყონ",
+    "category": "მაუსები"
+   }
+  },
+  {
+   "id": "162165",
+   "title": "Asus ROG Backpack BP1501G Holographic Edition",
+   "brand": "Asus",
+   "category": "ნოუთბუქის ჩანთები",
+   "latin": {
+    "title": "asus rog backpack bp 1501 g holographic edition",
+    "brand": "asus",
+    "category": "noutbukis chantebi"
+   },
+   "ka": {
+    "title": "ასუს როგ ბაცქპაცქ ბპ 1501 გ ხოლოგრაფიც ედითიონ",
+    "brand": "ასუს",
+    "category": "ნოუთბუქის ჩანთები"
+   }
+  },
+  {
+   "id": "142609",
+   "title": "Razer Protective Sleeve V2 13.3\" (RC21-01570100-R3M1) - Black",
+   "brand": "Razer",
+   "category": "ნოუთბუქის ჩანთები",
+   "latin": {
+    "title": "razer protective sleeve v 2 13 3 rc 21 01570100 r 3 m 1 black",
+    "brand": "razer",
+    "category": "noutbukis chantebi"
+   },
+   "ka": {
+    "title": "რაზერ პროთეცთივე სლეევე ვ 2 13 3 რც 21 01570100 რ 3 მ 1 ბლაცქ",
+    "brand": "რაზერ",
+    "category": "ნოუთბუქის ჩანთები"
+   }
+  },
+  {
+   "id": "147225",
+   "title": "HP 14 Sleeve (2F1X4AA)",
+   "brand": "HP",
+   "category": "ნოუთბუქის ჩანთები",
+   "latin": {
+    "title": "hp 14 sleeve 2 f 1 x 4 aa",
+    "brand": "hp",
+    "category": "noutbukis chantebi"
+   },
+   "ka": {
+    "title": "ხპ 14 სლეევე 2 ფ 1 ხ 4 აა",
+    "brand": "ხპ",
+    "category": "ნოუთბუქის ჩანთები"
+   }
+  },
+  {
+   "id": "147271",
+   "title": "Acer Nitro Gaming Urban Backpack 15.6\" (GP.BAG11.02E)",
+   "brand": "Acer",
+   "category": "ნოუთბუქის ჩანთები",
+   "latin": {
+    "title": "acer nitro gaming urban backpack 15 6 gp bag 11 02 e",
+    "brand": "acer",
+    "category": "noutbukis chantebi"
+   },
+   "ka": {
+    "title": "აცერ ნითრო გამინგ ურბან ბაცქპაცქ 15 6 გპ ბაგ 11 02 ე",
+    "brand": "აცერ",
+    "category": "ნოუთბუქის ჩანთები"
+   }
+  },
+  {
+   "id": "172009",
+   "title": "ASUS TUF A18 18'' FA808UM-S8046 - Jaeger Gray",
    "brand": "Asus",
    "category": "ნოუთბუქები",
    "latin": {
-    "title": "asus vivobook go 15 6 e 1504 fa bq 1163 silver",
+    "title": "asus tuf a 18 18 fa 808 um s 8046 jaeger gray",
     "brand": "asus",
     "category": "noutbukebi"
    },
    "ka": {
-    "title": "ასუს ვივობოოქ გო 15 6 ე 1504 ფა ბყ 1163 სილვერ",
+    "title": "ასუს თუფ ა 18 18 ფა 808 უმ ს 8046 ჯაეგერ გრაყ",
     "brand": "ასუს",
     "category": "ნოუთბუქები"
    }
   },
   {
-   "id": "164101",
-   "title": "Asus ZenBook 14 OLED (UM3406KA-QD130) - Black",
+   "id": "173266",
+   "title": "ASUS TUF F16 FX608JMR-RV180 16'' - Jaeger Gray",
    "brand": "Asus",
    "category": "ნოუთბუქები",
    "latin": {
-    "title": "asus zenbook 14 oled um 3406 ka qd 130 black",
+    "title": "asus tuf f 16 fx 608 jmr rv 180 16 jaeger gray",
     "brand": "asus",
     "category": "noutbukebi"
    },
    "ka": {
-    "title": "ასუს ზენბოოქ 14 ოლედ უმ 3406 ქა ყდ 130 ბლაცქ",
+    "title": "ასუს თუფ ფ 16 ფხ 608 ჯმრ რვ 180 16 ჯაეგერ გრაყ",
     "brand": "ასუს",
     "category": "ნოუთბუქები"
    }
   },
   {
-   "id": "174823",
-   "title": "Lenovo Ideapad Slim 3 15.6\" 82XQ015BRK - Arctic Grey",
-   "brand": "Lenovo",
+   "id": "173270",
+   "title": "ASUS TUF Gaming F16 FX608JPR-RV019 16'' - Jaeger Gray",
+   "brand": "Asus",
    "category": "ნოუთბუქები",
    "latin": {
-    "title": "lenovo ideapad slim 3 15 6 82 xq 015 brk arctic grey",
-    "brand": "lenovo",
+    "title": "asus tuf gaming f 16 fx 608 jpr rv 019 16 jaeger gray",
+    "brand": "asus",
     "category": "noutbukebi"
    },
    "ka": {
-    "title": "ლენოვო იდეაპად სლიმ 3 15 6 82 ხყ 015 ბრქ არცთიც გრეყ",
-    "brand": "ლენოვო",
+    "title": "ასუს თუფ გამინგ ფ 16 ფხ 608 ჯპრ რვ 019 16 ჯაეგერ გრაყ",
+    "brand": "ასუს",
     "category": "ნოუთბუქები"
    }
   },
   {
-   "id": "141859",
-   "title": "Lenovo IdeaPad Slim 3 15AMN8 (82XQ007MRK) - Arctic Grey",
-   "brand": "Lenovo",
+   "id": "167774",
+   "title": "Asus TUF Gaming F16 (FX608JHR-RV059) - Jaeger Gray",
+   "brand": "Asus",
    "category": "ნოუთბუქები",
    "latin": {
-    "title": "lenovo ideapad slim 3 15 amn 8 82 xq 007 mrk arctic grey",
-    "brand": "lenovo",
+    "title": "asus tuf gaming f 16 fx 608 jhr rv 059 jaeger gray",
+    "brand": "asus",
     "category": "noutbukebi"
    },
    "ka": {
-    "title": "ლენოვო იდეაპად სლიმ 3 15 ამნ 8 82 ხყ 007 მრქ არცთიც გრეყ",
-    "brand": "ლენოვო",
+    "title": "ასუს თუფ გამინგ ფ 16 ფხ 608 ჯხრ რვ 059 ჯაეგერ გრაყ",
+    "brand": "ასუს",
     "category": "ნოუთბუქები"
    }
   },
   {
-   "id": "172234",
-   "title": "Lenovo Ideapad Slim 5 14\" 83HR002BRK - Luna Grey",
-   "brand": "Lenovo",
+   "id": "168395",
+   "title": "Asus ROG Strix G16 16'' (G615JMR-S5169) - Eclipse Gray",
+   "brand": "Asus",
    "category": "ნოუთბუქები",
    "latin": {
-    "title": "lenovo ideapad slim 5 14 83 hr 002 brk luna grey",
-    "brand": "lenovo",
+    "title": "asus rog strix g 16 16 g 615 jmr s 5169 eclipse gray",
+    "brand": "asus",
     "category": "noutbukebi"
    },
    "ka": {
-    "title": "ლენოვო იდეაპად სლიმ 5 14 83 ხრ 002 ბრქ ლუნა გრეყ",
-    "brand": "ლენოვო",
+    "title": "ასუს როგ სთრიხ გ 16 16 გ 615 ჯმრ ს 5169 ეცლიპსე გრაყ",
+    "brand": "ასუს",
     "category": "ნოუთბუქები"
    }
   },
   {
-   "id": "163865",
-   "title": "Lenovo IdeaPad Slim 3 (82XQ00J7RK) - Arctic Grey",
-   "brand": "Lenovo",
+   "id": "169261",
+   "title": "ASUS TUF A16 16'' FA608PP-RV066 - Jaeger Gray",
+   "brand": "Asus",
    "category": "ნოუთბუქები",
    "latin": {
-    "title": "lenovo ideapad slim 3 82 xq 00 j 7 rk arctic grey",
-    "brand": "lenovo",
+    "title": "asus tuf a 16 16 fa 608 pp rv 066 jaeger gray",
+    "brand": "asus",
     "category": "noutbukebi"
    },
    "ka": {
-    "title": "ლენოვო იდეაპად სლიმ 3 82 ხყ 00 ჯ 7 რქ არცთიც გრეყ",
-    "brand": "ლენოვო",
+    "title": "ასუს თუფ ა 16 16 ფა 608 პპ რვ 066 ჯაეგერ გრაყ",
+    "brand": "ასუს",
     "category": "ნოუთბუქები"
    }
   },
   {
-   "id": "172317",
-   "title": "Lenovo LOQ 15IAX9 15.6\" - Luna Grey",
-   "brand": "Lenovo",
+   "id": "173264",
+   "title": "ASUS TUF Gaming A16 FA608PP-RV019 16'' - Jaeger Gray",
+   "brand": "Asus",
    "category": "ნოუთბუქები",
    "latin": {
-    "title": "lenovo loq 15 iax 9 15 6 luna grey",
-    "brand": "lenovo",
+    "title": "asus tuf gaming a 16 fa 608 pp rv 019 16 jaeger gray",
+    "brand": "asus",
     "category": "noutbukebi"
    },
    "ka": {
-    "title": "ლენოვო ლოყ 15 იახ 9 15 6 ლუნა გრეყ",
-    "brand": "ლენოვო",
+    "title": "ასუს თუფ გამინგ ა 16 ფა 608 პპ რვ 019 16 ჯაეგერ გრაყ",
+    "brand": "ასუს",
     "category": "ნოუთბუქები"
    }
   },
@@ -2560,35 +2176,275 @@
    }
   },
   {
-   "id": "80834",
-   "title": "Kingston A400 240GB SSD - SA400S37/240GB",
-   "brand": "Kingston",
-   "category": "შიდა მყარი დისკები",
+   "id": "174827",
+   "title": "Lenovo Legion Pro 5 16\" 83NN005CRK - Eclipse Black",
+   "brand": "Lenovo",
+   "category": "ნოუთბუქები",
    "latin": {
-    "title": "kingston a 400 240 gb ssd sa 400 s 37 240 gb",
-    "brand": "kingston",
-    "category": "shida mqari diskebi"
+    "title": "lenovo legion pro 5 16 83 nn 005 crk eclipse black",
+    "brand": "lenovo",
+    "category": "noutbukebi"
    },
    "ka": {
-    "title": "ქინგსთონ ა 400 240 გბ სსდ სა 400 ს 37 240 გბ",
-    "brand": "ქინგსთონ",
-    "category": "შიდა მყარი დისქები"
+    "title": "ლენოვო ლეგიონ პრო 5 16 83 ნნ 005 ცრქ ეცლიპსე ბლაცქ",
+    "brand": "ლენოვო",
+    "category": "ნოუთბუქები"
    }
   },
   {
-   "id": "101011",
-   "title": "Kingston A400 SSD 960GB - SA400S37/960GB",
-   "brand": "Kingston",
-   "category": "შიდა მყარი დისკები",
+   "id": "174596",
+   "title": "Apple Studio Standard glass Tilt adjustable MFEX4RU/A - Silver",
+   "brand": "Apple",
+   "category": "მონიტორები",
    "latin": {
-    "title": "kingston a 400 ssd 960 gb sa 400 s 37 960 gb",
-    "brand": "kingston",
-    "category": "shida mqari diskebi"
+    "title": "apple studio standard glass tilt adjustable mfex 4 ru a silver",
+    "brand": "apple",
+    "category": "monitorebi"
    },
    "ka": {
-    "title": "ქინგსთონ ა 400 სსდ 960 გბ სა 400 ს 37 960 გბ",
-    "brand": "ქინგსთონ",
-    "category": "შიდა მყარი დისქები"
+    "title": "აპპლე სთუდიო სთანდარდ გლასს თილთ ადჯუსთაბლე მფეხ 4 რუ ა სილვერ",
+    "brand": "აპპლე",
+    "category": "მონითორები"
+   }
+  },
+  {
+   "id": "160704",
+   "title": "Apple iMac 24\" M4 chip with 10-core GPU (16GB/256GB) Blue",
+   "brand": "Apple",
+   "category": "მონობლოკები",
+   "latin": {
+    "title": "apple imac 24 m 4 chip with 10 core gpu 16 gb 256 gb blue",
+    "brand": "apple",
+    "category": "monoblokebi"
+   },
+   "ka": {
+    "title": "აპპლე იმაც 24 მ 4 ჩიპ ვითხ 10 ცორე გპუ 16 გბ 256 გბ ბლუე",
+    "brand": "აპპლე",
+    "category": "მონობლოქები"
+   }
+  },
+  {
+   "id": "156759",
+   "title": "Apple iMac M3 24'' 4.5K MQRC3RU/A - Blue",
+   "brand": "Apple",
+   "category": "მონობლოკები",
+   "latin": {
+    "title": "apple imac m 3 24 4 5 k mqrc 3 ru a blue",
+    "brand": "apple",
+    "category": "monoblokebi"
+   },
+   "ka": {
+    "title": "აპპლე იმაც მ 3 24 4 5 ქ მყრც 3 რუ ა ბლუე",
+    "brand": "აპპლე",
+    "category": "მონობლოქები"
+   }
+  },
+  {
+   "id": "172049",
+   "title": "Asus TUF-GAMING-1000G-White",
+   "brand": "Asus",
+   "category": "კვების ბლოკები",
+   "latin": {
+    "title": "asus tuf gaming 1000 g white",
+    "brand": "asus",
+    "category": "kvebis blokebi"
+   },
+   "ka": {
+    "title": "ასუს თუფ გამინგ 1000 გ ვხითე",
+    "brand": "ასუს",
+    "category": "ქვების ბლოქები"
+   }
+  },
+  {
+   "id": "174292",
+   "title": "Asus VZ249HG 23.8'' FHD 90LM0BV1-B01A71 - Black",
+   "brand": "Asus",
+   "category": "მონიტორები",
+   "latin": {
+    "title": "asus vz 249 hg 23 8 fhd 90 lm 0 bv 1 b 01 a 71 black",
+    "brand": "asus",
+    "category": "monitorebi"
+   },
+   "ka": {
+    "title": "ასუს ვზ 249 ხგ 23 8 ფხდ 90 ლმ 0 ბვ 1 ბ 01 ა 71 ბლაცქ",
+    "brand": "ასუს",
+    "category": "მონითორები"
+   }
+  },
+  {
+   "id": "139802",
+   "title": "Asus TUF Gaming AX3000 V2 Dual Band WiFi 6 Gaming Router",
+   "brand": "Asus",
+   "category": "როუტერები",
+   "latin": {
+    "title": "asus tuf gaming ax 3000 v 2 dual band wifi 6 gaming router",
+    "brand": "asus",
+    "category": "routerebi"
+   },
+   "ka": {
+    "title": "ასუს თუფ გამინგ ახ 3000 ვ 2 დუალ ბანდ ვიფი 6 გამინგ როუთერ",
+    "brand": "ასუს",
+    "category": "როუთერები"
+   }
+  },
+  {
+   "id": "143731",
+   "title": "ASUS RT-AX57 (90IG06Z0-MO3C00)",
+   "brand": "Asus",
+   "category": "როუტერები",
+   "latin": {
+    "title": "asus rt ax 57 90 ig 06 z 0 mo 3 c 00",
+    "brand": "asus",
+    "category": "routerebi"
+   },
+   "ka": {
+    "title": "ასუს რთ ახ 57 90 იგ 06 ზ 0 მო 3 ც 00",
+    "brand": "ასუს",
+    "category": "როუთერები"
+   }
+  },
+  {
+   "id": "173629",
+   "title": "Blackview MP20 AMD Ryzen 3 16GB/512GB W11P - Black",
+   "brand": "Blackview",
+   "category": "კომპიუტერები",
+   "latin": {
+    "title": "blackview mp 20 amd ryzen 3 16 gb 512 gb w 11 p black",
+    "brand": "blackview",
+    "category": "kompiuterebi"
+   },
+   "ka": {
+    "title": "ბლაცქვიევ მპ 20 ამდ რყზენ 3 16 გბ 512 გბ ვ 11 პ ბლაცქ",
+    "brand": "ბლაცქვიევ",
+    "category": "ქომპიუთერები"
+   }
+  },
+  {
+   "id": "173630",
+   "title": "Blackview MP50 AMD Ryzne 5 16GB/512GB KB+Mouse W11P - Black",
+   "brand": "Blackview",
+   "category": "კომპიუტერები",
+   "latin": {
+    "title": "blackview mp 50 amd ryzne 5 16 gb 512 gb kb mouse w 11 p black",
+    "brand": "blackview",
+    "category": "kompiuterebi"
+   },
+   "ka": {
+    "title": "ბლაცქვიევ მპ 50 ამდ რყზნე 5 16 გბ 512 გბ ქბ მოუსე ვ 11 პ ბლაცქ",
+    "brand": "ბლაცქვიევ",
+    "category": "ქომპიუთერები"
+   }
+  },
+  {
+   "id": "163980",
+   "title": "Canon PIXMA G1430",
+   "brand": "Canon",
+   "category": "პრინტერები",
+   "latin": {
+    "title": "canon pixma g 1430",
+    "brand": "canon",
+    "category": "printerebi"
+   },
+   "ka": {
+    "title": "ცანონ პიხმა გ 1430",
+    "brand": "ცანონ",
+    "category": "პრინთერები"
+   }
+  },
+  {
+   "id": "57366",
+   "title": "Canon i-SENSYS MF3010 Bundle with 2 cartridges 5252B034AA - Black",
+   "brand": "Canon",
+   "category": "პრინტერები",
+   "latin": {
+    "title": "canon i sensys mf 3010 bundle with 2 cartridges 5252 b 034 aa black",
+    "brand": "canon",
+    "category": "printerebi"
+   },
+   "ka": {
+    "title": "ცანონ ი სენსყს მფ 3010 ბუნდლე ვითხ 2 ცართრიდგეს 5252 ბ 034 აა ბლაცქ",
+    "brand": "ცანონ",
+    "category": "პრინთერები"
+   }
+  },
+  {
+   "id": "146502",
+   "title": "Canon i-SENSYS MF275DW 5621C001AA - Black",
+   "brand": "Canon",
+   "category": "პრინტერები",
+   "latin": {
+    "title": "canon i sensys mf 275 dw 5621 c 001 aa black",
+    "brand": "canon",
+    "category": "printerebi"
+   },
+   "ka": {
+    "title": "ცანონ ი სენსყს მფ 275 დვ 5621 ც 001 აა ბლაცქ",
+    "brand": "ცანონ",
+    "category": "პრინთერები"
+   }
+  },
+  {
+   "id": "86509",
+   "title": "Canon PIXMA E414 1366C009AA - Black",
+   "brand": "Canon",
+   "category": "პრინტერები",
+   "latin": {
+    "title": "canon pixma e 414 1366 c 009 aa black",
+    "brand": "canon",
+    "category": "printerebi"
+   },
+   "ka": {
+    "title": "ცანონ პიხმა ე 414 1366 ც 009 აა ბლაცქ",
+    "brand": "ცანონ",
+    "category": "პრინთერები"
+   }
+  },
+  {
+   "id": "123601",
+   "title": "Crucial 8GB DDR4-2666 DIMM (CT8G4DFRA32A)",
+   "brand": "Crucial",
+   "category": "ოპერატიული მეხსიერება",
+   "latin": {
+    "title": "crucial 8 gb ddr 4 2666 dimm ct 8 g 4 dfra 32 a",
+    "brand": "crucial",
+    "category": "operatiuli mekhsiereba"
+   },
+   "ka": {
+    "title": "ცრუციალ 8 გბ დდრ 4 2666 დიმმ ცთ 8 გ 4 დფრა 32 ა",
+    "brand": "ცრუციალ",
+    "category": "ოპერათიული მეხსიერება"
+   }
+  },
+  {
+   "id": "151024",
+   "title": "HP OMEN 27\" FHD 780F9E9 - Black",
+   "brand": "HP",
+   "category": "მონიტორები",
+   "latin": {
+    "title": "hp omen 27 fhd 780 f 9 e 9 black",
+    "brand": "hp",
+    "category": "monitorebi"
+   },
+   "ka": {
+    "title": "ხპ ომენ 27 ფხდ 780 ფ 9 ე 9 ბლაცქ",
+    "brand": "ხპ",
+    "category": "მონითორები"
+   }
+  },
+  {
+   "id": "123037",
+   "title": "HP DeskJet 2320 7WN42B - White",
+   "brand": "HP",
+   "category": "პრინტერები",
+   "latin": {
+    "title": "hp deskjet 2320 7 wn 42 b white",
+    "brand": "hp",
+    "category": "printerebi"
+   },
+   "ka": {
+    "title": "ხპ დესქჯეთ 2320 7 ვნ 42 ბ ვხითე",
+    "brand": "ხპ",
+    "category": "პრინთერები"
    }
   },
   {
@@ -2608,66 +2464,50 @@
    }
   },
   {
-   "id": "166881",
-   "title": "Asus VZ24EHF 23.8'' FHD 90LM07C0-B01470 - Black",
-   "brand": "Asus",
-   "category": "მონიტორები",
+   "id": "80834",
+   "title": "Kingston A400 240GB SSD - SA400S37/240GB",
+   "brand": "Kingston",
+   "category": "შიდა მყარი დისკები",
    "latin": {
-    "title": "asus vz 24 ehf 23 8 fhd 90 lm 07 c 0 b 01470 black",
-    "brand": "asus",
-    "category": "monitorebi"
+    "title": "kingston a 400 240 gb ssd sa 400 s 37 240 gb",
+    "brand": "kingston",
+    "category": "shida mqari diskebi"
    },
    "ka": {
-    "title": "ასუს ვზ 24 ეხფ 23 8 ფხდ 90 ლმ 07 ც 0 ბ 01470 ბლაცქ",
-    "brand": "ასუს",
-    "category": "მონითორები"
+    "title": "ქინგსთონ ა 400 240 გბ სსდ სა 400 ს 37 240 გბ",
+    "brand": "ქინგსთონ",
+    "category": "შიდა მყარი დისქები"
    }
   },
   {
-   "id": "162927",
-   "title": "Lenovo Legion R24e 23.8'' FHD 67CCGAC4EU - Raven Black",
+   "id": "169506",
+   "title": "Kingston 8GB DIMM - KVR32N22S8/8WP",
+   "brand": "Kingston",
+   "category": "ოპერატიული მეხსიერება",
+   "latin": {
+    "title": "kingston 8 gb dimm kvr 32 n 22 s 8 8 wp",
+    "brand": "kingston",
+    "category": "operatiuli mekhsiereba"
+   },
+   "ka": {
+    "title": "ქინგსთონ 8 გბ დიმმ ქვრ 32 ნ 22 ს 8 8 ვპ",
+    "brand": "ქინგსთონ",
+    "category": "ოპერათიული მეხსიერება"
+   }
+  },
+  {
+   "id": "143694",
+   "title": "Lenovo ThinkVision T27i-30 27'' FHD 63A4MAT1EU - Black",
    "brand": "Lenovo",
    "category": "მონიტორები",
    "latin": {
-    "title": "lenovo legion r 24 e 23 8 fhd 67 ccgac 4 eu raven black",
+    "title": "lenovo thinkvision t 27 i 30 27 fhd 63 a 4 mat 1 eu black",
     "brand": "lenovo",
     "category": "monitorebi"
    },
    "ka": {
-    "title": "ლენოვო ლეგიონ რ 24 ე 23 8 ფხდ 67 ცცგაც 4 ეუ რავენ ბლაცქ",
+    "title": "ლენოვო თხინქვისიონ თ 27 ი 30 27 ფხდ 63 ა 4 მათ 1 ეუ ბლაცქ",
     "brand": "ლენოვო",
-    "category": "მონითორები"
-   }
-  },
-  {
-   "id": "160626",
-   "title": "Lenovo ThinkVision E24-30 23.8'' FHD 63EDMAT2EU - Black",
-   "brand": "Lenovo",
-   "category": "მონიტორები",
-   "latin": {
-    "title": "lenovo thinkvision e 24 30 23 8 fhd 63 edmat 2 eu black",
-    "brand": "lenovo",
-    "category": "monitorebi"
-   },
-   "ka": {
-    "title": "ლენოვო თხინქვისიონ ე 24 30 23 8 ფხდ 63 ედმათ 2 ეუ ბლაცქ",
-    "brand": "ლენოვო",
-    "category": "მონითორები"
-   }
-  },
-  {
-   "id": "162914",
-   "title": "LG Ultragear 27GS50F-B 27\" FHD 27GS50F-B.AMAQ - Black",
-   "brand": "LG",
-   "category": "მონიტორები",
-   "latin": {
-    "title": "lg ultragear 27 gs 50 f b 27 fhd 27 gs 50 f b amaq black",
-    "brand": "lg",
-    "category": "monitorebi"
-   },
-   "ka": {
-    "title": "ლგ ულთრაგეარ 27 გს 50 ფ ბ 27 ფხდ 27 გს 50 ფ ბ ამაყ ბლაცქ",
-    "brand": "ლგ",
     "category": "მონითორები"
    }
   },
@@ -2688,22 +2528,6 @@
    }
   },
   {
-   "id": "172226",
-   "title": "LG 24U411A-B 24\" FHD 24U411A-B.AMCQ - Black",
-   "brand": "LG",
-   "category": "მონიტორები",
-   "latin": {
-    "title": "lg 24 u 411 a b 24 fhd 24 u 411 a b amcq black",
-    "brand": "lg",
-    "category": "monitorebi"
-   },
-   "ka": {
-    "title": "ლგ 24 უ 411 ა ბ 24 ფხდ 24 უ 411 ა ბ ამცყ ბლაცქ",
-    "brand": "ლგ",
-    "category": "მონითორები"
-   }
-  },
-  {
    "id": "172227",
    "title": "LG 27U411A-B 27'' FHD 27U411A-B.AMCQ - Black",
    "brand": "LG",
@@ -2716,6 +2540,54 @@
    "ka": {
     "title": "ლგ 27 უ 411 ა ბ 27 ფხდ 27 უ 411 ა ბ ამცყ ბლაცქ",
     "brand": "ლგ",
+    "category": "მონითორები"
+   }
+  },
+  {
+   "id": "167468",
+   "title": "MSI SPATIUM M450 500GB SSD - S78-440K380-P83",
+   "brand": "MSI",
+   "category": "შიდა მყარი დისკები",
+   "latin": {
+    "title": "msi spatium m 450 500 gb ssd s 78 440 k 380 p 83",
+    "brand": "msi",
+    "category": "shida mqari diskebi"
+   },
+   "ka": {
+    "title": "მსი სპათიუმ მ 450 500 გბ სსდ ს 78 440 ქ 380 პ 83",
+    "brand": "მსი",
+    "category": "შიდა მყარი დისქები"
+   }
+  },
+  {
+   "id": "150988",
+   "title": "Samsung Odyssey G6 27'' 2.5K LS27BG650EIXCI - Black",
+   "brand": "Samsung",
+   "category": "მონიტორები",
+   "latin": {
+    "title": "samsung odyssey g 6 27 2 5 k ls 27 bg 650 eixci black",
+    "brand": "samsung",
+    "category": "monitorebi"
+   },
+   "ka": {
+    "title": "სამსუნგ ოდყსსეყ გ 6 27 2 5 ქ ლს 27 ბგ 650 ეიხცი ბლაცქ",
+    "brand": "სამსუნგ",
+    "category": "მონითორები"
+   }
+  },
+  {
+   "id": "134866",
+   "title": "Samsung Odyssey G4 27\" FHD LS27BG400EIXCI - Black",
+   "brand": "Samsung",
+   "category": "მონიტორები",
+   "latin": {
+    "title": "samsung odyssey g 4 27 fhd ls 27 bg 400 eixci black",
+    "brand": "samsung",
+    "category": "monitorebi"
+   },
+   "ka": {
+    "title": "სამსუნგ ოდყსსეყ გ 4 27 ფხდ ლს 27 ბგ 400 ეიხცი ბლაცქ",
+    "brand": "სამსუნგ",
     "category": "მონითორები"
    }
   },
@@ -2752,22 +2624,6 @@
    }
   },
   {
-   "id": "165628",
-   "title": "Samsung Odyssey G3 24'' FHD LS24DG300EIXCI - Black",
-   "brand": "Samsung",
-   "category": "მონიტორები",
-   "latin": {
-    "title": "samsung odyssey g 3 24 fhd ls 24 dg 300 eixci black",
-    "brand": "samsung",
-    "category": "monitorebi"
-   },
-   "ka": {
-    "title": "სამსუნგ ოდყსსეყ გ 3 24 ფხდ ლს 24 დგ 300 ეიხცი ბლაცქ",
-    "brand": "სამსუნგ",
-    "category": "მონითორები"
-   }
-  },
-  {
    "id": "164356",
    "title": "Samsung Essential S3 27'' FHD LS27D300GAIXCI - Black",
    "brand": "Samsung",
@@ -2779,6 +2635,54 @@
    },
    "ka": {
     "title": "სამსუნგ ესსენთიალ ს 3 27 ფხდ ლს 27 დ 300 გაიხცი ბლაცქ",
+    "brand": "სამსუნგ",
+    "category": "მონითორები"
+   }
+  },
+  {
+   "id": "165223",
+   "title": "Samsung Odyssey G8 34'' 3.4K Smart LS34DG852SIXCI - Silver",
+   "brand": "Samsung",
+   "category": "მონიტორები",
+   "latin": {
+    "title": "samsung odyssey g 8 34 3 4 k smart ls 34 dg 852 sixci silver",
+    "brand": "samsung",
+    "category": "monitorebi"
+   },
+   "ka": {
+    "title": "სამსუნგ ოდყსსეყ გ 8 34 3 4 ქ სმართ ლს 34 დგ 852 სიხცი სილვერ",
+    "brand": "სამსუნგ",
+    "category": "მონითორები"
+   }
+  },
+  {
+   "id": "134868",
+   "title": "Samsung Curved Odyssey Neo G75B 32'' 4K LS32BG752NIXCI - Black",
+   "brand": "Samsung",
+   "category": "მონიტორები",
+   "latin": {
+    "title": "samsung curved odyssey neo g 75 b 32 4 k ls 32 bg 752 nixci black",
+    "brand": "samsung",
+    "category": "monitorebi"
+   },
+   "ka": {
+    "title": "სამსუნგ ცურვედ ოდყსსეყ ნეო გ 75 ბ 32 4 ქ ლს 32 ბგ 752 ნიხცი ბლაცქ",
+    "brand": "სამსუნგ",
+    "category": "მონითორები"
+   }
+  },
+  {
+   "id": "158479",
+   "title": "Samsung ViewFinity S7 27'' 4K LS27D700EAIXCI - Black",
+   "brand": "Samsung",
+   "category": "მონიტორები",
+   "latin": {
+    "title": "samsung viewfinity s 7 27 4 k ls 27 d 700 eaixci black",
+    "brand": "samsung",
+    "category": "monitorebi"
+   },
+   "ka": {
+    "title": "სამსუნგ ვიევფინითყ ს 7 27 4 ქ ლს 27 დ 700 ეაიხცი ბლაცქ",
     "brand": "სამსუნგ",
     "category": "მონითორები"
    }
@@ -2800,211 +2704,51 @@
    }
   },
   {
-   "id": "134866",
-   "title": "Samsung Odyssey G4 27\" FHD LS27BG400EIXCI - Black",
-   "brand": "Samsung",
+   "id": "174802",
+   "title": "TCL G54 23.8'' FHD 24G54 - White",
+   "brand": "TCL",
    "category": "მონიტორები",
    "latin": {
-    "title": "samsung odyssey g 4 27 fhd ls 27 bg 400 eixci black",
-    "brand": "samsung",
+    "title": "tcl g 54 23 8 fhd 24 g 54 white",
+    "brand": "tcl",
     "category": "monitorebi"
    },
    "ka": {
-    "title": "სამსუნგ ოდყსსეყ გ 4 27 ფხდ ლს 27 ბგ 400 ეიხცი ბლაცქ",
-    "brand": "სამსუნგ",
+    "title": "თცლ გ 54 23 8 ფხდ 24 გ 54 ვხითე",
+    "brand": "თცლ",
     "category": "მონითორები"
    }
   },
   {
-   "id": "149673",
-   "title": "Samsung Curved Odyssey G5 27'' 2.5K LS27CG550EIXCI - Black",
-   "brand": "Samsung",
+   "id": "174805",
+   "title": "TCL G64 31.5'' 2K 32G64 - Graphite Gray",
+   "brand": "TCL",
    "category": "მონიტორები",
    "latin": {
-    "title": "samsung curved odyssey g 5 27 2 5 k ls 27 cg 550 eixci black",
-    "brand": "samsung",
+    "title": "tcl g 64 31 5 2 k 32 g 64 graphite gray",
+    "brand": "tcl",
     "category": "monitorebi"
    },
    "ka": {
-    "title": "სამსუნგ ცურვედ ოდყსსეყ გ 5 27 2 5 ქ ლს 27 ცგ 550 ეიხცი ბლაცქ",
-    "brand": "სამსუნგ",
+    "title": "თცლ გ 64 31 5 2 ქ 32 გ 64 გრაფითე გრაყ",
+    "brand": "თცლ",
     "category": "მონითორები"
    }
   },
   {
-   "id": "142514",
-   "title": "Asus AIO A3402 23.8'' FHD A3402WBAK-BA005M - Black",
-   "brand": "Asus",
-   "category": "მონობლოკები",
+   "id": "174804",
+   "title": "TCL G64 27'' 2K 27G64 - Graphite Gray",
+   "brand": "TCL",
+   "category": "მონიტორები",
    "latin": {
-    "title": "asus aio a 3402 23 8 fhd a 3402 wbak ba 005 m black",
-    "brand": "asus",
-    "category": "monoblokebi"
+    "title": "tcl g 64 27 2 k 27 g 64 graphite gray",
+    "brand": "tcl",
+    "category": "monitorebi"
    },
    "ka": {
-    "title": "ასუს აიო ა 3402 23 8 ფხდ ა 3402 ვბაქ ბა 005 მ ბლაცქ",
-    "brand": "ასუს",
-    "category": "მონობლოქები"
-   }
-  },
-  {
-   "id": "157748",
-   "title": "Lenovo IdeaCentre AIO 24IRH9 23.8'' FHD F0HN00CARU - Cloud Grey",
-   "brand": "Lenovo",
-   "category": "მონობლოკები",
-   "latin": {
-    "title": "lenovo ideacentre aio 24 irh 9 23 8 fhd f 0 hn 00 caru cloud grey",
-    "brand": "lenovo",
-    "category": "monoblokebi"
-   },
-   "ka": {
-    "title": "ლენოვო იდეაცენთრე აიო 24 ირხ 9 23 8 ფხდ ფ 0 ხნ 00 ცარუ ცლოუდ გრეყ",
-    "brand": "ლენოვო",
-    "category": "მონობლოქები"
-   }
-  },
-  {
-   "id": "163980",
-   "title": "Canon PIXMA G1430",
-   "brand": "Canon",
-   "category": "პრინტერები",
-   "latin": {
-    "title": "canon pixma g 1430",
-    "brand": "canon",
-    "category": "printerebi"
-   },
-   "ka": {
-    "title": "ცანონ პიხმა გ 1430",
-    "brand": "ცანონ",
-    "category": "პრინთერები"
-   }
-  },
-  {
-   "id": "147712",
-   "title": "Canon PIXMA G3430 5989C009AA - Black",
-   "brand": "Canon",
-   "category": "პრინტერები",
-   "latin": {
-    "title": "canon pixma g 3430 5989 c 009 aa black",
-    "brand": "canon",
-    "category": "printerebi"
-   },
-   "ka": {
-    "title": "ცანონ პიხმა გ 3430 5989 ც 009 აა ბლაცქ",
-    "brand": "ცანონ",
-    "category": "პრინთერები"
-   }
-  },
-  {
-   "id": "147716",
-   "title": "Canon PIXMA G2430 5991C009AA - Black",
-   "brand": "Canon",
-   "category": "პრინტერები",
-   "latin": {
-    "title": "canon pixma g 2430 5991 c 009 aa black",
-    "brand": "canon",
-    "category": "printerebi"
-   },
-   "ka": {
-    "title": "ცანონ პიხმა გ 2430 5991 ც 009 აა ბლაცქ",
-    "brand": "ცანონ",
-    "category": "პრინთერები"
-   }
-  },
-  {
-   "id": "86509",
-   "title": "Canon PIXMA E414 1366C009AA - Black",
-   "brand": "Canon",
-   "category": "პრინტერები",
-   "latin": {
-    "title": "canon pixma e 414 1366 c 009 aa black",
-    "brand": "canon",
-    "category": "printerebi"
-   },
-   "ka": {
-    "title": "ცანონ პიხმა ე 414 1366 ც 009 აა ბლაცქ",
-    "brand": "ცანონ",
-    "category": "პრინთერები"
-   }
-  },
-  {
-   "id": "101109",
-   "title": "Canon i-SENSYS LBP6030B Bundle - 8468B042AA",
-   "brand": "Canon",
-   "category": "პრინტერები",
-   "latin": {
-    "title": "canon i sensys lbp 6030 b bundle 8468 b 042 aa",
-    "brand": "canon",
-    "category": "printerebi"
-   },
-   "ka": {
-    "title": "ცანონ ი სენსყს ლბპ 6030 ბ ბუნდლე 8468 ბ 042 აა",
-    "brand": "ცანონ",
-    "category": "პრინთერები"
-   }
-  },
-  {
-   "id": "105441",
-   "title": "HP Laser MFP 137fnw 4ZB84A - Black",
-   "brand": "HP",
-   "category": "პრინტერები",
-   "latin": {
-    "title": "hp laser mfp 137 fnw 4 zb 84 a black",
-    "brand": "hp",
-    "category": "printerebi"
-   },
-   "ka": {
-    "title": "ხპ ლასერ მფპ 137 ფნვ 4 ზბ 84 ა ბლაცქ",
-    "brand": "ხპ",
-    "category": "პრინთერები"
-   }
-  },
-  {
-   "id": "138880",
-   "title": "HP LaserJet MFP M141w 7MD74A - White",
-   "brand": "HP",
-   "category": "პრინტერები",
-   "latin": {
-    "title": "hp laserjet mfp m 141 w 7 md 74 a white",
-    "brand": "hp",
-    "category": "printerebi"
-   },
-   "ka": {
-    "title": "ხპ ლასერჯეთ მფპ მ 141 ვ 7 მდ 74 ა ვხითე",
-    "brand": "ხპ",
-    "category": "პრინთერები"
-   }
-  },
-  {
-   "id": "156942",
-   "title": "HP SFP Laser M111w - 7MD68A",
-   "brand": "HP",
-   "category": "პრინტერები",
-   "latin": {
-    "title": "hp sfp laser m 111 w 7 md 68 a",
-    "brand": "hp",
-    "category": "printerebi"
-   },
-   "ka": {
-    "title": "ხპ სფპ ლასერ მ 111 ვ 7 მდ 68 ა",
-    "brand": "ხპ",
-    "category": "პრინთერები"
-   }
-  },
-  {
-   "id": "136980",
-   "title": "TP-Link Archer AX23 AX1800 Dual-Band Wi-Fi 6 Router",
-   "brand": "TP-Link",
-   "category": "როუტერები",
-   "latin": {
-    "title": "tp link archer ax 23 ax 1800 dual band wi fi 6 router",
-    "brand": "tp link",
-    "category": "routerebi"
-   },
-   "ka": {
-    "title": "თპ ლინქ არჩერ ახ 23 ახ 1800 დუალ ბანდ ვი ფი 6 როუთერ",
-    "brand": "თპ ლინქ",
-    "category": "როუთერები"
+    "title": "თცლ გ 64 27 2 ქ 27 გ 64 გრაფითე გრაყ",
+    "brand": "თცლ",
+    "category": "მონითორები"
    }
   },
   {
@@ -3040,33 +2784,161 @@
    }
   },
   {
-   "id": "162515",
-   "title": "TP-link M7000 4G LTE Mobile Wi-Fi",
+   "id": "136973",
+   "title": "TP-Link M7650 LTE-Advanced Mobile Wi-Fi",
    "brand": "TP-Link",
    "category": "როუტერები",
    "latin": {
-    "title": "tp link m 7000 4 g lte mobile wi fi",
+    "title": "tp link m 7650 lte advanced mobile wi fi",
     "brand": "tp link",
     "category": "routerebi"
    },
    "ka": {
-    "title": "თპ ლინქ მ 7000 4 გ ლთე მობილე ვი ფი",
+    "title": "თპ ლინქ მ 7650 ლთე ადვანცედ მობილე ვი ფი",
     "brand": "თპ ლინქ",
     "category": "როუთერები"
    }
   },
   {
-   "id": "136986",
-   "title": "TP-Link TL-MR100 Wireless N 4G LTE Router",
+   "id": "171841",
+   "title": "TP-Link RE225BE BE3600 Wi-Fi 7 Range Extender",
    "brand": "TP-Link",
    "category": "როუტერები",
    "latin": {
-    "title": "tp link tl mr 100 wireless n 4 g lte router",
+    "title": "tp link re 225 be be 3600 wi fi 7 range extender",
     "brand": "tp link",
     "category": "routerebi"
    },
    "ka": {
-    "title": "თპ ლინქ თლ მრ 100 ვირელესს ნ 4 გ ლთე როუთერ",
+    "title": "თპ ლინქ რე 225 ბე ბე 3600 ვი ფი 7 რანგე ეხთენდერ",
+    "brand": "თპ ლინქ",
+    "category": "როუთერები"
+   }
+  },
+  {
+   "id": "95716",
+   "title": "TP-Link M7350 LTE-Advanced Mobile Wi-Fi",
+   "brand": "TP-Link",
+   "category": "როუტერები",
+   "latin": {
+    "title": "tp link m 7350 lte advanced mobile wi fi",
+    "brand": "tp link",
+    "category": "routerebi"
+   },
+   "ka": {
+    "title": "თპ ლინქ მ 7350 ლთე ადვანცედ მობილე ვი ფი",
+    "brand": "თპ ლინქ",
+    "category": "როუთერები"
+   }
+  },
+  {
+   "id": "173210",
+   "title": "TP-link TL-MR100-Outdoor 300Mbps Wireless N 4G LTE Outdoor Router",
+   "brand": "TP-Link",
+   "category": "როუტერები",
+   "latin": {
+    "title": "tp link tl mr 100 outdoor 300 mbps wireless n 4 g lte outdoor router",
+    "brand": "tp link",
+    "category": "routerebi"
+   },
+   "ka": {
+    "title": "თპ ლინქ თლ მრ 100 ოუთდოორ 300 მბპს ვირელესს ნ 4 გ ლთე ოუთდოორ როუთერ",
+    "brand": "თპ ლინქ",
+    "category": "როუთერები"
+   }
+  },
+  {
+   "id": "167568",
+   "title": "TP-link Archer NX600 5G AX3600 Wireless Dual Band Gigabit Wi-Fi 6 Router",
+   "brand": "TP-Link",
+   "category": "როუტერები",
+   "latin": {
+    "title": "tp link archer nx 600 5 g ax 3600 wireless dual band gigabit wi fi 6 router",
+    "brand": "tp link",
+    "category": "routerebi"
+   },
+   "ka": {
+    "title": "თპ ლინქ არჩერ ნხ 600 5 გ ახ 3600 ვირელესს დუალ ბანდ გიგაბით ვი ფი 6 როუთერ",
+    "brand": "თპ ლინქ",
+    "category": "როუთერები"
+   }
+  },
+  {
+   "id": "173203",
+   "title": "TP-Link ARCHER GE400 BE6500 Dual-Band Wi-Fi 7 Gaming Router",
+   "brand": "TP-Link",
+   "category": "როუტერები",
+   "latin": {
+    "title": "tp link archer ge 400 be 6500 dual band wi fi 7 gaming router",
+    "brand": "tp link",
+    "category": "routerebi"
+   },
+   "ka": {
+    "title": "თპ ლინქ არჩერ გე 400 ბე 6500 დუალ ბანდ ვი ფი 7 გამინგ როუთერ",
+    "brand": "თპ ლინქ",
+    "category": "როუთერები"
+   }
+  },
+  {
+   "id": "171819",
+   "title": "TP-Link Archer GE230 BE3600 Dual-Band Wi-Fi 7 Gaming Router",
+   "brand": "TP-Link",
+   "category": "როუტერები",
+   "latin": {
+    "title": "tp link archer ge 230 be 3600 dual band wi fi 7 gaming router",
+    "brand": "tp link",
+    "category": "routerebi"
+   },
+   "ka": {
+    "title": "თპ ლინქ არჩერ გე 230 ბე 3600 დუალ ბანდ ვი ფი 7 გამინგ როუთერ",
+    "brand": "თპ ლინქ",
+    "category": "როუთერები"
+   }
+  },
+  {
+   "id": "136958",
+   "title": "TP-Link Archer AX73 AX5400 Dual-Band Gigabit Wi-Fi 6 Router",
+   "brand": "TP-Link",
+   "category": "როუტერები",
+   "latin": {
+    "title": "tp link archer ax 73 ax 5400 dual band gigabit wi fi 6 router",
+    "brand": "tp link",
+    "category": "routerebi"
+   },
+   "ka": {
+    "title": "თპ ლინქ არჩერ ახ 73 ახ 5400 დუალ ბანდ გიგაბით ვი ფი 6 როუთერ",
+    "brand": "თპ ლინქ",
+    "category": "როუთერები"
+   }
+  },
+  {
+   "id": "175962",
+   "title": "TP-link BE3600 Wi-Fi 7 Range Extender RE235BE - White",
+   "brand": "TP-Link",
+   "category": "როუტერები",
+   "latin": {
+    "title": "tp link be 3600 wi fi 7 range extender re 235 be white",
+    "brand": "tp link",
+    "category": "routerebi"
+   },
+   "ka": {
+    "title": "თპ ლინქ ბე 3600 ვი ფი 7 რანგე ეხთენდერ რე 235 ბე ვხითე",
+    "brand": "თპ ლინქ",
+    "category": "როუთერები"
+   }
+  },
+  {
+   "id": "175958",
+   "title": "TP-Link AX3000 Gigabit Wi-Fi 6 ARCHER AX56 - White",
+   "brand": "TP-Link",
+   "category": "როუტერები",
+   "latin": {
+    "title": "tp link ax 3000 gigabit wi fi 6 archer ax 56 white",
+    "brand": "tp link",
+    "category": "routerebi"
+   },
+   "ka": {
+    "title": "თპ ლინქ ახ 3000 გიგაბით ვი ფი 6 არჩერ ახ 56 ვხითე",
     "brand": "თპ ლინქ",
     "category": "როუთერები"
    }
@@ -3088,22 +2960,6 @@
    }
   },
   {
-   "id": "173208",
-   "title": "TP-link M7005 4G LTE Mobile Wi-Fi",
-   "brand": "TP-Link",
-   "category": "როუტერები",
-   "latin": {
-    "title": "tp link m 7005 4 g lte mobile wi fi",
-    "brand": "tp link",
-    "category": "routerebi"
-   },
-   "ka": {
-    "title": "თპ ლინქ მ 7005 4 გ ლთე მობილე ვი ფი",
-    "brand": "თპ ლინქ",
-    "category": "როუთერები"
-   }
-  },
-  {
    "id": "153101",
    "title": "TP-Link RE305 AC1200 White",
    "brand": "TP-Link",
@@ -3120,2211 +2976,115 @@
    }
   },
   {
-   "id": "89773",
-   "title": "APC 650VA, 230V (BV650I-GR)",
-   "brand": "APC",
-   "category": "უწყვეტი კვების წყაროები",
+   "id": "140209",
+   "title": "Trolley TFY-206B",
+   "brand": "Trolley",
+   "category": "აუდიო",
    "latin": {
-    "title": "apc 650 va 230 v bv 650 i gr",
-    "brand": "apc",
-    "category": "utsqveti kvebis tsqaroebi"
+    "title": "trolley tfy 206 b",
+    "brand": "trolley",
+    "category": "audio"
    },
    "ka": {
-    "title": "აპც 650 ვა 230 ვ ბვ 650 ი გრ",
-    "brand": "აპც",
-    "category": "უცყვეთი ქვების ცყაროები"
+    "title": "თროლლეყ თფყ 206 ბ",
+    "brand": "თროლლეყ",
+    "category": "აუდიო"
    }
   },
   {
-   "id": "139936",
-   "title": "SVC V-1050, 1050VA, 500W UPS",
-   "brand": "SVC",
-   "category": "უწყვეტი კვების წყაროები",
+   "id": "169639",
+   "title": "House of Marley (EM-JA019-BK) Get Together Duo Black",
+   "brand": "House of Marley",
+   "category": "აუდიო",
    "latin": {
-    "title": "svc v 1050 1050 va 500 w ups",
-    "brand": "svc",
-    "category": "utsqveti kvebis tsqaroebi"
+    "title": "house of marley em ja 019 bk get together duo black",
+    "brand": "house of marley",
+    "category": "audio"
    },
    "ka": {
-    "title": "სვც ვ 1050 1050 ვა 500 ვ უპს",
-    "brand": "სვც",
-    "category": "უცყვეთი ქვების ცყაროები"
+    "title": "ხოუსე ოფ მარლეყ ემ ჯა 019 ბქ გეთ თოგეთხერ დუო ბლაცქ",
+    "brand": "ხოუსე ოფ მარლეყ",
+    "category": "აუდიო"
    }
   },
   {
-   "id": "139935",
-   "title": "SVC V-850, 850VA, 480W UPS",
-   "brand": "SVC",
-   "category": "უწყვეტი კვების წყაროები",
+   "id": "144476",
+   "title": "Eden ED-837 Party Speaker 40W",
+   "brand": "Eden",
+   "category": "აუდიო",
    "latin": {
-    "title": "svc v 850 850 va 480 w ups",
-    "brand": "svc",
-    "category": "utsqveti kvebis tsqaroebi"
+    "title": "eden ed 837 party speaker 40 w",
+    "brand": "eden",
+    "category": "audio"
    },
    "ka": {
-    "title": "სვც ვ 850 850 ვა 480 ვ უპს",
-    "brand": "სვც",
-    "category": "უცყვეთი ქვების ცყაროები"
+    "title": "ედენ ედ 837 პართყ სპეაქერ 40 ვ",
+    "brand": "ედენ",
+    "category": "აუდიო"
    }
   },
   {
-   "id": "139934",
-   "title": "SVC V-650, 650VA, 360W UPS",
-   "brand": "SVC",
-   "category": "უწყვეტი კვების წყაროები",
+   "id": "144477",
+   "title": "Eden GSP-400 Party Speaker 25W",
+   "brand": "Eden",
+   "category": "აუდიო",
    "latin": {
-    "title": "svc v 650 650 va 360 w ups",
-    "brand": "svc",
-    "category": "utsqveti kvebis tsqaroebi"
+    "title": "eden gsp 400 party speaker 25 w",
+    "brand": "eden",
+    "category": "audio"
    },
    "ka": {
-    "title": "სვც ვ 650 650 ვა 360 ვ უპს",
-    "brand": "სვც",
-    "category": "უცყვეთი ქვების ცყაროები"
+    "title": "ედენ გსპ 400 პართყ სპეაქერ 25 ვ",
+    "brand": "ედენ",
+    "category": "აუდიო"
    }
   },
   {
-   "id": "153383",
-   "title": "Marvo BS-010 Wired Speaker",
-   "brand": "Marvo",
-   "category": "დინამიკები",
+   "id": "130310",
+   "title": "Canon EOS RP Body",
+   "brand": "Canon",
+   "category": "ფოტოაპარატები",
    "latin": {
-    "title": "marvo bs 010 wired speaker",
-    "brand": "marvo",
-    "category": "dinamikebi"
+    "title": "canon eos rp body",
+    "brand": "canon",
+    "category": "fotoaparatebi"
    },
    "ka": {
-    "title": "მარვო ბს 010 ვირედ სპეაქერ",
-    "brand": "მარვო",
-    "category": "დინამიქები"
+    "title": "ცანონ ეოს რპ ბოდყ",
+    "brand": "ცანონ",
+    "category": "ფოთოაპარათები"
    }
   },
   {
-   "id": "166383",
-   "title": "Genius Two Way Hi-Fi Wood Speakers SP-HF500A II Wood",
-   "brand": "Genius",
-   "category": "დინამიკები",
+   "id": "143285",
+   "title": "Canon EOS R7 Body",
+   "brand": "Canon",
+   "category": "ფოტოაპარატები",
    "latin": {
-    "title": "genius two way hi fi wood speakers sp hf 500 a ii wood",
-    "brand": "genius",
-    "category": "dinamikebi"
+    "title": "canon eos r 7 body",
+    "brand": "canon",
+    "category": "fotoaparatebi"
    },
    "ka": {
-    "title": "გენიუს თვო ვაყ ხი ფი ვოოდ სპეაქერს სპ ხფ 500 ა იი ვოოდ",
-    "brand": "გენიუს",
-    "category": "დინამიქები"
+    "title": "ცანონ ეოს რ 7 ბოდყ",
+    "brand": "ცანონ",
+    "category": "ფოთოაპარათები"
    }
   },
   {
-   "id": "127692",
-   "title": "Marvo SG-269 Gaming Speakers",
-   "brand": "Marvo",
-   "category": "დინამიკები",
-   "latin": {
-    "title": "marvo sg 269 gaming speakers",
-    "brand": "marvo",
-    "category": "dinamikebi"
-   },
-   "ka": {
-    "title": "მარვო სგ 269 გამინგ სპეაქერს",
-    "brand": "მარვო",
-    "category": "დინამიქები"
-   }
-  },
-  {
-   "id": "166388",
-   "title": "Genius 3-piece Speaker System SW-2.1 300 II",
-   "brand": "Genius",
-   "category": "დინამიკები",
-   "latin": {
-    "title": "genius 3 piece speaker system sw 2 1 300 ii",
-    "brand": "genius",
-    "category": "dinamikebi"
-   },
-   "ka": {
-    "title": "გენიუს 3 პიეცე სპეაქერ სყსთემ სვ 2 1 300 იი",
-    "brand": "გენიუს",
-    "category": "დინამიქები"
-   }
-  },
-  {
-   "id": "112250",
-   "title": "Genius SP-HF180 USB Wood",
-   "brand": "Genius",
-   "category": "დინამიკები",
-   "latin": {
-    "title": "genius sp hf 180 usb wood",
-    "brand": "genius",
-    "category": "dinamikebi"
-   },
-   "ka": {
-    "title": "გენიუს სპ ხფ 180 უსბ ვოოდ",
-    "brand": "გენიუს",
-    "category": "დინამიქები"
-   }
-  },
-  {
-   "id": "112251",
-   "title": "Genius SP-HF180 USB Black",
-   "brand": "Genius",
-   "category": "დინამიკები",
-   "latin": {
-    "title": "genius sp hf 180 usb black",
-    "brand": "genius",
-    "category": "dinamikebi"
-   },
-   "ka": {
-    "title": "გენიუს სპ ხფ 180 უსბ ბლაცქ",
-    "brand": "გენიუს",
-    "category": "დინამიქები"
-   }
-  },
-  {
-   "id": "118882",
-   "title": "Asus EOS2 Shoulder Bag 15.6\" - Black",
-   "brand": "Asus",
-   "category": "ნოუთბუქის ჩანთები",
-   "latin": {
-    "title": "asus eos 2 shoulder bag 15 6 black",
-    "brand": "asus",
-    "category": "noutbukis chantebi"
-   },
-   "ka": {
-    "title": "ასუს ეოს 2 შოულდერ ბაგ 15 6 ბლაცქ",
-    "brand": "ასუს",
-    "category": "ნოუთბუქის ჩანთები"
-   }
-  },
-  {
-   "id": "118883",
-   "title": "Asus EOS2 Shoulder Bag 15.6\" - Gray",
-   "brand": "Asus",
-   "category": "ნოუთბუქის ჩანთები",
-   "latin": {
-    "title": "asus eos 2 shoulder bag 15 6 gray",
-    "brand": "asus",
-    "category": "noutbukis chantebi"
-   },
-   "ka": {
-    "title": "ასუს ეოს 2 შოულდერ ბაგ 15 6 გრაყ",
-    "brand": "ასუს",
-    "category": "ნოუთბუქის ჩანთები"
-   }
-  },
-  {
-   "id": "99988",
-   "title": "Lenovo 15.6'' Casual Toploader T210 Gray",
-   "brand": "Lenovo",
-   "category": "ნოუთბუქის ჩანთები",
-   "latin": {
-    "title": "lenovo 15 6 casual toploader t 210 gray",
-    "brand": "lenovo",
-    "category": "noutbukis chantebi"
-   },
-   "ka": {
-    "title": "ლენოვო 15 6 ცასუალ თოპლოადერ თ 210 გრაყ",
-    "brand": "ლენოვო",
-    "category": "ნოუთბუქის ჩანთები"
-   }
-  },
-  {
-   "id": "153352",
-   "title": "Lenovo Legion MousePad (L) - Grey",
-   "brand": "Lenovo",
-   "category": "მაუსპადები",
-   "latin": {
-    "title": "lenovo legion mousepad l grey",
-    "brand": "lenovo",
-    "category": "mauspadebi"
-   },
-   "ka": {
-    "title": "ლენოვო ლეგიონ მოუსეპად ლ გრეყ",
-    "brand": "ლენოვო",
-    "category": "მაუსპადები"
-   }
-  },
-  {
-   "id": "153308",
-   "title": "Lenovo Legion MousePad (L)",
-   "brand": "Lenovo",
-   "category": "მაუსპადები",
-   "latin": {
-    "title": "lenovo legion mousepad l",
-    "brand": "lenovo",
-    "category": "mauspadebi"
-   },
-   "ka": {
-    "title": "ლენოვო ლეგიონ მოუსეპად ლ",
-    "brand": "ლენოვო",
-    "category": "მაუსპადები"
-   }
-  },
-  {
-   "id": "157777",
-   "title": "MARVO G51 Noob XL Mouse Pad",
-   "brand": "Marvo",
-   "category": "მაუსპადები",
-   "latin": {
-    "title": "marvo g 51 noob xl mouse pad",
-    "brand": "marvo",
-    "category": "mauspadebi"
-   },
-   "ka": {
-    "title": "მარვო გ 51 ნოობ ხლ მოუსე პად",
-    "brand": "მარვო",
-    "category": "მაუსპადები"
-   }
-  },
-  {
-   "id": "153330",
-   "title": "Lenovo Legion MousePad (XL)",
-   "brand": "Lenovo",
-   "category": "მაუსპადები",
-   "latin": {
-    "title": "lenovo legion mousepad xl",
-    "brand": "lenovo",
-    "category": "mauspadebi"
-   },
-   "ka": {
-    "title": "ლენოვო ლეგიონ მოუსეპად ხლ",
-    "brand": "ლენოვო",
-    "category": "მაუსპადები"
-   }
-  },
-  {
-   "id": "165211",
-   "title": "HP 100 Sanitizable Mouse Pad",
-   "brand": "HP",
-   "category": "მაუსპადები",
-   "latin": {
-    "title": "hp 100 sanitizable mouse pad",
-    "brand": "hp",
-    "category": "mauspadebi"
-   },
-   "ka": {
-    "title": "ხპ 100 სანითიზაბლე მოუსე პად",
-    "brand": "ხპ",
-    "category": "მაუსპადები"
-   }
-  },
-  {
-   "id": "167549",
-   "title": "MARVO MG011 gaming mouse pad",
-   "brand": "Marvo",
-   "category": "მაუსპადები",
-   "latin": {
-    "title": "marvo mg 011 gaming mouse pad",
-    "brand": "marvo",
-    "category": "mauspadebi"
-   },
-   "ka": {
-    "title": "მარვო მგ 011 გამინგ მოუსე პად",
-    "brand": "მარვო",
-    "category": "მაუსპადები"
-   }
-  },
-  {
-   "id": "153373",
-   "title": "MARVO G803 Wireless Mouse - Black",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo g 803 wireless mouse black",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო გ 803 ვირელესს მოუსე ბლაცქ",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "145007",
-   "title": "Marvo M796W Wireless Mouse",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo m 796 w wireless mouse",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო მ 796 ვ ვირელესს მოუსე",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "148144",
-   "title": "Marvo G946",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo g 946",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო გ 946",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "157672",
-   "title": "MARVO G950 BK Wired Gaming Mouse Niro 40",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo g 950 bk wired gaming mouse niro 40",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო გ 950 ბქ ვირედ გამინგ მოუსე ნირო 40",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "117214",
-   "title": "Lenovo ThinkPad Wireless Mouse (4X30M56887)",
-   "brand": "Lenovo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "lenovo thinkpad wireless mouse 4 x 30 m 56887",
-    "brand": "lenovo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლენოვო თხინქპად ვირელესს მოუსე 4 ხ 30 მ 56887",
-    "brand": "ლენოვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "147558",
-   "title": "Asus TUF Gaming M3 Gen II - Black (90MP0320-BMUA00)",
-   "brand": "Asus",
-   "category": "მაუსები",
-   "latin": {
-    "title": "asus tuf gaming m 3 gen ii black 90 mp 0320 bmua 00",
-    "brand": "asus",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ასუს თუფ გამინგ მ 3 გენ იი ბლაცქ 90 მპ 0320 ბმუა 00",
-    "brand": "ასუს",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "153374",
-   "title": "MARVO G803 Wireless Mouse - White",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo g 803 wireless mouse white",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო გ 803 ვირელესს მოუსე ვხითე",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "171775",
-   "title": "Lenovo Yoga Bluetooth Silent Mouse - Luna Grey",
-   "brand": "Lenovo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "lenovo yoga bluetooth silent mouse luna grey",
-    "brand": "lenovo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლენოვო ყოგა ბლუეთოოთხ სილენთ მოუსე ლუნა გრეყ",
-    "brand": "ლენოვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "171776",
-   "title": "Lenovo Yoga Bluetooth Silent Mouse - Cosmic Blue",
-   "brand": "Lenovo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "lenovo yoga bluetooth silent mouse cosmic blue",
-    "brand": "lenovo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლენოვო ყოგა ბლუეთოოთხ სილენთ მოუსე ცოსმიც ბლუე",
-    "brand": "ლენოვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "167528",
-   "title": "MARVO G964W Wireless Mouse Black",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo g 964 w wireless mouse black",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო გ 964 ვ ვირელესს მოუსე ბლაცქ",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "137211",
-   "title": "HP 150 Wireless Mouse (2S9L1AA)",
-   "brand": "HP",
-   "category": "მაუსები",
-   "latin": {
-    "title": "hp 150 wireless mouse 2 s 9 l 1 aa",
-    "brand": "hp",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ხპ 150 ვირელესს მოუსე 2 ს 9 ლ 1 აა",
-    "brand": "ხპ",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "145008",
-   "title": "Marvo M727 - Black",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo m 727 black",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო მ 727 ბლაცქ",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "148149",
-   "title": "Marvo M655",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo m 655",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო მ 655",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "164977",
-   "title": "Lenovo WL310 Bluetooth Silent Mouse",
-   "brand": "Lenovo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "lenovo wl 310 bluetooth silent mouse",
-    "brand": "lenovo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლენოვო ვლ 310 ბლუეთოოთხ სილენთ მოუსე",
-    "brand": "ლენოვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "78109",
-   "title": "Logitech M171 Wireless Red/Black (910-004641)",
-   "brand": "Logitech",
-   "category": "მაუსები",
-   "latin": {
-    "title": "logitech m 171 wireless red black 910 004641",
-    "brand": "logitech",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლოგითეჩ მ 171 ვირელესს რედ ბლაცქ 910 004641",
-    "brand": "ლოგითეჩ",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "78827",
-   "title": "Lenovo 300 Black (GX30K79401)",
-   "brand": "Lenovo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "lenovo 300 black gx 30 k 79401",
-    "brand": "lenovo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლენოვო 300 ბლაცქ გხ 30 ქ 79401",
-    "brand": "ლენოვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "153386",
-   "title": "Marvo M58 Wired Gaming Mouse",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo m 58 wired gaming mouse",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო მ 58 ვირედ გამინგ მოუსე",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "172943",
-   "title": "Lenovo Yoga Bluetooth Silent Mouse - Tidal Teal",
-   "brand": "Lenovo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "lenovo yoga bluetooth silent mouse tidal teal",
-    "brand": "lenovo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლენოვო ყოგა ბლუეთოოთხ სილენთ მოუსე თიდალ თეალ",
-    "brand": "ლენოვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "172944",
-   "title": "Lenovo Yoga Bluetooth Silent Mouse - Seashell",
-   "brand": "Lenovo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "lenovo yoga bluetooth silent mouse seashell",
-    "brand": "lenovo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლენოვო ყოგა ბლუეთოოთხ სილენთ მოუსე სეაშელლ",
-    "brand": "ლენოვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "148143",
-   "title": "MARVO M358 Wired Gaming Mouse - Black",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo m 358 wired gaming mouse black",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო მ 358 ვირედ გამინგ მოუსე ბლაცქ",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "76298",
-   "title": "Genius NX-7000 White",
-   "brand": "Genius",
-   "category": "მაუსები",
-   "latin": {
-    "title": "genius nx 7000 white",
-    "brand": "genius",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "გენიუს ნხ 7000 ვხითე",
-    "brand": "გენიუს",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "65749",
-   "title": "Asus WT425 Black",
-   "brand": "Asus",
-   "category": "მაუსები",
-   "latin": {
-    "title": "asus wt 425 black",
-    "brand": "asus",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ასუს ვთ 425 ბლაცქ",
-    "brand": "ასუს",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "132170",
-   "title": "Yenkee YMS 3030BK Shotgun",
-   "brand": "Yenkee",
-   "category": "მაუსები",
-   "latin": {
-    "title": "yenkee yms 3030 bk shotgun",
-    "brand": "yenkee",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ყენქეე ყმს 3030 ბქ შოთგუნ",
-    "brand": "ყენქეე",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "138538",
-   "title": "Lenovo 540 Wireless Mouse - Grey",
-   "brand": "Lenovo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "lenovo 540 wireless mouse grey",
-    "brand": "lenovo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლენოვო 540 ვირელესს მოუსე გრეყ",
-    "brand": "ლენოვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "175456",
-   "title": "MARVO Niro 50 Wireless Gaming Mouse Black",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo niro 50 wireless gaming mouse black",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო ნირო 50 ვირელესს გამინგ მოუსე ბლაცქ",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "175457",
-   "title": "MARVO Niro 50 Wireless Gaming Mouse White",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo niro 50 wireless gaming mouse white",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო ნირო 50 ვირელესს გამინგ მოუსე ვხითე",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "152569",
-   "title": "LOGITECH Pebble Mouse 2 M350s - TONAL GRAPHITE - BT - EMEA-808 - DONGLELESS",
-   "brand": "Logitech",
-   "category": "მაუსები",
-   "latin": {
-    "title": "logitech pebble mouse 2 m 350 s tonal graphite bt emea 808 dongleless",
-    "brand": "logitech",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლოგითეჩ პებბლე მოუსე 2 მ 350 ს თონალ გრაფითე ბთ ემეა 808 დონგლელესს",
-    "brand": "ლოგითეჩ",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "80676",
-   "title": "HP Z3700 Wireless (V0L81AA) - Blue",
-   "brand": "HP",
-   "category": "მაუსები",
-   "latin": {
-    "title": "hp z 3700 wireless v 0 l 81 aa blue",
-    "brand": "hp",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ხპ ზ 3700 ვირელესს ვ 0 ლ 81 აა ბლუე",
-    "brand": "ხპ",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "136704",
-   "title": "Asus Marshmallow Mouse MD100 - Quiet Blue",
-   "brand": "Asus",
-   "category": "მაუსები",
-   "latin": {
-    "title": "asus marshmallow mouse md 100 quiet blue",
-    "brand": "asus",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ასუს მარშმალლოვ მოუსე მდ 100 ყუიეთ ბლუე",
-    "brand": "ასუს",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "141513",
-   "title": "HP Z3700 Wireless Mouse (V0L82AA) - Red",
-   "brand": "HP",
-   "category": "მაუსები",
-   "latin": {
-    "title": "hp z 3700 wireless mouse v 0 l 82 aa red",
-    "brand": "hp",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ხპ ზ 3700 ვირელესს მოუსე ვ 0 ლ 82 აა რედ",
-    "brand": "ხპ",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "80674",
-   "title": "HP Z3700 Wireless (V0L79AA) - Black",
-   "brand": "HP",
-   "category": "მაუსები",
-   "latin": {
-    "title": "hp z 3700 wireless v 0 l 79 aa black",
-    "brand": "hp",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ხპ ზ 3700 ვირელესს ვ 0 ლ 79 აა ბლაცქ",
-    "brand": "ხპ",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "80675",
-   "title": "HP Z3700 Wireless (V0L80AA) - White",
-   "brand": "HP",
-   "category": "მაუსები",
-   "latin": {
-    "title": "hp z 3700 wireless v 0 l 80 aa white",
-    "brand": "hp",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ხპ ზ 3700 ვირელესს ვ 0 ლ 80 აა ვხითე",
-    "brand": "ხპ",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "108674",
-   "title": "HP Z3700 Wireless (4VY82AA) - Pink",
-   "brand": "HP",
-   "category": "მაუსები",
-   "latin": {
-    "title": "hp z 3700 wireless 4 vy 82 aa pink",
-    "brand": "hp",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ხპ ზ 3700 ვირელესს 4 ვყ 82 აა პინქ",
-    "brand": "ხპ",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "146286",
-   "title": "Logitech M240 Silent (L910-007119) - Graphite",
-   "brand": "Logitech",
-   "category": "მაუსები",
-   "latin": {
-    "title": "logitech m 240 silent l 910 007119 graphite",
-    "brand": "logitech",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლოგითეჩ მ 240 სილენთ ლ 910 007119 გრაფითე",
-    "brand": "ლოგითეჩ",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "146287",
-   "title": "Logitech M240 Silent (L910-007120) - Off-White",
-   "brand": "Logitech",
-   "category": "მაუსები",
-   "latin": {
-    "title": "logitech m 240 silent l 910 007120 off white",
-    "brand": "logitech",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლოგითეჩ მ 240 სილენთ ლ 910 007120 ოფფ ვხითე",
-    "brand": "ლოგითეჩ",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "145005",
-   "title": "Marvo M411 - Black",
-   "brand": "Marvo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "marvo m 411 black",
-    "brand": "marvo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "მარვო მ 411 ბლაცქ",
-    "brand": "მარვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "108380",
-   "title": "Logitech M170 Wireless Mouse (910-004642) - Grey",
-   "brand": "Logitech",
-   "category": "მაუსები",
-   "latin": {
-    "title": "logitech m 170 wireless mouse 910 004642 grey",
-    "brand": "logitech",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლოგითეჩ მ 170 ვირელესს მოუსე 910 004642 გრეყ",
-    "brand": "ლოგითეჩ",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "153867",
-   "title": "Canyon GM-211 RGB 6buttons Wired - Black",
-   "brand": "Canyon",
-   "category": "მაუსები",
-   "latin": {
-    "title": "canyon gm 211 rgb 6 buttons wired black",
-    "brand": "canyon",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ცანყონ გმ 211 რგბ 6 ბუთთონს ვირედ ბლაცქ",
-    "brand": "ცანყონ",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "172945",
-   "title": "Lenovo Essential Compact Wireless Mouse",
-   "brand": "Lenovo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "lenovo essential compact wireless mouse",
-    "brand": "lenovo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლენოვო ესსენთიალ ცომპაცთ ვირელესს მოუსე",
-    "brand": "ლენოვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "150387",
-   "title": "Lenovo 300 Wireless (GY51L15677) - Cloud Grey",
-   "brand": "Lenovo",
-   "category": "მაუსები",
-   "latin": {
-    "title": "lenovo 300 wireless gy 51 l 15677 cloud grey",
-    "brand": "lenovo",
-    "category": "mausebi"
-   },
-   "ka": {
-    "title": "ლენოვო 300 ვირელესს გყ 51 ლ 15677 ცლოუდ გრეყ",
-    "brand": "ლენოვო",
-    "category": "მაუსები"
-   }
-  },
-  {
-   "id": "157679",
-   "title": "Marvo MIC-06 BK Wired Microphone - Black",
-   "brand": "Marvo",
-   "category": "მიკროფონები",
-   "latin": {
-    "title": "marvo mic 06 bk wired microphone black",
-    "brand": "marvo",
-    "category": "mikrofonebi"
-   },
-   "ka": {
-    "title": "მარვო მიც 06 ბქ ვირედ მიცროფონე ბლაცქ",
-    "brand": "მარვო",
-    "category": "მიქროფონები"
-   }
-  },
-  {
-   "id": "175459",
-   "title": "MARVO Blast 50 White Streaming Microphone",
-   "brand": "Marvo",
-   "category": "მიკროფონები",
-   "latin": {
-    "title": "marvo blast 50 white streaming microphone",
-    "brand": "marvo",
-    "category": "mikrofonebi"
-   },
-   "ka": {
-    "title": "მარვო ბლასთ 50 ვხითე სთრეამინგ მიცროფონე",
-    "brand": "მარვო",
-    "category": "მიქროფონები"
-   }
-  },
-  {
-   "id": "148169",
-   "title": "MARVO MIC-06 WH Wired Microphone - White",
-   "brand": "Marvo",
-   "category": "მიკროფონები",
-   "latin": {
-    "title": "marvo mic 06 wh wired microphone white",
-    "brand": "marvo",
-    "category": "mikrofonebi"
-   },
-   "ka": {
-    "title": "მარვო მიც 06 ვხ ვირედ მიცროფონე ვხითე",
-    "brand": "მარვო",
-    "category": "მიქროფონები"
-   }
-  },
-  {
-   "id": "175460",
-   "title": "MARVO Blast 50 Black Streaming Microphone",
-   "brand": "Marvo",
-   "category": "მიკროფონები",
-   "latin": {
-    "title": "marvo blast 50 black streaming microphone",
-    "brand": "marvo",
-    "category": "mikrofonebi"
-   },
-   "ka": {
-    "title": "მარვო ბლასთ 50 ბლაცქ სთრეამინგ მიცროფონე",
-    "brand": "მარვო",
-    "category": "მიქროფონები"
-   }
-  },
-  {
-   "id": "111885",
-   "title": "Genius SlimStar 126 USB Black",
-   "brand": "Genius",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "genius slimstar 126 usb black",
-    "brand": "genius",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "გენიუს სლიმსთარ 126 უსბ ბლაცქ",
-    "brand": "გენიუს",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "148164",
-   "title": "Marvo WS005 wireless",
-   "brand": "Marvo",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "marvo ws 005 wireless",
-    "brand": "marvo",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "მარვო ვს 005 ვირელესს",
-    "brand": "მარვო",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "166350",
-   "title": "Genius NumPad 1000",
-   "brand": "Genius",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "genius numpad 1000",
-    "brand": "genius",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "გენიუს ნუმპად 1000",
-    "brand": "გენიუს",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "167560",
-   "title": "MARVO WS005 BK wireless combo White",
-   "brand": "Marvo",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "marvo ws 005 bk wireless combo white",
-    "brand": "marvo",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "მარვო ვს 005 ბქ ვირელესს ცომბო ვხითე",
-    "brand": "მარვო",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "166346",
-   "title": "Genius SlimStar 126 Keyboard White",
-   "brand": "Genius",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "genius slimstar 126 keyboard white",
-    "brand": "genius",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "გენიუს სლიმსთარ 126 ქეყბოარდ ვხითე",
-    "brand": "გენიუს",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "160870",
-   "title": "Lenovo Essential Wireless Combo Keyboard & Mouse Gen2",
-   "brand": "Lenovo",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "lenovo essential wireless combo keyboard & mouse gen 2",
-    "brand": "lenovo",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "ლენოვო ესსენთიალ ვირელესს ცომბო ქეყბოარდ & მოუსე გენ 2",
-    "brand": "ლენოვო",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "162367",
-   "title": "Canyon SET-W01 Keyboard+Mouse Wireless Black",
-   "brand": "Canyon",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "canyon set w 01 keyboard mouse wireless black",
-    "brand": "canyon",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "ცანყონ სეთ ვ 01 ქეყბოარდ მოუსე ვირელესს ბლაცქ",
-    "brand": "ცანყონ",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "127705",
-   "title": "Marvo CM310 Combo",
-   "brand": "Marvo",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "marvo cm 310 combo",
-    "brand": "marvo",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "მარვო ცმ 310 ცომბო",
-    "brand": "მარვო",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "162357",
-   "title": "CANYON SET-W20 UK/US Keyboard+Mouse Velvet Wireless Black",
-   "brand": "Canyon",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "canyon set w 20 uk us keyboard mouse velvet wireless black",
-    "brand": "canyon",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "ცანყონ სეთ ვ 20 უქ უს ქეყბოარდ მოუსე ველვეთ ვირელესს ბლაცქ",
-    "brand": "ცანყონ",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "162809",
-   "title": "Dark Project ALU87 Violet - Mechanical Gaming Keyboard (ANSI)",
-   "brand": "Dark Project",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "dark project alu 87 violet mechanical gaming keyboard ansi",
-    "brand": "dark project",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "დარქ პროჯეცთ ალუ 87 ვიოლეთ მეჩანიცალ გამინგ ქეყბოარდ ანსი",
-    "brand": "დარქ პროჯეცთ",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "172457",
-   "title": "Dark Project ALU Daylight - Mechanical Gaming Keyboard",
-   "brand": "Dark Project",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "dark project alu daylight mechanical gaming keyboard",
-    "brand": "dark project",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "დარქ პროჯეცთ ალუ დაყლიგთ მეჩანიცალ გამინგ ქეყბოარდ",
-    "brand": "დარქ პროჯეცთ",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "166404",
-   "title": "Genius KB-117S Wired Copilot Silent Keyboard",
-   "brand": "Genius",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "genius kb 117 s wired copilot silent keyboard",
-    "brand": "genius",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "გენიუს ქბ 117 ს ვირედ ცოპილოთ სილენთ ქეყბოარდ",
-    "brand": "გენიუს",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "60404",
-   "title": "Logitech MK120",
-   "brand": "Logitech",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "logitech mk 120",
-    "brand": "logitech",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "ლოგითეჩ მქ 120",
-    "brand": "ლოგითეჩ",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "167537",
-   "title": "MARVO Saber wired mechanical gaming keyboard RGB lighting Black",
-   "brand": "Marvo",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "marvo saber wired mechanical gaming keyboard rgb lighting black",
-    "brand": "marvo",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "მარვო საბერ ვირედ მეჩანიცალ გამინგ ქეყბოარდ რგბ ლიგთინგ ბლაცქ",
-    "brand": "მარვო",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "137210",
-   "title": "HP 150 Wired Keyboard (664R5AA)",
-   "brand": "HP",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "hp 150 wired keyboard 664 r 5 aa",
-    "brand": "hp",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "ხპ 150 ვირედ ქეყბოარდ 664 რ 5 აა",
-    "brand": "ხპ",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "167540",
-   "title": "MARVO Saber wired mechanical gaming keyboard RGB lighting White",
-   "brand": "Marvo",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "marvo saber wired mechanical gaming keyboard rgb lighting white",
-    "brand": "marvo",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "მარვო საბერ ვირედ მეჩანიცალ გამინგ ქეყბოარდ რგბ ლიგთინგ ვხითე",
-    "brand": "მარვო",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "155537",
-   "title": "GEMBIRD 4-in-1 backlight gaming kit US layout",
-   "brand": "Gembird",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "gembird 4 in 1 backlight gaming kit us layout",
-    "brand": "gembird",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "გემბირდ 4 ინ 1 ბაცქლიგთ გამინგ ქით უს ლაყოუთ",
-    "brand": "გემბირდ",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "162810",
-   "title": "Dark Project ALU Bushido - Mechanical Gaming Keyboard (ANSI)",
-   "brand": "Dark Project",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "dark project alu bushido mechanical gaming keyboard ansi",
-    "brand": "dark project",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "დარქ პროჯეცთ ალუ ბუშიდო მეჩანიცალ გამინგ ქეყბოარდ ანსი",
-    "brand": "დარქ პროჯეცთ",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "137208",
-   "title": "HP 150 Wired Keyboard and Mouse (240J7AA)",
-   "brand": "HP",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "hp 150 wired keyboard and mouse 240 j 7 aa",
-    "brand": "hp",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "ხპ 150 ვირედ ქეყბოარდ ანდ მოუსე 240 ჯ 7 აა",
-    "brand": "ხპ",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "108399",
-   "title": "LOGITECH K120 Corded Keyboard - BLACK",
-   "brand": "Logitech",
-   "category": "კლავიატურები",
-   "latin": {
-    "title": "logitech k 120 corded keyboard black",
-    "brand": "logitech",
-    "category": "klaviaturebi"
-   },
-   "ka": {
-    "title": "ლოგითეჩ ქ 120 ცორდედ ქეყბოარდ ბლაცქ",
-    "brand": "ლოგითეჩ",
-    "category": "ქლავიათურები"
-   }
-  },
-  {
-   "id": "153367",
-   "title": "MARVO GT-88 Ghost 40 wireless game pad",
-   "brand": "Marvo",
-   "category": "ჯოისტიკები",
-   "latin": {
-    "title": "marvo gt 88 ghost 40 wireless game pad",
-    "brand": "marvo",
-    "category": "joistikebi"
-   },
-   "ka": {
-    "title": "მარვო გთ 88 გოსთ 40 ვირელესს გამე პად",
-    "brand": "მარვო",
-    "category": "ჯოისთიქები"
-   }
-  },
-  {
-   "id": "137554",
-   "title": "Marvo GT-90 Gaming Pad",
-   "brand": "Marvo",
-   "category": "ჯოისტიკები",
-   "latin": {
-    "title": "marvo gt 90 gaming pad",
-    "brand": "marvo",
-    "category": "joistikebi"
-   },
-   "ka": {
-    "title": "მარვო გთ 90 გამინგ პად",
-    "brand": "მარვო",
-    "category": "ჯოისთიქები"
-   }
-  },
-  {
-   "id": "142485",
-   "title": "Genesis Vanad 200 Mouse bungee",
-   "brand": "Genesis",
-   "category": "ყურსასმენები",
-   "latin": {
-    "title": "genesis vanad 200 mouse bungee",
-    "brand": "genesis",
-    "category": "qursasmenebi"
-   },
-   "ka": {
-    "title": "გენესის ვანად 200 მოუსე ბუნგეე",
-    "brand": "გენესის",
-    "category": "ყურსასმენები"
-   }
-  },
-  {
-   "id": "157784",
-   "title": "Marvo HP1001 Office Headset",
-   "brand": "Marvo",
-   "category": "ყურსასმენები",
-   "latin": {
-    "title": "marvo hp 1001 office headset",
-    "brand": "marvo",
-    "category": "qursasmenebi"
-   },
-   "ka": {
-    "title": "მარვო ხპ 1001 ოფფიცე ხეადსეთ",
-    "brand": "მარვო",
-    "category": "ყურსასმენები"
-   }
-  },
-  {
-   "id": "153366",
-   "title": "MARVO H8959 Wired Headset - White",
-   "brand": "Marvo",
-   "category": "ყურსასმენები",
-   "latin": {
-    "title": "marvo h 8959 wired headset white",
-    "brand": "marvo",
-    "category": "qursasmenebi"
-   },
-   "ka": {
-    "title": "მარვო ხ 8959 ვირედ ხეადსეთ ვხითე",
-    "brand": "მარვო",
-    "category": "ყურსასმენები"
-   }
-  },
-  {
-   "id": "157789",
-   "title": "MARVO HZ-10 Kobe 30 HEADSET STAND",
-   "brand": "Marvo",
-   "category": "ყურსასმენები",
-   "latin": {
-    "title": "marvo hz 10 kobe 30 headset stand",
-    "brand": "marvo",
-    "category": "qursasmenebi"
-   },
-   "ka": {
-    "title": "მარვო ხზ 10 ქობე 30 ხეადსეთ სთანდ",
-    "brand": "მარვო",
-    "category": "ყურსასმენები"
-   }
-  },
-  {
-   "id": "145012",
-   "title": "Marvo H8618 - White",
-   "brand": "Marvo",
-   "category": "ყურსასმენები",
-   "latin": {
-    "title": "marvo h 8618 white",
-    "brand": "marvo",
-    "category": "qursasmenebi"
-   },
-   "ka": {
-    "title": "მარვო ხ 8618 ვხითე",
-    "brand": "მარვო",
-    "category": "ყურსასმენები"
-   }
-  },
-  {
-   "id": "157483",
-   "title": "Lenovo Essential Stereo Analog Headset",
-   "brand": "Lenovo",
-   "category": "ყურსასმენები",
-   "latin": {
-    "title": "lenovo essential stereo analog headset",
-    "brand": "lenovo",
-    "category": "qursasmenebi"
-   },
-   "ka": {
-    "title": "ლენოვო ესსენთიალ სთერეო ანალოგ ხეადსეთ",
-    "brand": "ლენოვო",
-    "category": "ყურსასმენები"
-   }
-  },
-  {
-   "id": "148167",
-   "title": "MARVO HG9069W wireless headset",
-   "brand": "Marvo",
-   "category": "ყურსასმენები",
-   "latin": {
-    "title": "marvo hg 9069 w wireless headset",
-    "brand": "marvo",
-    "category": "qursasmenebi"
-   },
-   "ka": {
-    "title": "მარვო ხგ 9069 ვ ვირელესს ხეადსეთ",
-    "brand": "მარვო",
-    "category": "ყურსასმენები"
-   }
-  },
-  {
-   "id": "157576",
-   "title": "Lenovo 100 Stereo Analogue Headset",
-   "brand": "Lenovo",
-   "category": "ყურსასმენები",
-   "latin": {
-    "title": "lenovo 100 stereo analogue headset",
-    "brand": "lenovo",
-    "category": "qursasmenebi"
-   },
-   "ka": {
-    "title": "ლენოვო 100 სთერეო ანალოგუე ხეადსეთ",
-    "brand": "ლენოვო",
-    "category": "ყურსასმენები"
-   }
-  },
-  {
-   "id": "104861",
-   "title": "1TB Seagate External HDD STJL1000400",
-   "brand": "Seagate",
-   "category": "გარე მყარი დისკები",
-   "latin": {
-    "title": "1 tb seagate external hdd stjl 1000400",
-    "brand": "seagate",
-    "category": "gare mqari diskebi"
-   },
-   "ka": {
-    "title": "1 თბ სეაგათე ეხთერნალ ხდდ სთჯლ 1000400",
-    "brand": "სეაგათე",
-    "category": "გარე მყარი დისქები"
-   }
-  },
-  {
-   "id": "152216",
-   "title": "Kingston 64GB DataTraveler USB 3.2 (DTSE9G3/64GB) - Gold",
-   "brand": "Kingston",
-   "category": "ფლეშ მეხსიერება",
-   "latin": {
-    "title": "kingston 64 gb datatraveler usb 3 2 dtse 9 g 3 64 gb gold",
-    "brand": "kingston",
-    "category": "flesh mekhsiereba"
-   },
-   "ka": {
-    "title": "ქინგსთონ 64 გბ დათათრაველერ უსბ 3 2 დცე 9 გ 3 64 გბ გოლდ",
-    "brand": "ქინგსთონ",
-    "category": "ფლეშ მეხსიერება"
-   }
-  },
-  {
-   "id": "141187",
-   "title": "Kingston 128GB DataTraveler Exodia Onyx USB Flash Drive (DTXON/128GB)",
-   "brand": "Kingston",
-   "category": "ფლეშ მეხსიერება",
-   "latin": {
-    "title": "kingston 128 gb datatraveler exodia onyx usb flash drive dtxon 128 gb",
-    "brand": "kingston",
-    "category": "flesh mekhsiereba"
-   },
-   "ka": {
-    "title": "ქინგსთონ 128 გბ დათათრაველერ ეხოდია ონყხ უსბ ფლაშ დრივე დთხონ 128 გბ",
-    "brand": "ქინგსთონ",
-    "category": "ფლეშ მეხსიერება"
-   }
-  },
-  {
-   "id": "114677",
-   "title": "Kingston 128GB DataTraveler Exodia USB 3.2 - Black",
-   "brand": "Kingston",
-   "category": "ფლეშ მეხსიერება",
-   "latin": {
-    "title": "kingston 128 gb datatraveler exodia usb 3 2 black",
-    "brand": "kingston",
-    "category": "flesh mekhsiereba"
-   },
-   "ka": {
-    "title": "ქინგსთონ 128 გბ დათათრაველერ ეხოდია უსბ 3 2 ბლაცქ",
-    "brand": "ქინგსთონ",
-    "category": "ფლეშ მეხსიერება"
-   }
-  },
-  {
-   "id": "135708",
-   "title": "Kingston DTXM 128GB DataTraveler Exodia M USB 3.2 (DTXM/128GB)",
-   "brand": "Kingston",
-   "category": "ფლეშ მეხსიერება",
-   "latin": {
-    "title": "kingston dtxm 128 gb datatraveler exodia m usb 3 2 dtxm 128 gb",
-    "brand": "kingston",
-    "category": "flesh mekhsiereba"
-   },
-   "ka": {
-    "title": "ქინგსთონ დთხმ 128 გბ დათათრაველერ ეხოდია მ უსბ 3 2 დთხმ 128 გბ",
-    "brand": "ქინგსთონ",
-    "category": "ფლეშ მეხსიერება"
-   }
-  },
-  {
-   "id": "135707",
-   "title": "Kingston DTXM 64GB DataTraveler Exodia M USB 3.2 (DTXM/64GB)",
-   "brand": "Kingston",
-   "category": "ფლეშ მეხსიერება",
-   "latin": {
-    "title": "kingston dtxm 64 gb datatraveler exodia m usb 3 2 dtxm 64 gb",
-    "brand": "kingston",
-    "category": "flesh mekhsiereba"
-   },
-   "ka": {
-    "title": "ქინგსთონ დთხმ 64 გბ დათათრაველერ ეხოდია მ უსბ 3 2 დთხმ 64 გბ",
-    "brand": "ქინგსთონ",
-    "category": "ფლეშ მეხსიერება"
-   }
-  },
-  {
-   "id": "113213",
-   "title": "Kingston 64GB DataTraveler Exodia USB 3.2 - Black+Teal",
-   "brand": "Kingston",
-   "category": "ფლეშ მეხსიერება",
-   "latin": {
-    "title": "kingston 64 gb datatraveler exodia usb 3 2 black teal",
-    "brand": "kingston",
-    "category": "flesh mekhsiereba"
-   },
-   "ka": {
-    "title": "ქინგსთონ 64 გბ დათათრაველერ ეხოდია უსბ 3 2 ბლაცქ თეალ",
-    "brand": "ქინგსთონ",
-    "category": "ფლეშ მეხსიერება"
-   }
-  },
-  {
-   "id": "152217",
-   "title": "Kingston 128GB DataTraveler USB 3.2 (DTSE9G3/128GB) - Gold",
-   "brand": "Kingston",
-   "category": "ფლეშ მეხსიერება",
-   "latin": {
-    "title": "kingston 128 gb datatraveler usb 3 2 dtse 9 g 3 128 gb gold",
-    "brand": "kingston",
-    "category": "flesh mekhsiereba"
-   },
-   "ka": {
-    "title": "ქინგსთონ 128 გბ დათათრაველერ უსბ 3 2 დცე 9 გ 3 128 გბ გოლდ",
-    "brand": "ქინგსთონ",
-    "category": "ფლეშ მეხსიერება"
-   }
-  },
-  {
-   "id": "167941",
-   "title": "Kingston Canvas Go Plus 128GB microSD Card (SDCG4/128GB)",
-   "brand": "Kingston",
-   "category": "მეხსიერების ბარათები",
-   "latin": {
-    "title": "kingston canvas go plus 128 gb microsd card sdcg 4 128 gb",
-    "brand": "kingston",
-    "category": "mekhsierebis baratebi"
-   },
-   "ka": {
-    "title": "ქინგსთონ ცანვას გო პლუს 128 გბ მიცროსდ ცარდ სდცგ 4 128 გბ",
-    "brand": "ქინგსთონ",
-    "category": "მეხსიერების ბარათები"
-   }
-  },
-  {
-   "id": "167947",
-   "title": "Kingston Canvas Go Plus 128GB SD Card | Up to 200MB/s | Class 10, UHS-I, U3, V30 | SDG4/128GB",
-   "brand": "Kingston",
-   "category": "მეხსიერების ბარათები",
-   "latin": {
-    "title": "kingston canvas go plus 128 gb sd card up to 200 mb s class 10 uhs i u 3 v 30 sdg 4 128 gb",
-    "brand": "kingston",
-    "category": "mekhsierebis baratebi"
-   },
-   "ka": {
-    "title": "ქინგსთონ ცანვას გო პლუს 128 გბ სდ ცარდ უპ თო 200 მბ ს ცლასს 10 უხს ი უ 3 ვ 30 სდგ 4 128 გბ",
-    "brand": "ქინგსთონ",
-    "category": "მეხსიერების ბარათები"
-   }
-  },
-  {
-   "id": "107830",
-   "title": "Marvo FN-40 17.3'' Laptop cooling pad",
-   "brand": "Marvo",
-   "category": "გამაგრილებელი სადგამები",
-   "latin": {
-    "title": "marvo fn 40 17 3 laptop cooling pad",
-    "brand": "marvo",
-    "category": "gamagrilebeli sadgamebi"
-   },
-   "ka": {
-    "title": "მარვო ფნ 40 17 3 ლაპთოპ ცოოლინგ პად",
-    "brand": "მარვო",
-    "category": "გამაგრილებელი სადგამები"
-   }
-  },
-  {
-   "id": "70851",
-   "title": "TP-Link TL-WN822N 300Mbps High Gain Wireless USB Adapter",
-   "brand": "TP-Link",
-   "category": "ადაპტერები",
-   "latin": {
-    "title": "tp link tl wn 822 n 300 mbps high gain wireless usb adapter",
-    "brand": "tp link",
-    "category": "adapterebi"
-   },
-   "ka": {
-    "title": "თპ ლინქ თლ ვნ 822 ნ 300 მბპს ხიგ გაინ ვირელესს უსბ ადაპთერ",
-    "brand": "თპ ლინქ",
-    "category": "ადაპთერები"
-   }
-  },
-  {
-   "id": "166554",
-   "title": "LG 50UA75009LA.AMCN",
-   "brand": "LG",
+   "id": "174774",
+   "title": "UDTV 40GFC5210",
+   "brand": "UDTV",
    "category": "ტელევიზორები",
    "latin": {
-    "title": "lg 50 ua 75009 la amcn",
-    "brand": "lg",
+    "title": "udtv 40 gfc 5210",
+    "brand": "udtv",
     "category": "televizorebi"
    },
    "ka": {
-    "title": "ლგ 50 უა 75009 ლა ამცნ",
-    "brand": "ლგ",
+    "title": "უდთვ 40 გფც 5210",
+    "brand": "უდთვ",
     "category": "თელევიზორები"
-   }
-  },
-  {
-   "id": "168238",
-   "title": "LG 50QNED82A6B",
-   "brand": "LG",
-   "category": "ტელევიზორები",
-   "latin": {
-    "title": "lg 50 qned 82 a 6 b",
-    "brand": "lg",
-    "category": "televizorebi"
-   },
-   "ka": {
-    "title": "ლგ 50 ყნედ 82 ა 6 ბ",
-    "brand": "ლგ",
-    "category": "თელევიზორები"
-   }
-  },
-  {
-   "id": "166555",
-   "title": "LG 55UA75009LA.AMCN",
-   "brand": "LG",
-   "category": "ტელევიზორები",
-   "latin": {
-    "title": "lg 55 ua 75009 la amcn",
-    "brand": "lg",
-    "category": "televizorebi"
-   },
-   "ka": {
-    "title": "ლგ 55 უა 75009 ლა ამცნ",
-    "brand": "ლგ",
-    "category": "თელევიზორები"
-   }
-  },
-  {
-   "id": "170992",
-   "title": "LG 55QNED70A6A",
-   "brand": "LG",
-   "category": "ტელევიზორები",
-   "latin": {
-    "title": "lg 55 qned 70 a 6 a",
-    "brand": "lg",
-    "category": "televizorebi"
-   },
-   "ka": {
-    "title": "ლგ 55 ყნედ 70 ა 6 ა",
-    "brand": "ლგ",
-    "category": "თელევიზორები"
-   }
-  },
-  {
-   "id": "167134",
-   "title": "Samsung UE43U8000FUXRU",
-   "brand": "Samsung",
-   "category": "ტელევიზორები",
-   "latin": {
-    "title": "samsung ue 43 u 8000 fuxru",
-    "brand": "samsung",
-    "category": "televizorebi"
-   },
-   "ka": {
-    "title": "სამსუნგ უე 43 უ 8000 ფუხრუ",
-    "brand": "სამსუნგ",
-    "category": "თელევიზორები"
-   }
-  },
-  {
-   "id": "166751",
-   "title": "Samsung UE50U8000FUXRU",
-   "brand": "Samsung",
-   "category": "ტელევიზორები",
-   "latin": {
-    "title": "samsung ue 50 u 8000 fuxru",
-    "brand": "samsung",
-    "category": "televizorebi"
-   },
-   "ka": {
-    "title": "სამსუნგ უე 50 უ 8000 ფუხრუ",
-    "brand": "სამსუნგ",
-    "category": "თელევიზორები"
-   }
-  },
-  {
-   "id": "167251",
-   "title": "Samsung QE50Q8FAAUXRU",
-   "brand": "Samsung",
-   "category": "ტელევიზორები",
-   "latin": {
-    "title": "samsung qe 50 q 8 faauxru",
-    "brand": "samsung",
-    "category": "televizorebi"
-   },
-   "ka": {
-    "title": "სამსუნგ ყე 50 ყ 8 ფააუხრუ",
-    "brand": "სამსუნგ",
-    "category": "თელევიზორები"
-   }
-  },
-  {
-   "id": "166930",
-   "title": "Samsung UE55U8000FUXRU",
-   "brand": "Samsung",
-   "category": "ტელევიზორები",
-   "latin": {
-    "title": "samsung ue 55 u 8000 fuxru",
-    "brand": "samsung",
-    "category": "televizorebi"
-   },
-   "ka": {
-    "title": "სამსუნგ უე 55 უ 8000 ფუხრუ",
-    "brand": "სამსუნგ",
-    "category": "თელევიზორები"
-   }
-  },
-  {
-   "id": "165956",
-   "title": "Samsung QE55Q7FAAUXRU",
-   "brand": "Samsung",
-   "category": "ტელევიზორები",
-   "latin": {
-    "title": "samsung qe 55 q 7 faauxru",
-    "brand": "samsung",
-    "category": "televizorebi"
-   },
-   "ka": {
-    "title": "სამსუნგ ყე 55 ყ 7 ფააუხრუ",
-    "brand": "სამსუნგ",
-    "category": "თელევიზორები"
-   }
-  },
-  {
-   "id": "164405",
-   "title": "TCL 50V6C",
-   "brand": "TCL",
-   "category": "ტელევიზორები",
-   "latin": {
-    "title": "tcl 50 v 6 c",
-    "brand": "tcl",
-    "category": "televizorebi"
-   },
-   "ka": {
-    "title": "თცლ 50 ვ 6 ც",
-    "brand": "თცლ",
-    "category": "თელევიზორები"
-   }
-  },
-  {
-   "id": "164406",
-   "title": "TCL 55V6C",
-   "brand": "TCL",
-   "category": "ტელევიზორები",
-   "latin": {
-    "title": "tcl 55 v 6 c",
-    "brand": "tcl",
-    "category": "televizorebi"
-   },
-   "ka": {
-    "title": "თცლ 55 ვ 6 ც",
-    "brand": "თცლ",
-    "category": "თელევიზორები"
-   }
-  },
-  {
-   "id": "148178",
-   "title": "MARVO GT-019",
-   "brand": "Marvo",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "marvo gt 019",
-    "brand": "marvo",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "მარვო გთ 019",
-    "brand": "მარვო",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "172097",
-   "title": "Microsoft Xbox Wireless Controller (2025) Heart Breaker Special Edition /Xbox Series X/S",
-   "brand": "Microsoft",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "microsoft xbox wireless controller 2025 heart breaker special edition xbox series x s",
-    "brand": "microsoft",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "მიცროსოფთ ხბოხ ვირელესს ცონთროლლერ 2025 ხეართ ბრეაქერ სპეციალ ედითიონ ხბოხ სერიეს ხ ს",
-    "brand": "მიცროსოფთ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "172098",
-   "title": "Microsoft Xbox Wireless Controller (2025) Ice Breaker Special Edition /Xbox Series X/S",
-   "brand": "Microsoft",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "microsoft xbox wireless controller 2025 ice breaker special edition xbox series x s",
-    "brand": "microsoft",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "მიცროსოფთ ხბოხ ვირელესს ცონთროლლერ 2025 იცე ბრეაქერ სპეციალ ედითიონ ხბოხ სერიეს ხ ს",
-    "brand": "მიცროსოფთ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "172099",
-   "title": "Microsoft Xbox Wireless Controller (2025) Storm Breaker Special Edition /Xbox Series X/S",
-   "brand": "Microsoft",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "microsoft xbox wireless controller 2025 storm breaker special edition xbox series x s",
-    "brand": "microsoft",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "მიცროსოფთ ხბოხ ვირელესს ცონთროლლერ 2025 სთორმ ბრეაქერ სპეციალ ედითიონ ხბოხ სერიეს ხ ს",
-    "brand": "მიცროსოფთ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "149236",
-   "title": "PlayStation 5 DualSense Wireless Controller - Starlight Blue",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation 5 dualsense wireless controller starlight blue",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ 5 დუალსენსე ვირელესს ცონთროლლერ სთარლიგთ ბლუე",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "157795",
-   "title": "PlayStation PULSE Explore Wireless earbuds - White/Black",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation pulse explore wireless earbuds white black",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ პულსე ეხპლორე ვირელესს ეარბუდს ვხითე ბლაცქ",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "163906",
-   "title": "PlayStation 5 DualSense Edge Wireless Controller - Midnight Black",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation 5 dualsense edge wireless controller midnight black",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ 5 დუალსენსე ედგე ვირელესს ცონთროლლერ მიდნიგთ ბლაცქ",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "163899",
-   "title": "Playstation DualSense PS5 Wireless Controller Chroma Indigo",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation dualsense ps 5 wireless controller chroma indigo",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ დუალსენსე პს 5 ვირელესს ცონთროლლერ ჩრომა ინდიგო",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "132495",
-   "title": "PlayStation 5 DualSense Wireless Controller - Nova Pink",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation 5 dualsense wireless controller nova pink",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ 5 დუალსენსე ვირელესს ცონთროლლერ ნოვა პინქ",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "163909",
-   "title": "PlayStation 5 PULSE Elite Wireless Headset - Black",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation 5 pulse elite wireless headset black",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ 5 პულსე ელითე ვირელესს ხეადსეთ ბლაცქ",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "149516",
-   "title": "PlayStation 5 DualSense Wireless Controller - Cobalt Blue",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation 5 dualsense wireless controller cobalt blue",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ 5 დუალსენსე ვირელესს ცონთროლლერ ცობალთ ბლუე",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "172010",
-   "title": "Playstation DualSense PS5 Wireless Controller Astro Bot White /PS5",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation dualsense ps 5 wireless controller astro bot white ps 5",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ დუალსენსე პს 5 ვირელესს ცონთროლლერ ასთრო ბოთ ვხითე პს 5",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "165190",
-   "title": "Playstation Portal Remote Player for PS5 - Black",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation portal remote player for ps 5 black",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ პორთალ რემოთე პლაყერ ფორ პს 5 ბლაცქ",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "171372",
-   "title": "PlayStation 5 PULSE Elite Wireless Headset - White/Black",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation 5 pulse elite wireless headset white black",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ 5 პულსე ელითე ვირელესს ხეადსეთ ვხითე ბლაცქ",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "136820",
-   "title": "PlayStation 5 DualSense Wireless Controller - Pink",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation 5 dualsense wireless controller pink",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ 5 დუალსენსე ვირელესს ცონთროლლერ პინქ",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "136821",
-   "title": "PlayStation 5 DualSense Wireless Controller - Red",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation 5 dualsense wireless controller red",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ 5 დუალსენსე ვირელესს ცონთროლლერ რედ",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "132813",
-   "title": "PlayStation 5 DualSense Wireless Controller - Black",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation 5 dualsense wireless controller black",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ 5 დუალსენსე ვირელესს ცონთროლლერ ბლაცქ",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "115740",
-   "title": "PlayStation 5 DualSense Wireless Controller - White",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation 5 dualsense wireless controller white",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ 5 დუალსენსე ვირელესს ცონთროლლერ ვხითე",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "170496",
-   "title": "PlayStation 5 Console - 1 TB",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation 5 console 1 tb",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ 5 ცონსოლე 1 თბ",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "173444",
-   "title": "Playstation DualSense PS5 Wireless Controller Midnight Black /PS5",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation dualsense ps 5 wireless controller midnight black ps 5",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ დუალსენსე პს 5 ვირელესს ცონთროლლერ მიდნიგთ ბლაცქ პს 5",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "173445",
-   "title": "PlayStation 5 DualSense Wireless Controller - Grey Camo",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation 5 dualsense wireless controller grey camo",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ 5 დუალსენსე ვირელესს ცონთროლლერ გრეყ ცამო",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
-   }
-  },
-  {
-   "id": "174449",
-   "title": "Playstation DualSense Wireless Controller Midnight Black & USB Cable for PC",
-   "brand": "PlayStation",
-   "category": "გეიმინგი",
-   "latin": {
-    "title": "playstation dualsense wireless controller midnight black & usb cable for pc",
-    "brand": "playstation",
-    "category": "geimingi"
-   },
-   "ka": {
-    "title": "პლაყსთათიონ დუალსენსე ვირელესს ცონთროლლერ მიდნიგთ ბლაცქ & უსბ ცაბლე ფორ პც",
-    "brand": "პლაყსთათიონ",
-    "category": "გეიმინგი"
    }
   }
  ]
