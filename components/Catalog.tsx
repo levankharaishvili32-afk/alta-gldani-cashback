@@ -3,7 +3,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { deepestDiscounts, products } from "@/lib/catalog";
-import { discountPercent } from "@/lib/format";
 import { BRANCH, CAMPAIGN_DATES, CAMPAIGN_DATES_ON } from "@/lib/campaign";
 import { rangesFor, searchProducts } from "@/lib/search";
 import { installSearchQueriesHelper, recordSearch } from "@/lib/search-log";
@@ -160,24 +159,6 @@ export default function Catalog() {
   useEffect(() => {
     if (outcome.kind === "text") recordSearch(filters.q, outcome.hits.length);
   }, [filters.q, outcome]);
-  /*
-   * The advertised headline figure, which is not the computed one. The deepest
-   * actual discount in the catalog is 77%, and the campaign advertises 80% —
-   * "80%-მდე" means *up to* 80%, so that still holds.
-   *
-   * Taken as a maximum against the real figure rather than replacing it: if a
-   * future price import pushes the true deepest discount past 80, the page
-   * prints the real, larger number instead of quietly under-promising.
-   */
-  const HEADLINE_MAX_DISCOUNT = 80;
-  const actualMaxDiscount = useMemo(
-    () =>
-      Math.max(
-        ...products.map((p) => discountPercent(p.old_price, p.promo_price)),
-      ),
-    [],
-  );
-  const maxDiscount = Math.max(HEADLINE_MAX_DISCOUNT, actualMaxDiscount);
   const activeCount = activeFilterCount(filters);
   const shareQuery = canonical ? `?${canonical}` : "";
 
@@ -222,8 +203,7 @@ export default function Catalog() {
           დიდი ფასდაკლება გლდანში!
         </h1>
         <p className="mt-1.5 text-sm text-alta-700">
-          {products.length} პროდუქტი {maxDiscount}%-მდე ფასდაკლებით — მხოლოდ{" "}
-          {CAMPAIGN_DATES_ON}, გლდანის ფილიალში.
+          მხოლოდ {CAMPAIGN_DATES_ON}, გლდანის ფილიალში.
         </p>
         {/* Campaign facts as pills: dates, branch, hours. This is the strip a
             hero banner would normally carry; it keeps the page self-explanatory
