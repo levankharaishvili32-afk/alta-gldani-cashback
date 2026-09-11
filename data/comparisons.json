@@ -3040,6 +3040,202 @@
       }
     }
   ],
+  "145224": [
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.775,
+      "why": {
+        "price": 1,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 1,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157981",
+      "kind": "similar",
+      "score": 0.746,
+      "why": {
+        "price": 0.85,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.721,
+      "why": {
+        "price": 0.79,
+        "specs": 0.55,
+        "differentBrand": 1,
+        "discount": 0.36,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.668,
+      "why": {
+        "price": 0.69,
+        "specs": 0.53,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "170907",
+      "kind": "similar",
+      "score": 0.657,
+      "why": {
+        "price": 0.78,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.623,
+      "why": {
+        "price": 0.73,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.91,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.593,
+      "why": {
+        "price": 0.53,
+        "specs": 0.52,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.544,
+      "why": {
+        "price": 0.57,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.77,
+        "observed": 0
+      }
+    }
+  ],
+  "145226": [
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.775,
+      "why": {
+        "price": 1,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 1,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157981",
+      "kind": "similar",
+      "score": 0.746,
+      "why": {
+        "price": 0.85,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.721,
+      "why": {
+        "price": 0.79,
+        "specs": 0.55,
+        "differentBrand": 1,
+        "discount": 0.36,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.668,
+      "why": {
+        "price": 0.69,
+        "specs": 0.53,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "170907",
+      "kind": "similar",
+      "score": 0.657,
+      "why": {
+        "price": 0.78,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.623,
+      "why": {
+        "price": 0.73,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.91,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.593,
+      "why": {
+        "price": 0.53,
+        "specs": 0.52,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.544,
+      "why": {
+        "price": 0.57,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.77,
+        "observed": 0
+      }
+    }
+  ],
   "146502": [
     {
       "id": "57366",
@@ -4384,12 +4580,12 @@
     {
       "id": "168764",
       "kind": "similar",
-      "score": 0.577,
+      "score": 0.564,
       "why": {
-        "price": 0.4,
+        "price": 0.38,
         "specs": 0.54,
         "differentBrand": 1,
-        "discount": 0.93,
+        "discount": 0.86,
         "observed": 0
       }
     },
@@ -4456,6 +4652,18 @@
       }
     },
     {
+      "id": "168764",
+      "kind": "similar",
+      "score": 0.751,
+      "why": {
+        "price": 0.74,
+        "specs": 0.63,
+        "differentBrand": 1,
+        "discount": 0.88,
+        "observed": 0
+      }
+    },
+    {
       "id": "167836",
       "kind": "similar",
       "score": 0.751,
@@ -4476,18 +4684,6 @@
         "specs": 0.58,
         "differentBrand": 1,
         "discount": 0.72,
-        "observed": 0
-      }
-    },
-    {
-      "id": "168764",
-      "kind": "similar",
-      "score": 0.731,
-      "why": {
-        "price": 0.7,
-        "specs": 0.63,
-        "differentBrand": 1,
-        "discount": 0.81,
         "observed": 0
       }
     },
@@ -4629,6 +4825,496 @@
       "id": "165263",
       "kind": "popular",
       "score": 0
+    }
+  ],
+  "157970": [
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.746,
+      "why": {
+        "price": 0.85,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "170907",
+      "kind": "similar",
+      "score": 0.72,
+      "why": {
+        "price": 0.92,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.81,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.702,
+      "why": {
+        "price": 0.85,
+        "specs": 0.84,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.686,
+      "why": {
+        "price": 0.86,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.86,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.671,
+      "why": {
+        "price": 0.67,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.28,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.625,
+      "why": {
+        "price": 0.59,
+        "specs": 0.55,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.609,
+      "why": {
+        "price": 0.67,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.98,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.561,
+      "why": {
+        "price": 0.45,
+        "specs": 0.54,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    }
+  ],
+  "157978": [
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.746,
+      "why": {
+        "price": 0.85,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "170907",
+      "kind": "similar",
+      "score": 0.718,
+      "why": {
+        "price": 0.92,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.81,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.704,
+      "why": {
+        "price": 0.85,
+        "specs": 0.85,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.684,
+      "why": {
+        "price": 0.86,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.86,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.666,
+      "why": {
+        "price": 0.67,
+        "specs": 0.56,
+        "differentBrand": 1,
+        "discount": 0.28,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.62,
+      "why": {
+        "price": 0.59,
+        "specs": 0.53,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.607,
+      "why": {
+        "price": 0.67,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.98,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.556,
+      "why": {
+        "price": 0.45,
+        "specs": 0.53,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    }
+  ],
+  "157981": [
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.746,
+      "why": {
+        "price": 0.85,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "170907",
+      "kind": "similar",
+      "score": 0.718,
+      "why": {
+        "price": 0.92,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.81,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.704,
+      "why": {
+        "price": 0.85,
+        "specs": 0.85,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.684,
+      "why": {
+        "price": 0.86,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.86,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.666,
+      "why": {
+        "price": 0.67,
+        "specs": 0.56,
+        "differentBrand": 1,
+        "discount": 0.28,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.62,
+      "why": {
+        "price": 0.59,
+        "specs": 0.53,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.607,
+      "why": {
+        "price": 0.67,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.98,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.556,
+      "why": {
+        "price": 0.45,
+        "specs": 0.53,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    }
+  ],
+  "157985": [
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.746,
+      "why": {
+        "price": 0.85,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "170907",
+      "kind": "similar",
+      "score": 0.718,
+      "why": {
+        "price": 0.92,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.81,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.704,
+      "why": {
+        "price": 0.85,
+        "specs": 0.85,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.684,
+      "why": {
+        "price": 0.86,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.86,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.666,
+      "why": {
+        "price": 0.67,
+        "specs": 0.56,
+        "differentBrand": 1,
+        "discount": 0.28,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.62,
+      "why": {
+        "price": 0.59,
+        "specs": 0.53,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.607,
+      "why": {
+        "price": 0.67,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.98,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.556,
+      "why": {
+        "price": 0.45,
+        "specs": 0.53,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    }
+  ],
+  "157988": [
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.746,
+      "why": {
+        "price": 0.85,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "170907",
+      "kind": "similar",
+      "score": 0.718,
+      "why": {
+        "price": 0.92,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.81,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.704,
+      "why": {
+        "price": 0.85,
+        "specs": 0.85,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.684,
+      "why": {
+        "price": 0.86,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.86,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.666,
+      "why": {
+        "price": 0.67,
+        "specs": 0.56,
+        "differentBrand": 1,
+        "discount": 0.28,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.62,
+      "why": {
+        "price": 0.59,
+        "specs": 0.53,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.607,
+      "why": {
+        "price": 0.67,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.98,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.556,
+      "why": {
+        "price": 0.45,
+        "specs": 0.53,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
     }
   ],
   "158479": [
@@ -7188,12 +7874,12 @@
     {
       "id": "168764",
       "kind": "similar",
-      "score": 0.869,
+      "score": 0.844,
       "why": {
-        "price": 0.95,
+        "price": 0.9,
         "specs": 0.7,
         "differentBrand": 1,
-        "discount": 0.8,
+        "discount": 0.74,
         "observed": 0
       }
     },
@@ -7365,62 +8051,62 @@
   ],
   "168764": [
     {
-      "id": "167836",
+      "id": "175318",
       "kind": "similar",
-      "score": 0.869,
+      "score": 0.875,
       "why": {
         "price": 0.95,
-        "specs": 0.7,
+        "specs": 0.72,
         "differentBrand": 1,
-        "discount": 0.8,
+        "discount": 0.82,
         "observed": 0
       }
     },
     {
-      "id": "175318",
+      "id": "167836",
       "kind": "similar",
-      "score": 0.857,
+      "score": 0.844,
       "why": {
         "price": 0.9,
-        "specs": 0.72,
+        "specs": 0.7,
         "differentBrand": 1,
-        "discount": 0.89,
+        "discount": 0.74,
         "observed": 0
       }
     },
     {
       "id": "156240",
       "kind": "similar",
-      "score": 0.731,
+      "score": 0.751,
       "why": {
-        "price": 0.7,
+        "price": 0.74,
         "specs": 0.63,
         "differentBrand": 1,
-        "discount": 0.81,
+        "discount": 0.88,
         "observed": 0
       }
     },
     {
       "id": "172565",
       "kind": "similar",
-      "score": 0.623,
+      "score": 0.638,
       "why": {
-        "price": 0.8,
+        "price": 0.84,
         "specs": 0.67,
         "differentBrand": 0,
-        "discount": 0.81,
+        "discount": 0.75,
         "observed": 0
       }
     },
     {
       "id": "154704",
       "kind": "similar",
-      "score": 0.577,
+      "score": 0.564,
       "why": {
-        "price": 0.4,
+        "price": 0.38,
         "specs": 0.54,
         "differentBrand": 1,
-        "discount": 0.93,
+        "discount": 0.86,
         "observed": 0
       }
     }
@@ -7571,6 +8257,2358 @@
         "specs": 0.17,
         "differentBrand": 1,
         "discount": 0.85,
+        "observed": 0
+      }
+    }
+  ],
+  "169758": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.81,
+      "why": {
+        "price": 0.97,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.707,
+      "why": {
+        "price": 0.76,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.82,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.706,
+      "why": {
+        "price": 0.88,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.84,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.662,
+      "why": {
+        "price": 0.75,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 0.94,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.654,
+      "why": {
+        "price": 0.59,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.33,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.642,
+      "why": {
+        "price": 0.75,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.94,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.603,
+      "why": {
+        "price": 0.52,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.3,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.548,
+      "why": {
+        "price": 0.4,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.3,
+        "observed": 0
+      }
+    }
+  ],
+  "169759": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.81,
+      "why": {
+        "price": 0.97,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.707,
+      "why": {
+        "price": 0.76,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.82,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.706,
+      "why": {
+        "price": 0.88,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.84,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.662,
+      "why": {
+        "price": 0.75,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 0.94,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.654,
+      "why": {
+        "price": 0.59,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.33,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.642,
+      "why": {
+        "price": 0.75,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.94,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.603,
+      "why": {
+        "price": 0.52,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.3,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.548,
+      "why": {
+        "price": 0.4,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.3,
+        "observed": 0
+      }
+    }
+  ],
+  "169760": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.808,
+      "why": {
+        "price": 0.98,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.89,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.716,
+      "why": {
+        "price": 0.77,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.95,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.71,
+      "why": {
+        "price": 0.87,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.652,
+      "why": {
+        "price": 0.74,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 0.81,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.649,
+      "why": {
+        "price": 0.59,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.29,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.633,
+      "why": {
+        "price": 0.74,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.81,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.599,
+      "why": {
+        "price": 0.51,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.26,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.545,
+      "why": {
+        "price": 0.39,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.26,
+        "observed": 0
+      }
+    }
+  ],
+  "169761": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.81,
+      "why": {
+        "price": 0.97,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.707,
+      "why": {
+        "price": 0.76,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.82,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.706,
+      "why": {
+        "price": 0.88,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.84,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.662,
+      "why": {
+        "price": 0.75,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 0.94,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.654,
+      "why": {
+        "price": 0.59,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.33,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.642,
+      "why": {
+        "price": 0.75,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.94,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.603,
+      "why": {
+        "price": 0.52,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.3,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.548,
+      "why": {
+        "price": 0.4,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.3,
+        "observed": 0
+      }
+    }
+  ],
+  "169762": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.81,
+      "why": {
+        "price": 0.97,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.707,
+      "why": {
+        "price": 0.76,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.82,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.706,
+      "why": {
+        "price": 0.88,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.84,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.662,
+      "why": {
+        "price": 0.75,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 0.94,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.654,
+      "why": {
+        "price": 0.59,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.33,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.642,
+      "why": {
+        "price": 0.75,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.94,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.603,
+      "why": {
+        "price": 0.52,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.3,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.548,
+      "why": {
+        "price": 0.4,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.3,
+        "observed": 0
+      }
+    }
+  ],
+  "169768": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.723,
+      "why": {
+        "price": 0.78,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.84,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169760",
+      "kind": "similar",
+      "score": 0.716,
+      "why": {
+        "price": 0.77,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.95,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.609,
+      "why": {
+        "price": 0.67,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.98,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.594,
+      "why": {
+        "price": 0.45,
+        "specs": 0.64,
+        "differentBrand": 1,
+        "discount": 0.27,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.563,
+      "why": {
+        "price": 0.57,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.77,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.552,
+      "why": {
+        "price": 0.39,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.24,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.544,
+      "why": {
+        "price": 0.57,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.77,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.51,
+      "why": {
+        "price": 0.3,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.24,
+        "observed": 0
+      }
+    }
+  ],
+  "169770": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.723,
+      "why": {
+        "price": 0.78,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.84,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169760",
+      "kind": "similar",
+      "score": 0.716,
+      "why": {
+        "price": 0.77,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.95,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.609,
+      "why": {
+        "price": 0.67,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.98,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.594,
+      "why": {
+        "price": 0.45,
+        "specs": 0.64,
+        "differentBrand": 1,
+        "discount": 0.27,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.563,
+      "why": {
+        "price": 0.57,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.77,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.552,
+      "why": {
+        "price": 0.39,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.24,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.544,
+      "why": {
+        "price": 0.57,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.77,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.51,
+      "why": {
+        "price": 0.3,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.24,
+        "observed": 0
+      }
+    }
+  ],
+  "169771": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.665,
+      "why": {
+        "price": 0.67,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.9,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169758",
+      "kind": "similar",
+      "score": 0.653,
+      "why": {
+        "price": 0.65,
+        "specs": 0.94,
+        "differentBrand": 0,
+        "discount": 0.93,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.56,
+      "why": {
+        "price": 0.38,
+        "specs": 0.61,
+        "differentBrand": 1,
+        "discount": 0.36,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.549,
+      "why": {
+        "price": 0.57,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.78,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.541,
+      "why": {
+        "price": 0.34,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.527,
+      "why": {
+        "price": 0.49,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.99,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.514,
+      "why": {
+        "price": 0.49,
+        "specs": 0.73,
+        "differentBrand": 0,
+        "discount": 0.99,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.505,
+      "why": {
+        "price": 0.26,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    }
+  ],
+  "169777": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.695,
+      "why": {
+        "price": 0.72,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.87,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169760",
+      "kind": "similar",
+      "score": 0.684,
+      "why": {
+        "price": 0.7,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.579,
+      "why": {
+        "price": 0.61,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.99,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.574,
+      "why": {
+        "price": 0.41,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.28,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.538,
+      "why": {
+        "price": 0.36,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.538,
+      "why": {
+        "price": 0.52,
+        "specs": 0.79,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.519,
+      "why": {
+        "price": 0.52,
+        "specs": 0.73,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.497,
+      "why": {
+        "price": 0.28,
+        "specs": 0.58,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    }
+  ],
+  "169790": [
+    {
+      "id": "169758",
+      "kind": "similar",
+      "score": 0.81,
+      "why": {
+        "price": 0.97,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.723,
+      "why": {
+        "price": 0.78,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.84,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.686,
+      "why": {
+        "price": 0.86,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.86,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.651,
+      "why": {
+        "price": 0.58,
+        "specs": 0.63,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.641,
+      "why": {
+        "price": 0.73,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.91,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.623,
+      "why": {
+        "price": 0.73,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.91,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.605,
+      "why": {
+        "price": 0.5,
+        "specs": 0.6,
+        "differentBrand": 1,
+        "discount": 0.29,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.55,
+      "why": {
+        "price": 0.38,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.29,
+        "observed": 0
+      }
+    }
+  ],
+  "169792": [
+    {
+      "id": "169758",
+      "kind": "similar",
+      "score": 0.81,
+      "why": {
+        "price": 0.97,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.723,
+      "why": {
+        "price": 0.78,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.84,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.686,
+      "why": {
+        "price": 0.86,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.86,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.651,
+      "why": {
+        "price": 0.58,
+        "specs": 0.63,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.641,
+      "why": {
+        "price": 0.73,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.91,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.623,
+      "why": {
+        "price": 0.73,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.91,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.605,
+      "why": {
+        "price": 0.5,
+        "specs": 0.6,
+        "differentBrand": 1,
+        "discount": 0.29,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.55,
+      "why": {
+        "price": 0.38,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.29,
+        "observed": 0
+      }
+    }
+  ],
+  "170901": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.702,
+      "why": {
+        "price": 0.74,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.8,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169760",
+      "kind": "similar",
+      "score": 0.691,
+      "why": {
+        "price": 0.73,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.9,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.585,
+      "why": {
+        "price": 0.64,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.93,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.579,
+      "why": {
+        "price": 0.43,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.26,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.542,
+      "why": {
+        "price": 0.54,
+        "specs": 0.79,
+        "differentBrand": 0,
+        "discount": 0.73,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.542,
+      "why": {
+        "price": 0.37,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.23,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.524,
+      "why": {
+        "price": 0.54,
+        "specs": 0.73,
+        "differentBrand": 0,
+        "discount": 0.73,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.5,
+      "why": {
+        "price": 0.29,
+        "specs": 0.58,
+        "differentBrand": 1,
+        "discount": 0.23,
+        "observed": 0
+      }
+    }
+  ],
+  "170902": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.702,
+      "why": {
+        "price": 0.74,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.8,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169760",
+      "kind": "similar",
+      "score": 0.691,
+      "why": {
+        "price": 0.73,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.9,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.585,
+      "why": {
+        "price": 0.64,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.93,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.579,
+      "why": {
+        "price": 0.43,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.26,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.542,
+      "why": {
+        "price": 0.54,
+        "specs": 0.79,
+        "differentBrand": 0,
+        "discount": 0.73,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.542,
+      "why": {
+        "price": 0.37,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.23,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.524,
+      "why": {
+        "price": 0.54,
+        "specs": 0.73,
+        "differentBrand": 0,
+        "discount": 0.73,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.5,
+      "why": {
+        "price": 0.29,
+        "specs": 0.58,
+        "differentBrand": 1,
+        "discount": 0.23,
+        "observed": 0
+      }
+    }
+  ],
+  "170903": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.634,
+      "why": {
+        "price": 0.63,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.64,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169760",
+      "kind": "similar",
+      "score": 0.623,
+      "why": {
+        "price": 0.62,
+        "specs": 0.92,
+        "differentBrand": 0,
+        "discount": 0.72,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.538,
+      "why": {
+        "price": 0.36,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.21,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.527,
+      "why": {
+        "price": 0.54,
+        "specs": 0.74,
+        "differentBrand": 0,
+        "discount": 0.75,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.525,
+      "why": {
+        "price": 0.32,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.19,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.489,
+      "why": {
+        "price": 0.24,
+        "specs": 0.61,
+        "differentBrand": 1,
+        "discount": 0.19,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.488,
+      "why": {
+        "price": 0.46,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.59,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.475,
+      "why": {
+        "price": 0.46,
+        "specs": 0.71,
+        "differentBrand": 0,
+        "discount": 0.59,
+        "observed": 0
+      }
+    }
+  ],
+  "170904": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.634,
+      "why": {
+        "price": 0.63,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.64,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169760",
+      "kind": "similar",
+      "score": 0.623,
+      "why": {
+        "price": 0.62,
+        "specs": 0.92,
+        "differentBrand": 0,
+        "discount": 0.72,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.538,
+      "why": {
+        "price": 0.36,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.21,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.527,
+      "why": {
+        "price": 0.54,
+        "specs": 0.74,
+        "differentBrand": 0,
+        "discount": 0.75,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.525,
+      "why": {
+        "price": 0.32,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.19,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.489,
+      "why": {
+        "price": 0.24,
+        "specs": 0.61,
+        "differentBrand": 1,
+        "discount": 0.19,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.488,
+      "why": {
+        "price": 0.46,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.59,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.475,
+      "why": {
+        "price": 0.46,
+        "specs": 0.71,
+        "differentBrand": 0,
+        "discount": 0.59,
+        "observed": 0
+      }
+    }
+  ],
+  "170907": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.792,
+      "why": {
+        "price": 0.94,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.94,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.72,
+      "why": {
+        "price": 0.92,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.81,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.693,
+      "why": {
+        "price": 0.73,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.676,
+      "why": {
+        "price": 0.78,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.665,
+      "why": {
+        "price": 0.62,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.35,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.657,
+      "why": {
+        "price": 0.78,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.613,
+      "why": {
+        "price": 0.54,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.31,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.556,
+      "why": {
+        "price": 0.41,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.31,
+        "observed": 0
+      }
+    }
+  ],
+  "170908": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.792,
+      "why": {
+        "price": 0.94,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.94,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.72,
+      "why": {
+        "price": 0.92,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.81,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.693,
+      "why": {
+        "price": 0.73,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.676,
+      "why": {
+        "price": 0.78,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.665,
+      "why": {
+        "price": 0.62,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.35,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.657,
+      "why": {
+        "price": 0.78,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.613,
+      "why": {
+        "price": 0.54,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.31,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.556,
+      "why": {
+        "price": 0.41,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.31,
+        "observed": 0
+      }
+    }
+  ],
+  "171022": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.702,
+      "why": {
+        "price": 0.74,
+        "specs": 0.98,
+        "differentBrand": 0,
+        "discount": 0.8,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169760",
+      "kind": "similar",
+      "score": 0.691,
+      "why": {
+        "price": 0.73,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.9,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.585,
+      "why": {
+        "price": 0.64,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.93,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.579,
+      "why": {
+        "price": 0.43,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.26,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.542,
+      "why": {
+        "price": 0.54,
+        "specs": 0.79,
+        "differentBrand": 0,
+        "discount": 0.73,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.542,
+      "why": {
+        "price": 0.37,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.23,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.524,
+      "why": {
+        "price": 0.54,
+        "specs": 0.73,
+        "differentBrand": 0,
+        "discount": 0.73,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.5,
+      "why": {
+        "price": 0.29,
+        "specs": 0.58,
+        "differentBrand": 1,
+        "discount": 0.23,
+        "observed": 0
+      }
+    }
+  ],
+  "171320": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.761,
+      "why": {
+        "price": 0.91,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.61,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.717,
+      "why": {
+        "price": 0.94,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.53,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.683,
+      "why": {
+        "price": 0.63,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.53,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.671,
+      "why": {
+        "price": 0.8,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 0.67,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.667,
+      "why": {
+        "price": 0.71,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.52,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.651,
+      "why": {
+        "price": 0.8,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.67,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.629,
+      "why": {
+        "price": 0.56,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.47,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.571,
+      "why": {
+        "price": 0.42,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.47,
+        "observed": 0
+      }
+    }
+  ],
+  "171321": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.761,
+      "why": {
+        "price": 0.91,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.61,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.717,
+      "why": {
+        "price": 0.94,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.53,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.683,
+      "why": {
+        "price": 0.63,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.53,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.671,
+      "why": {
+        "price": 0.8,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 0.67,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.667,
+      "why": {
+        "price": 0.71,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.52,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.651,
+      "why": {
+        "price": 0.8,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.67,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.629,
+      "why": {
+        "price": 0.56,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.47,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.571,
+      "why": {
+        "price": 0.42,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.47,
+        "observed": 0
+      }
+    }
+  ],
+  "171322": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.761,
+      "why": {
+        "price": 0.91,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.61,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.717,
+      "why": {
+        "price": 0.94,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.53,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.683,
+      "why": {
+        "price": 0.63,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.53,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.671,
+      "why": {
+        "price": 0.8,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 0.67,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.667,
+      "why": {
+        "price": 0.71,
+        "specs": 0.97,
+        "differentBrand": 0,
+        "discount": 0.52,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.651,
+      "why": {
+        "price": 0.8,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.67,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.629,
+      "why": {
+        "price": 0.56,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.47,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.571,
+      "why": {
+        "price": 0.42,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.47,
+        "observed": 0
+      }
+    }
+  ],
+  "171323": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.645,
+      "why": {
+        "price": 0.68,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.47,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169760",
+      "kind": "similar",
+      "score": 0.637,
+      "why": {
+        "price": 0.66,
+        "specs": 0.94,
+        "differentBrand": 0,
+        "discount": 0.52,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.551,
+      "why": {
+        "price": 0.39,
+        "specs": 0.61,
+        "differentBrand": 1,
+        "discount": 0.15,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.539,
+      "why": {
+        "price": 0.58,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.54,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.532,
+      "why": {
+        "price": 0.34,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.13,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.499,
+      "why": {
+        "price": 0.49,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.42,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.496,
+      "why": {
+        "price": 0.26,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.13,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.486,
+      "why": {
+        "price": 0.49,
+        "specs": 0.73,
+        "differentBrand": 0,
+        "discount": 0.42,
+        "observed": 0
+      }
+    }
+  ],
+  "171325": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.645,
+      "why": {
+        "price": 0.68,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.47,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169760",
+      "kind": "similar",
+      "score": 0.637,
+      "why": {
+        "price": 0.66,
+        "specs": 0.94,
+        "differentBrand": 0,
+        "discount": 0.52,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.551,
+      "why": {
+        "price": 0.39,
+        "specs": 0.61,
+        "differentBrand": 1,
+        "discount": 0.15,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.539,
+      "why": {
+        "price": 0.58,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.54,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.532,
+      "why": {
+        "price": 0.34,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.13,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.499,
+      "why": {
+        "price": 0.49,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.42,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.496,
+      "why": {
+        "price": 0.26,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.13,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.486,
+      "why": {
+        "price": 0.49,
+        "specs": 0.73,
+        "differentBrand": 0,
+        "discount": 0.42,
+        "observed": 0
+      }
+    }
+  ],
+  "171326": [
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.634,
+      "why": {
+        "price": 0.63,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.64,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169760",
+      "kind": "similar",
+      "score": 0.623,
+      "why": {
+        "price": 0.62,
+        "specs": 0.92,
+        "differentBrand": 0,
+        "discount": 0.72,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.538,
+      "why": {
+        "price": 0.36,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.21,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.527,
+      "why": {
+        "price": 0.54,
+        "specs": 0.74,
+        "differentBrand": 0,
+        "discount": 0.75,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.525,
+      "why": {
+        "price": 0.32,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.19,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.489,
+      "why": {
+        "price": 0.24,
+        "specs": 0.61,
+        "differentBrand": 1,
+        "discount": 0.19,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.488,
+      "why": {
+        "price": 0.46,
+        "specs": 0.75,
+        "differentBrand": 0,
+        "discount": 0.59,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.475,
+      "why": {
+        "price": 0.46,
+        "specs": 0.71,
+        "differentBrand": 0,
+        "discount": 0.59,
         "observed": 0
       }
     }
@@ -8147,12 +11185,12 @@
     {
       "id": "168764",
       "kind": "similar",
-      "score": 0.623,
+      "score": 0.638,
       "why": {
-        "price": 0.8,
+        "price": 0.84,
         "specs": 0.67,
         "differentBrand": 0,
-        "discount": 0.81,
+        "discount": 0.75,
         "observed": 0
       }
     },
@@ -8645,6 +11683,496 @@
       }
     }
   ],
+  "173431": [
+    {
+      "id": "176668",
+      "kind": "similar",
+      "score": 0.727,
+      "why": {
+        "price": 0.89,
+        "specs": 0.85,
+        "differentBrand": 0,
+        "discount": 0.87,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.642,
+      "why": {
+        "price": 0.64,
+        "specs": 0.91,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.614,
+      "why": {
+        "price": 0.56,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.87,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.584,
+      "why": {
+        "price": 0.45,
+        "specs": 0.61,
+        "differentBrand": 1,
+        "discount": 0.31,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.566,
+      "why": {
+        "price": 0.45,
+        "specs": 0.55,
+        "differentBrand": 1,
+        "discount": 0.31,
+        "observed": 0
+      }
+    },
+    {
+      "id": "171320",
+      "kind": "similar",
+      "score": 0.557,
+      "why": {
+        "price": 0.36,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.46,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.542,
+      "why": {
+        "price": 0.38,
+        "specs": 0.58,
+        "differentBrand": 1,
+        "discount": 0.24,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.525,
+      "why": {
+        "price": 0.32,
+        "specs": 0.6,
+        "differentBrand": 1,
+        "discount": 0.28,
+        "observed": 0
+      }
+    }
+  ],
+  "173432": [
+    {
+      "id": "176668",
+      "kind": "similar",
+      "score": 0.727,
+      "why": {
+        "price": 0.89,
+        "specs": 0.85,
+        "differentBrand": 0,
+        "discount": 0.87,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.642,
+      "why": {
+        "price": 0.64,
+        "specs": 0.91,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.614,
+      "why": {
+        "price": 0.56,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.87,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.584,
+      "why": {
+        "price": 0.45,
+        "specs": 0.61,
+        "differentBrand": 1,
+        "discount": 0.31,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.566,
+      "why": {
+        "price": 0.45,
+        "specs": 0.55,
+        "differentBrand": 1,
+        "discount": 0.31,
+        "observed": 0
+      }
+    },
+    {
+      "id": "171320",
+      "kind": "similar",
+      "score": 0.557,
+      "why": {
+        "price": 0.36,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.46,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.542,
+      "why": {
+        "price": 0.38,
+        "specs": 0.58,
+        "differentBrand": 1,
+        "discount": 0.24,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.525,
+      "why": {
+        "price": 0.32,
+        "specs": 0.6,
+        "differentBrand": 1,
+        "discount": 0.28,
+        "observed": 0
+      }
+    }
+  ],
+  "173433": [
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.715,
+      "why": {
+        "price": 0.76,
+        "specs": 0.96,
+        "differentBrand": 0,
+        "discount": 1,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.66,
+      "why": {
+        "price": 0.67,
+        "specs": 0.94,
+        "differentBrand": 0,
+        "discount": 0.89,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176668",
+      "kind": "similar",
+      "score": 0.648,
+      "why": {
+        "price": 0.75,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.89,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.604,
+      "why": {
+        "price": 0.53,
+        "specs": 0.55,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.593,
+      "why": {
+        "price": 0.53,
+        "specs": 0.52,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "171320",
+      "kind": "similar",
+      "score": 0.571,
+      "why": {
+        "price": 0.42,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.47,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.561,
+      "why": {
+        "price": 0.45,
+        "specs": 0.54,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.55,
+      "why": {
+        "price": 0.38,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.29,
+        "observed": 0
+      }
+    }
+  ],
+  "173434": [
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.715,
+      "why": {
+        "price": 0.76,
+        "specs": 0.96,
+        "differentBrand": 0,
+        "discount": 1,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.66,
+      "why": {
+        "price": 0.67,
+        "specs": 0.94,
+        "differentBrand": 0,
+        "discount": 0.89,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176668",
+      "kind": "similar",
+      "score": 0.648,
+      "why": {
+        "price": 0.75,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.89,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.604,
+      "why": {
+        "price": 0.53,
+        "specs": 0.55,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.593,
+      "why": {
+        "price": 0.53,
+        "specs": 0.52,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "171320",
+      "kind": "similar",
+      "score": 0.571,
+      "why": {
+        "price": 0.42,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.47,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.561,
+      "why": {
+        "price": 0.45,
+        "specs": 0.54,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.55,
+      "why": {
+        "price": 0.38,
+        "specs": 0.59,
+        "differentBrand": 1,
+        "discount": 0.29,
+        "observed": 0
+      }
+    }
+  ],
+  "173436": [
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.755,
+      "why": {
+        "price": 0.87,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.89,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.715,
+      "why": {
+        "price": 0.76,
+        "specs": 0.96,
+        "differentBrand": 0,
+        "discount": 1,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.675,
+      "why": {
+        "price": 0.69,
+        "specs": 0.55,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.668,
+      "why": {
+        "price": 0.69,
+        "specs": 0.53,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "171320",
+      "kind": "similar",
+      "score": 0.629,
+      "why": {
+        "price": 0.56,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.47,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.625,
+      "why": {
+        "price": 0.59,
+        "specs": 0.55,
+        "differentBrand": 1,
+        "discount": 0.25,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.605,
+      "why": {
+        "price": 0.5,
+        "specs": 0.6,
+        "differentBrand": 1,
+        "discount": 0.29,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176668",
+      "kind": "similar",
+      "score": 0.561,
+      "why": {
+        "price": 0.57,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.9,
+        "observed": 0
+      }
+    }
+  ],
   "173629": [
     {
       "id": "173630",
@@ -8767,6 +12295,104 @@
         "specs": 0.54,
         "differentBrand": 1,
         "discount": 0.88,
+        "observed": 0
+      }
+    }
+  ],
+  "174404": [
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.775,
+      "why": {
+        "price": 1,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 1,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.738,
+      "why": {
+        "price": 0.79,
+        "specs": 0.6,
+        "differentBrand": 1,
+        "discount": 0.36,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157981",
+      "kind": "similar",
+      "score": 0.704,
+      "why": {
+        "price": 0.85,
+        "specs": 0.85,
+        "differentBrand": 0,
+        "discount": 0.79,
+        "observed": 0
+      }
+    },
+    {
+      "id": "170907",
+      "kind": "similar",
+      "score": 0.676,
+      "why": {
+        "price": 0.78,
+        "specs": 0.83,
+        "differentBrand": 0,
+        "discount": 0.97,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.675,
+      "why": {
+        "price": 0.69,
+        "specs": 0.55,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.641,
+      "why": {
+        "price": 0.73,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.91,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.604,
+      "why": {
+        "price": 0.53,
+        "specs": 0.55,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.563,
+      "why": {
+        "price": 0.57,
+        "specs": 0.8,
+        "differentBrand": 0,
+        "discount": 0.77,
         "observed": 0
       }
     }
@@ -9328,12 +12954,12 @@
     {
       "id": "168764",
       "kind": "similar",
-      "score": 0.857,
+      "score": 0.875,
       "why": {
-        "price": 0.9,
+        "price": 0.95,
         "specs": 0.72,
         "differentBrand": 1,
-        "discount": 0.89,
+        "discount": 0.82,
         "observed": 0
       }
     },
@@ -9928,6 +13554,202 @@
         "specs": 0.3,
         "differentBrand": 0,
         "discount": 0.72,
+        "observed": 0
+      }
+    }
+  ],
+  "176667": [
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.755,
+      "why": {
+        "price": 0.87,
+        "specs": 0.95,
+        "differentBrand": 0,
+        "discount": 0.89,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.738,
+      "why": {
+        "price": 0.79,
+        "specs": 0.6,
+        "differentBrand": 1,
+        "discount": 0.36,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.721,
+      "why": {
+        "price": 0.79,
+        "specs": 0.55,
+        "differentBrand": 1,
+        "discount": 0.36,
+        "observed": 0
+      }
+    },
+    {
+      "id": "171320",
+      "kind": "similar",
+      "score": 0.683,
+      "why": {
+        "price": 0.63,
+        "specs": 0.62,
+        "differentBrand": 1,
+        "discount": 0.53,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.671,
+      "why": {
+        "price": 0.67,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.28,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173434",
+      "kind": "similar",
+      "score": 0.66,
+      "why": {
+        "price": 0.67,
+        "specs": 0.94,
+        "differentBrand": 0,
+        "discount": 0.89,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.651,
+      "why": {
+        "price": 0.58,
+        "specs": 0.63,
+        "differentBrand": 1,
+        "discount": 0.32,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169770",
+      "kind": "similar",
+      "score": 0.594,
+      "why": {
+        "price": 0.45,
+        "specs": 0.64,
+        "differentBrand": 1,
+        "discount": 0.27,
+        "observed": 0
+      }
+    }
+  ],
+  "176668": [
+    {
+      "id": "173431",
+      "kind": "similar",
+      "score": 0.727,
+      "why": {
+        "price": 0.89,
+        "specs": 0.85,
+        "differentBrand": 0,
+        "discount": 0.87,
+        "observed": 0
+      }
+    },
+    {
+      "id": "173436",
+      "kind": "similar",
+      "score": 0.561,
+      "why": {
+        "price": 0.57,
+        "specs": 0.77,
+        "differentBrand": 0,
+        "discount": 0.9,
+        "observed": 0
+      }
+    },
+    {
+      "id": "174404",
+      "kind": "similar",
+      "score": 0.553,
+      "why": {
+        "price": 0.4,
+        "specs": 0.57,
+        "differentBrand": 1,
+        "discount": 0.35,
+        "observed": 0
+      }
+    },
+    {
+      "id": "176667",
+      "kind": "similar",
+      "score": 0.549,
+      "why": {
+        "price": 0.5,
+        "specs": 0.81,
+        "differentBrand": 0,
+        "discount": 1,
+        "observed": 0
+      }
+    },
+    {
+      "id": "145224",
+      "kind": "similar",
+      "score": 0.532,
+      "why": {
+        "price": 0.4,
+        "specs": 0.51,
+        "differentBrand": 1,
+        "discount": 0.35,
+        "observed": 0
+      }
+    },
+    {
+      "id": "171320",
+      "kind": "similar",
+      "score": 0.532,
+      "why": {
+        "price": 0.32,
+        "specs": 0.58,
+        "differentBrand": 1,
+        "discount": 0.53,
+        "observed": 0
+      }
+    },
+    {
+      "id": "157970",
+      "kind": "similar",
+      "score": 0.512,
+      "why": {
+        "price": 0.34,
+        "specs": 0.54,
+        "differentBrand": 1,
+        "discount": 0.28,
+        "observed": 0
+      }
+    },
+    {
+      "id": "169792",
+      "kind": "similar",
+      "score": 0.5,
+      "why": {
+        "price": 0.29,
+        "specs": 0.56,
+        "differentBrand": 1,
+        "discount": 0.32,
         "observed": 0
       }
     }

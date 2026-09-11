@@ -8,6 +8,10 @@
         "label": "დინამიკები"
       },
       {
+        "id": "smartphone",
+        "label": "სმარტფონები"
+      },
+      {
         "id": "wireless-charger",
         "label": "უსადენო დამტენები"
       },

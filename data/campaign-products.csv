@@ -30,29 +30,82 @@ id,group,category,title,old_price,promo_price,discount_pct,price_conflict
 154097,მობილურები და აქსესუარები,Headphone,Technics EAH-AZ60M2GK II TWS Earbuds Black,829,449,46,False
 154100,მობილურები და აქსესუარები,Headphone,Technics EAH-AZ60M2GS II TWS Earbuds Silver,829,449,46,False
 148449,მობილურები და აქსესუარები,Headphone,Canyon BTHS-3 Wireless headphones Beige,69,29,58,False
-67001,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Panasonic ER-GB70-S520,249,89,64,False
-71732,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,ER-GP80-K820,549,249,55,False
-76410,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Hair Trimmer ER-GP21-K820,279,99,65,False
-131836,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Panasonic ES-LS9A-K820,1399,799,43,False
-131835,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Panasonic ES-LS6A-K820,1199,499,58,False
-131838,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Panasonic ES-LV9U-K820,1189,399,66,False
+145224,მობილურები და აქსესუარები,smartphone,Apple iPhone 15 128GB Black,2139,2019,6,False
+145226,მობილურები და აქსესუარები,smartphone,Apple iPhone 15 128GB Blue,2139,2019,6,False
+157970,მობილურები და აქსესუარები,smartphone,Apple iPhone 16 128GB Black,2489,2379,4,False
+157981,მობილურები და აქსესუარები,smartphone,Apple iPhone 16 128GB Pink,2489,2379,4,False
+157988,მობილურები და აქსესუარები,smartphone,Apple iPhone 16 128GB Teal,2489,2379,4,False
+157985,მობილურები და აქსესუარები,smartphone,Apple iPhone 16 128GB Ultramarine,2489,2379,4,False
+157978,მობილურები და აქსესუარები,smartphone,Apple iPhone 16 128GB White,2489,2379,4,False
+169758,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 256GB Black,2849,2699,5,False
+170907,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 256GB Black E-sim/TP,2749,2599,5,False
+169761,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 256GB Lavender,2849,2699,5,False
+171320,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 256GB Lavender E-sim/TP,2749,2519,8,False
+169760,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 256GB Mist Blue,2849,2719,5,False
+171322,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 256GB Mist Blue E-sim/TP,2749,2519,8,False
+169762,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 256GB Sage,2849,2699,5,False
+171321,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 256GB Sage E-sim/TP,2749,2519,8,False
+169759,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 256GB White,2849,2699,5,False
+170908,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 256GB White E-sim/TP,2749,2599,5,False
+169770,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 Pro 256GB Deep Blue,3709,3549,4,False
+169768,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 Pro 256GB Silver,3709,3549,4,False
+171323,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 Pro 512GB Cosmic Orange E-sim/TP,4199,4099,2,False
+169771,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 Pro 512GB Silver,4409,4159,6,False
+171325,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 Pro 512GB Silver E-sim/TP,4199,4099,2,False
+170902,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 Pro Max 256GB Cosmic Orange E-sim/TP,3899,3739,4,False
+170901,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 Pro Max 256GB Deep Blue E-sim/TP,3899,3739,4,False
+169777,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 Pro Max 256GB Silver,4049,3869,4,False
+171022,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 Pro Max 256GB Silver E-sim/TP,3899,3739,4,False
+170903,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 Pro Max 512 GB Cosmic Orange E-sim/TP,4549,4399,3,False
+170904,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 Pro Max 512GB Deep Blue E-sim/TP,4549,4399,3,False
+171326,მობილურები და აქსესუარები,smartphone,Apple iPhone 17 Pro Max 512GB Silver E-sim/TP,4549,4399,3,False
+174404,მობილურები და აქსესუარები,smartphone,Apple iPhone 17e 256GB Black,2139,2019,6,False
+169792,მობილურები და აქსესუარები,smartphone,Apple iPhone Air 256GB Sky Blue,2929,2779,5,False
+169790,მობილურები და აქსესუარები,smartphone,Apple iPhone Air 256GB Cloud White,2929,2779,5,False
+176668,მობილურები და აქსესუარები,smartphone,OPPO A6s Pro 8GB/256GB Eclipse Blue,949,799,16,False
+173436,მობილურები და აქსესუარები,smartphone,OPPO Reno 15 12GB/512GB 5G Aurora white,1699,1399,18,False
+173434,მობილურები და აქსესუარები,smartphone,OPPO Reno 15F 12GB/512GB 5G Aurora Blue,1299,1069,18,False
+173433,მობილურები და აქსესუარები,smartphone,OPPO Reno 15F 12GB/512GB 5G Twilight Blue,1299,1069,18,False
+173431,მობილურები და აქსესუარები,smartphone,OPPO Reno 15F 8GB/256GB 5G Aurora Blue,1099,899,18,False
+173432,მობილურები და აქსესუარები,smartphone,OPPO Reno 15F 8GB/256GB 5G Twilight Blue,1099,899,18,False
+176667,მობილურები და აქსესუარები,smartphone,OPPO Reno 16 12GB/256GB 5G Twilight Violet,1899,1599,16,False
+161368,თეთრი ტექნიკა,Kettle,Russell Hobbs 23912-70/RH Adventure Kettle Bru 2.4kW,189,29,85,False
+161378,თეთრი ტექნიკა,Waffle Maker,Russell Hobbs 24620-56/RH Fiesta3in1CakeWaffleDonutMak,279,59,79,False
+161396,თეთრი ტექნიკა,Air Fryer,Russell Hobbs 27160-56/RH SatisFry Air Medium 4L,499,129,74,False
+161375,თეთრი ტექნიკა,Air Fryer,Russell Hobbs 27350-56/RH Essentials Air Fryer,299,79,74,False
+161390,თეთრი ტექნიკა,Air Fryer,Russell Hobbs 26520-56/RH SatisFry Air&Grill Multi 5.5,749,199,73,False
 168221,თეთრი ტექნიკა,მტვერსასრუტი,SVC 8776BK Cordless Vac. Cleaner SENCOR,1299,349,73,False
-165648,თეთრი ტექნიკა,მტვერსასრუტი,SRW 6010WH Robot Window Cleaner,649,269,59,False
-160045,თეთრი ტექნიკა,მტვერსასრუტი,SVC 308BK Handheld Vacuum Cleaner,289,99,66,False
-170828,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Remington AC9140 E51 PRO-Luxe Dryer,229,99,57,False
-163259,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Remington S6700 E51 Sleek & Curl Expert,259,99,62,False
+161367,თეთრი ტექნიკა,Toaster,Russell Hobbs 26060-56/RH Honeycomb 2S Toaster White,179,49,73,False
 129735,თეთრი ტექნიკა,კლიმატური ტექნიკა,SHA 8400WH-EUE3 AIR PURIFIER SENCOR,529,149,72,False
 162217,თეთრი ტექნიკა,კლიმატური ტექნიკა,Sencor SDH 1028WH Dehumidifier,749,229,69,False
-128153,თეთრი ტექნიკა,უთო,BRAUN SI7160BL,329,199,40,False
-96051,თეთრი ტექნიკა,უთო,BRAUN SI3042VI,159,79,50,False
+131838,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Panasonic ES-LV9U-K820,1189,399,66,False
+160045,თეთრი ტექნიკა,მტვერსასრუტი,SVC 308BK Handheld Vacuum Cleaner,289,99,66,False
+76410,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Hair Trimmer ER-GP21-K820,279,99,65,False
+67001,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Panasonic ER-GB70-S520,249,89,64,False
 106258,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,PHILIPS HC5650/15,349,129,63,False
-163663,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Philips - QP6552/15 One Blade,499,289,42,False
+163259,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Remington S6700 E51 Sleek & Curl Expert,259,99,62,False
+165648,თეთრი ტექნიკა,მტვერსასრუტი,SRW 6010WH Robot Window Cleaner,649,269,59,False
+131835,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Panasonic ES-LS6A-K820,1199,499,58,False
+170828,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Remington AC9140 E51 PRO-Luxe Dryer,229,99,57,False
+71732,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,ER-GP80-K820,549,249,55,False
 65733,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Shaver ES6002A520,149,69,54,False
+165728,თეთრი ტექნიკა,Coffee Maker,Sencor SES 4910SS Espresso Machine,749,349,53,False
+175922,თეთრი ტექნიკა,Juicer,SENCOR SSJ 8050SS,449,219,51,False
+152127,თეთრი ტექნიკა,Air Fryer,EAF7B,729,359,51,False
+129728,თეთრი ტექნიკა,Mixer,SHM 5207SS HAND MIXER,119,59,50,False
+96051,თეთრი ტექნიკა,უთო,BRAUN SI3042VI,159,79,50,False
+113749,თეთრი ტექნიკა,Sandwich Maker,SSM 9410SS SANDWICH MAKER,199,99,50,False
+106210,თეთრი ტექნიკა,Toaster,STS 5050SS,219,109,50,False
+158526,თეთრი ტექნიკა,Rice Cooker,SRM 0650SS,189,99,48,False
 89364,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Panasonic ES6003S520,149,79,47,False
 156240,თეთრი ტექნიკა,Washing Machine,Washing Machine/ P2210FLG 10 KG 1200 RPM 85x60x60 Inverter Rotary Knob Buttons LED Display Black,1299,699,46,False
+131836,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Panasonic ES-LS9A-K820,1399,799,43,False
+163663,თეთრი ტექნიკა,სილამაზე და ჯანმრთელობა,Philips - QP6552/15 One Blade,499,289,42,False
+168764,თეთრი ტექნიკა,Washing Machine,TW-BK100GF4UZ(WK),1599,949,41,False
 158942,თეთრი ტექნიკა,Refrigerator,Refrigerator/ GR-B509FMFW.APYQMER Bottom-Freezer 203x59.5x67.6 446 LT Inverter Display Silver,2699,1599,41,False
+140877,თეთრი ტექნიკა,Coffee Maker,Delonghi ECAM450.65.G Eletta Explore,3599,2159,40,False
+128153,თეთრი ტექნიკა,უთო,BRAUN SI7160BL,329,199,40,False
 160575,თეთრი ტექნიკა,Refrigerator,Refrigerator/ P275BFW Bottom-Freezer 182.5x54.5x61.5 275 LT NF Display White,1299,799,38,False
-168764,თეთრი ტექნიკა,Washing Machine,Washing Machine/ TW-BK100GF4UZ(WK),1599,999,38,False
 154704,თეთრი ტექნიკა,Washing Machine,"Washing Machine - Dryer/ AEG/ AEG LWR73164Q-10/6 KG Inverter, 60x85x60,1600 RPM, A,White, Wi-Fi Control, 76 DB",3849,2499,35,False
 175318,თეთრი ტექნიკა,Washing Machine,Washing Machine/ F2Y2HYP6J.AMBQME2 7 KG 1200 RPM 85x60x44 Inverter DD Motor LED Display Middle Black,1349,899,33,False
 172565,თეთრი ტექნიკა,Washing Machine,"Washing Machine/ TW-BN80C2UZ(WK) T13 7 KG 1200 RPM 85x59,5x40 Inverter Rotary Knob LED Touch Colour Display White",1149,799,30,False
@@ -62,20 +115,6 @@ id,group,category,title,old_price,promo_price,discount_pct,price_conflict
 163363,თეთრი ტექნიკა,Built-in Dishwasher,Dishwasher/ AEG/ AEG FSB72907P,2099,1499,29,False
 171426,თეთრი ტექნიკა,Dishwasher,Dishwasher/ Electrolux/ Electrolux ESM48310SW FS 85x59.8x62.2 Prog 8/ Set 14 / Inverter White,1949,1399,28,False
 171667,თეთრი ტექნიკა,Built-in Dishwasher,"Dishwasher/ Electrolux/ EEA23200L BI/ Size, 818x450x550/ Black/ Class A+/ Prog. 5/ /Set 10/49 DB/ 3 Bascket",1669,1199,28,False
-140877,თეთრი ტექნიკა,Coffee Maker,Delonghi ECAM450.65.G Eletta Explore,3599,2159,40,False
-165728,თეთრი ტექნიკა,Coffee Maker,Sencor SES 4910SS Espresso Machine,749,349,53,False
-152127,თეთრი ტექნიკა,Air Fryer,EAF7B,729,359,51,False
-175922,თეთრი ტექნიკა,Juicer,SENCOR SSJ 8050SS,449,219,51,False
-106210,თეთრი ტექნიკა,Toaster,STS 5050SS,219,109,50,False
-158526,თეთრი ტექნიკა,Rice Cooker,SRM 0650SS,189,99,48,False
-113749,თეთრი ტექნიკა,Sandwich Maker,SSM 9410SS SANDWICH MAKER,199,99,50,False
-129728,თეთრი ტექნიკა,Mixer,SHM 5207SS HAND MIXER,119,59,50,False
-161396,თეთრი ტექნიკა,Air Fryer,Russell Hobbs 27160-56/RH SatisFry Air Medium 4L,499,129,74,False
-161368,თეთრი ტექნიკა,Kettle,Russell Hobbs 23912-70/RH Adventure Kettle Bru 2.4kW,189,29,85,False
-161378,თეთრი ტექნიკა,Waffle Maker,Russell Hobbs 24620-56/RH Fiesta3in1CakeWaffleDonutMak,279,59,79,False
-161390,თეთრი ტექნიკა,Air Fryer,Russell Hobbs 26520-56/RH SatisFry Air&Grill Multi 5.5,749,199,73,False
-161375,თეთრი ტექნიკა,Air Fryer,Russell Hobbs 27350-56/RH Essentials Air Fryer,299,79,74,False
-161367,თეთრი ტექნიკა,Toaster,Russell Hobbs 26060-56/RH Honeycomb 2S Toaster White,179,49,73,False
 156818,IT,Car Camera,CANYON car recorder DVR25 WQHD 2.5K 1440p Wi-Fi Black,399,199,50,False
 171671,IT,Car Camera,70MAI Dash Cam A510,329,219,33,False
 171666,IT,Car Camera,70MAI Dash Cam M310,229,159,31,False

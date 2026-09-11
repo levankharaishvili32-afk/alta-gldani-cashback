@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-11T11:18:14.678Z",
- "products": 168,
+ "generated_at": "2026-09-11T13:02:02.859Z",
+ "products": 207,
  "code_pattern": "^\\d{5,7}$",
  "aliases": [
   {
@@ -880,99 +880,707 @@
    }
   },
   {
-   "id": "67001",
-   "title": "Panasonic ER-GB70-S520",
-   "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
+   "id": "145224",
+   "title": "Apple iPhone 15 128GB - Black",
+   "brand": "Apple",
+   "category": "სმარტფონები",
    "latin": {
-    "title": "panasonic er gb 70 s 520",
-    "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
+    "title": "apple iphone 15 128 gb black",
+    "brand": "apple",
+    "category": "smartfonebi"
    },
    "ka": {
-    "title": "პანასონიც ერ გბ 70 ს 520",
-    "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
+    "title": "აპპლე იფონე 15 128 გბ ბლაცქ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
    }
   },
   {
-   "id": "71732",
-   "title": "Panasonic ER-GP80-K820",
-   "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
+   "id": "145226",
+   "title": "Apple iPhone 15 128GB - Blue",
+   "brand": "Apple",
+   "category": "სმარტფონები",
    "latin": {
-    "title": "panasonic er gp 80 k 820",
-    "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
+    "title": "apple iphone 15 128 gb blue",
+    "brand": "apple",
+    "category": "smartfonebi"
    },
    "ka": {
-    "title": "პანასონიც ერ გპ 80 ქ 820",
-    "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
+    "title": "აპპლე იფონე 15 128 გბ ბლუე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
    }
   },
   {
-   "id": "76410",
-   "title": "Panasonic ER-GP21-K820",
-   "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
+   "id": "157970",
+   "title": "Apple iPhone 16 128GB - Black",
+   "brand": "Apple",
+   "category": "სმარტფონები",
    "latin": {
-    "title": "panasonic er gp 21 k 820",
-    "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
+    "title": "apple iphone 16 128 gb black",
+    "brand": "apple",
+    "category": "smartfonebi"
    },
    "ka": {
-    "title": "პანასონიც ერ გპ 21 ქ 820",
-    "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
+    "title": "აპპლე იფონე 16 128 გბ ბლაცქ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
    }
   },
   {
-   "id": "131836",
-   "title": "Panasonic ES-LS9A-K820",
-   "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
+   "id": "157981",
+   "title": "Apple iPhone 16 128GB - Pink",
+   "brand": "Apple",
+   "category": "სმარტფონები",
    "latin": {
-    "title": "panasonic es ls 9 a k 820",
-    "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
+    "title": "apple iphone 16 128 gb pink",
+    "brand": "apple",
+    "category": "smartfonebi"
    },
    "ka": {
-    "title": "პანასონიც ეს ლს 9 ა ქ 820",
-    "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
+    "title": "აპპლე იფონე 16 128 გბ პინქ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
    }
   },
   {
-   "id": "131835",
-   "title": "Panasonic ES-LS6A-K820",
-   "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
+   "id": "157988",
+   "title": "Apple iPhone 16 128GB - Teal",
+   "brand": "Apple",
+   "category": "სმარტფონები",
    "latin": {
-    "title": "panasonic es ls 6 a k 820",
-    "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
+    "title": "apple iphone 16 128 gb teal",
+    "brand": "apple",
+    "category": "smartfonebi"
    },
    "ka": {
-    "title": "პანასონიც ეს ლს 6 ა ქ 820",
-    "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
+    "title": "აპპლე იფონე 16 128 გბ თეალ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
    }
   },
   {
-   "id": "131838",
-   "title": "Panasonic ES-LV9U-K820",
-   "brand": "Panasonic",
-   "category": "სილამაზე და ჯანმრთელობა",
+   "id": "157985",
+   "title": "Apple iPhone 16 128GB - Ultramarine",
+   "brand": "Apple",
+   "category": "სმარტფონები",
    "latin": {
-    "title": "panasonic es lv 9 u k 820",
-    "brand": "panasonic",
-    "category": "silamaze da janmrteloba"
+    "title": "apple iphone 16 128 gb ultramarine",
+    "brand": "apple",
+    "category": "smartfonebi"
    },
    "ka": {
-    "title": "პანასონიც ეს ლვ 9 უ ქ 820",
-    "brand": "პანასონიც",
-    "category": "სილამაზე და ჯანმრთელობა"
+    "title": "აპპლე იფონე 16 128 გბ ულთრამარინე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "157978",
+   "title": "Apple iPhone 16 128GB - White",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 16 128 gb white",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 16 128 გბ ვხითე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169758",
+   "title": "Apple iPhone 17 8GB/256GB - Black",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 8 gb 256 gb black",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 8 გბ 256 გბ ბლაცქ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170907",
+   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - Black",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 e sim only 8 gb 256 gb black",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ ბლაცქ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169761",
+   "title": "Apple iPhone 17 (8GB/256GB) - Lavender",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 8 gb 256 gb lavender",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 8 გბ 256 გბ ლავენდერ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "171320",
+   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - Lavender",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 e sim only 8 gb 256 gb lavender",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ ლავენდერ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169760",
+   "title": "Apple iPhone 17 (8GB/256GB) - Mist Blue",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 8 gb 256 gb mist blue",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 8 გბ 256 გბ მისთ ბლუე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "171322",
+   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - Mist Blue",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 e sim only 8 gb 256 gb mist blue",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ მისთ ბლუე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169762",
+   "title": "Apple iPhone 17 (8GB/256GB) - Sage",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 8 gb 256 gb sage",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 8 გბ 256 გბ საგე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "171321",
+   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - Sage",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 e sim only 8 gb 256 gb sage",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ საგე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169759",
+   "title": "Apple iPhone 17 (8GB/256GB) - White",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 8 gb 256 gb white",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 8 გბ 256 გბ ვხითე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170908",
+   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - White",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 e sim only 8 gb 256 gb white",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ ვხითე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169770",
+   "title": "Apple iPhone 17 Pro 12GB/256GB - Deep Blue",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro 12 gb 256 gb deep blue",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო 12 გბ 256 გბ დეეპ ბლუე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169768",
+   "title": "Apple iPhone 17 Pro 12GB/256GB - Silver",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro 12 gb 256 gb silver",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო 12 გბ 256 გბ სილვერ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "171323",
+   "title": "Apple iPhone 17 Pro e-Sim Only 12GB/512GB - Cosmic Orange",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro e sim only 12 gb 512 gb cosmic orange",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო ე სიმ ონლყ 12 გბ 512 გბ ცოსმიც ორანგე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169771",
+   "title": "Apple iPhone 17 Pro (12GB/512GB) - Silver",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro 12 gb 512 gb silver",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო 12 გბ 512 გბ სილვერ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "171325",
+   "title": "Apple iPhone 17 Pro e-Sim Only 12GB/512GB - Silver",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro e sim only 12 gb 512 gb silver",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო ე სიმ ონლყ 12 გბ 512 გბ სილვერ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170902",
+   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/256GB - Cosmic Orange",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro max e sim only 12 gb 256 gb cosmic orange",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 256 გბ ცოსმიც ორანგე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170901",
+   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/256GB - Deep Blue",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro max e sim only 12 gb 256 gb deep blue",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 256 გბ დეეპ ბლუე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169777",
+   "title": "Apple iPhone 17 Pro Max 12GB/256GB - Silver",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro max 12 gb 256 gb silver",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო მახ 12 გბ 256 გბ სილვერ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "171022",
+   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/256GB - Silver",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro max e sim only 12 gb 256 gb silver",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 256 გბ სილვერ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170903",
+   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/512GB - Cosmic Orange",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro max e sim only 12 gb 512 gb cosmic orange",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 512 გბ ცოსმიც ორანგე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170904",
+   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/512GB - Deep Blue",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro max e sim only 12 gb 512 gb deep blue",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 512 გბ დეეპ ბლუე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "171326",
+   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/512GB - Silver",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro max e sim only 12 gb 512 gb silver",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 512 გბ სილვერ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "174404",
+   "title": "Apple iPhone 17e 256GB Black",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 e 256 gb black",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 ე 256 გბ ბლაცქ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169792",
+   "title": "Apple iPhone Air 12GB/256GB - Sky Blue",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone air 12 gb 256 gb sky blue",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე აირ 12 გბ 256 გბ სქყ ბლუე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169790",
+   "title": "Apple iPhone Air 12GB/256GB - Cloud White",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone air 12 gb 256 gb cloud white",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე აირ 12 გბ 256 გბ ცლოუდ ვხითე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "176668",
+   "title": "OPPO A6s Pro 8GB/256GB Eclipse Blue",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo a 6 s pro 8 gb 256 gb eclipse blue",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო ა 6 ს პრო 8 გბ 256 გბ ეცლიპსე ბლუე",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "173436",
+   "title": "OPPO Reno 15 12GB/512GB 5G Aurora white",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo reno 15 12 gb 512 gb 5 g aurora white",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო რენო 15 12 გბ 512 გბ 5 გ აურორა ვხითე",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "173434",
+   "title": "OPPO Reno 15F 12GB/512GB 5G Aurora Blue",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo reno 15 f 12 gb 512 gb 5 g aurora blue",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო რენო 15 ფ 12 გბ 512 გბ 5 გ აურორა ბლუე",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "173433",
+   "title": "OPPO Reno 15F 12GB/512GB 5G Twilight Blue",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo reno 15 f 12 gb 512 gb 5 g twilight blue",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო რენო 15 ფ 12 გბ 512 გბ 5 გ თვილიგთ ბლუე",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "173431",
+   "title": "OPPO Reno 15F 8GB/256GB 5G Aurora Blue",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo reno 15 f 8 gb 256 gb 5 g aurora blue",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო რენო 15 ფ 8 გბ 256 გბ 5 გ აურორა ბლუე",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "173432",
+   "title": "OPPO Reno 15F 8GB/256GB 5G Twilight Blue",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo reno 15 f 8 gb 256 gb 5 g twilight blue",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო რენო 15 ფ 8 გბ 256 გბ 5 გ თვილიგთ ბლუე",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "176667",
+   "title": "OPPO Reno 16 12GB/256GB 5G Twilight Violet",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo reno 16 12 gb 256 gb 5 g twilight violet",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო რენო 16 12 გბ 256 გბ 5 გ თვილიგთ ვიოლეთ",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "161368",
+   "title": "Russell Hobbs 23912-70/RH Adventure Kettle Bru 2.4kW",
+   "brand": "Russell Hobbs",
+   "category": "ელექტროჩაიდნები",
+   "latin": {
+    "title": "russell hobbs 23912 70 rh adventure kettle bru 2 4 kw",
+    "brand": "russell hobbs",
+    "category": "elektrochaidnebi"
+   },
+   "ka": {
+    "title": "რუსსელლ ხობბს 23912 70 რხ ადვენთურე ქეთთლე ბრუ 2 4 ქვ",
+    "brand": "რუსსელლ ხობბს",
+    "category": "ელექთროჩაიდნები"
+   }
+  },
+  {
+   "id": "161378",
+   "title": "Russell Hobbs 24620-56/RH",
+   "brand": "Russell Hobbs",
+   "category": "ვაფლის აპარატები",
+   "latin": {
+    "title": "russell hobbs 24620 56 rh",
+    "brand": "russell hobbs",
+    "category": "vaflis aparatebi"
+   },
+   "ka": {
+    "title": "რუსსელლ ხობბს 24620 56 რხ",
+    "brand": "რუსსელლ ხობბს",
+    "category": "ვაფლის აპარათები"
+   }
+  },
+  {
+   "id": "161396",
+   "title": "Russell Hobbs 27160-56/RH SatisFry Air Medium 4L",
+   "brand": "Russell Hobbs",
+   "category": "აეროგრილები",
+   "latin": {
+    "title": "russell hobbs 27160 56 rh satisfry air medium 4 l",
+    "brand": "russell hobbs",
+    "category": "aerogrilebi"
+   },
+   "ka": {
+    "title": "რუსსელლ ხობბს 27160 56 რხ სათისფრყ აირ მედიუმ 4 ლ",
+    "brand": "რუსსელლ ხობბს",
+    "category": "აეროგრილები"
+   }
+  },
+  {
+   "id": "161375",
+   "title": "Russell Hobbs 27350-56/RH Essentials Air Fryer",
+   "brand": "Russell Hobbs",
+   "category": "აეროგრილები",
+   "latin": {
+    "title": "russell hobbs 27350 56 rh essentials air fryer",
+    "brand": "russell hobbs",
+    "category": "aerogrilebi"
+   },
+   "ka": {
+    "title": "რუსსელლ ხობბს 27350 56 რხ ესსენთიალს აირ ფრყერ",
+    "brand": "რუსსელლ ხობბს",
+    "category": "აეროგრილები"
+   }
+  },
+  {
+   "id": "161390",
+   "title": "Russell Hobbs 26520-56/RH SatisFry Air&Grill Multi 5.5",
+   "brand": "Russell Hobbs",
+   "category": "აეროგრილები",
+   "latin": {
+    "title": "russell hobbs 26520 56 rh satisfry air&grill multi 5 5",
+    "brand": "russell hobbs",
+    "category": "aerogrilebi"
+   },
+   "ka": {
+    "title": "რუსსელლ ხობბს 26520 56 რხ სათისფრყ აირ&გრილლ მულთი 5 5",
+    "brand": "რუსსელლ ხობბს",
+    "category": "აეროგრილები"
    }
   },
   {
@@ -992,51 +1600,19 @@
    }
   },
   {
-   "id": "165648",
-   "title": "Sencor SRW 6010WH Robot Window Cleaner",
-   "brand": "Sencor",
-   "category": "მტვერსასრუტები",
+   "id": "161367",
+   "title": "Russell Hobbs 26060-56/RH Honeycomb 2S Toaster White",
+   "brand": "Russell Hobbs",
+   "category": "ტოსტერები",
    "latin": {
-    "title": "sencor srw 6010 wh robot window cleaner",
-    "brand": "sencor",
-    "category": "mtversasrutebi"
+    "title": "russell hobbs 26060 56 rh honeycomb 2 s toaster white",
+    "brand": "russell hobbs",
+    "category": "tosterebi"
    },
    "ka": {
-    "title": "სენცორ სრვ 6010 ვხ რობოთ ვინდოვ ცლეანერ",
-    "brand": "სენცორ",
-    "category": "მთვერსასრუთები"
-   }
-  },
-  {
-   "id": "160045",
-   "title": "Sencor SVC 308BK Handheld Vacuum Cleaner",
-   "brand": "Sencor",
-   "category": "მტვერსასრუტები",
-   "latin": {
-    "title": "sencor svc 308 bk handheld vacuum cleaner",
-    "brand": "sencor",
-    "category": "mtversasrutebi"
-   },
-   "ka": {
-    "title": "სენცორ სვც 308 ბქ ხანდხელდ ვაცუუმ ცლეანერ",
-    "brand": "სენცორ",
-    "category": "მთვერსასრუთები"
-   }
-  },
-  {
-   "id": "163259",
-   "title": "Remington S6700 E51 Sleek & Curl Expert",
-   "brand": "Remington",
-   "category": "სილამაზე და ჯანმრთელობა",
-   "latin": {
-    "title": "remington s 6700 e 51 sleek & curl expert",
-    "brand": "remington",
-    "category": "silamaze da janmrteloba"
-   },
-   "ka": {
-    "title": "რემინგთონ ს 6700 ე 51 სლეექ & ცურლ ეხპერთ",
-    "brand": "რემინგთონ",
-    "category": "სილამაზე და ჯანმრთელობა"
+    "title": "რუსსელლ ხობბს 26060 56 რხ ხონეყცომბ 2 ს თოასთერ ვხითე",
+    "brand": "რუსსელლ ხობბს",
+    "category": "თოსთერები"
    }
   },
   {
@@ -1072,34 +1648,130 @@
    }
   },
   {
-   "id": "96051",
-   "title": "BRAUN SI3042VI",
-   "brand": "Braun",
-   "category": "უთოები",
-   "latin": {
-    "title": "braun si 3042 vi",
-    "brand": "braun",
-    "category": "utoebi"
-   },
-   "ka": {
-    "title": "ბრაუნ სი 3042 ვი",
-    "brand": "ბრაუნ",
-    "category": "უთოები"
-   }
-  },
-  {
-   "id": "163663",
-   "title": "Philips QP6552/15 One Blade",
-   "brand": "Philips",
+   "id": "131838",
+   "title": "Panasonic ES-LV9U-K820",
+   "brand": "Panasonic",
    "category": "სილამაზე და ჯანმრთელობა",
    "latin": {
-    "title": "philips qp 6552 15 one blade",
-    "brand": "philips",
+    "title": "panasonic es lv 9 u k 820",
+    "brand": "panasonic",
     "category": "silamaze da janmrteloba"
    },
    "ka": {
-    "title": "ფილიპს ყპ 6552 15 ონე ბლადე",
-    "brand": "ფილიპს",
+    "title": "პანასონიც ეს ლვ 9 უ ქ 820",
+    "brand": "პანასონიც",
+    "category": "სილამაზე და ჯანმრთელობა"
+   }
+  },
+  {
+   "id": "160045",
+   "title": "Sencor SVC 308BK Handheld Vacuum Cleaner",
+   "brand": "Sencor",
+   "category": "მტვერსასრუტები",
+   "latin": {
+    "title": "sencor svc 308 bk handheld vacuum cleaner",
+    "brand": "sencor",
+    "category": "mtversasrutebi"
+   },
+   "ka": {
+    "title": "სენცორ სვც 308 ბქ ხანდხელდ ვაცუუმ ცლეანერ",
+    "brand": "სენცორ",
+    "category": "მთვერსასრუთები"
+   }
+  },
+  {
+   "id": "76410",
+   "title": "Panasonic ER-GP21-K820",
+   "brand": "Panasonic",
+   "category": "სილამაზე და ჯანმრთელობა",
+   "latin": {
+    "title": "panasonic er gp 21 k 820",
+    "brand": "panasonic",
+    "category": "silamaze da janmrteloba"
+   },
+   "ka": {
+    "title": "პანასონიც ერ გპ 21 ქ 820",
+    "brand": "პანასონიც",
+    "category": "სილამაზე და ჯანმრთელობა"
+   }
+  },
+  {
+   "id": "67001",
+   "title": "Panasonic ER-GB70-S520",
+   "brand": "Panasonic",
+   "category": "სილამაზე და ჯანმრთელობა",
+   "latin": {
+    "title": "panasonic er gb 70 s 520",
+    "brand": "panasonic",
+    "category": "silamaze da janmrteloba"
+   },
+   "ka": {
+    "title": "პანასონიც ერ გბ 70 ს 520",
+    "brand": "პანასონიც",
+    "category": "სილამაზე და ჯანმრთელობა"
+   }
+  },
+  {
+   "id": "163259",
+   "title": "Remington S6700 E51 Sleek & Curl Expert",
+   "brand": "Remington",
+   "category": "სილამაზე და ჯანმრთელობა",
+   "latin": {
+    "title": "remington s 6700 e 51 sleek & curl expert",
+    "brand": "remington",
+    "category": "silamaze da janmrteloba"
+   },
+   "ka": {
+    "title": "რემინგთონ ს 6700 ე 51 სლეექ & ცურლ ეხპერთ",
+    "brand": "რემინგთონ",
+    "category": "სილამაზე და ჯანმრთელობა"
+   }
+  },
+  {
+   "id": "165648",
+   "title": "Sencor SRW 6010WH Robot Window Cleaner",
+   "brand": "Sencor",
+   "category": "მტვერსასრუტები",
+   "latin": {
+    "title": "sencor srw 6010 wh robot window cleaner",
+    "brand": "sencor",
+    "category": "mtversasrutebi"
+   },
+   "ka": {
+    "title": "სენცორ სრვ 6010 ვხ რობოთ ვინდოვ ცლეანერ",
+    "brand": "სენცორ",
+    "category": "მთვერსასრუთები"
+   }
+  },
+  {
+   "id": "131835",
+   "title": "Panasonic ES-LS6A-K820",
+   "brand": "Panasonic",
+   "category": "სილამაზე და ჯანმრთელობა",
+   "latin": {
+    "title": "panasonic es ls 6 a k 820",
+    "brand": "panasonic",
+    "category": "silamaze da janmrteloba"
+   },
+   "ka": {
+    "title": "პანასონიც ეს ლს 6 ა ქ 820",
+    "brand": "პანასონიც",
+    "category": "სილამაზე და ჯანმრთელობა"
+   }
+  },
+  {
+   "id": "71732",
+   "title": "Panasonic ER-GP80-K820",
+   "brand": "Panasonic",
+   "category": "სილამაზე და ჯანმრთელობა",
+   "latin": {
+    "title": "panasonic er gp 80 k 820",
+    "brand": "panasonic",
+    "category": "silamaze da janmrteloba"
+   },
+   "ka": {
+    "title": "პანასონიც ერ გპ 80 ქ 820",
+    "brand": "პანასონიც",
     "category": "სილამაზე და ჯანმრთელობა"
    }
   },
@@ -1117,6 +1789,134 @@
     "title": "პანასონიც ეს 6002 ა 520",
     "brand": "პანასონიც",
     "category": "სილამაზე და ჯანმრთელობა"
+   }
+  },
+  {
+   "id": "165728",
+   "title": "Sencor SES 4910SS Espresso Machine",
+   "brand": "Sencor",
+   "category": "ყავის აპარატები",
+   "latin": {
+    "title": "sencor ses 4910 ss espresso machine",
+    "brand": "sencor",
+    "category": "qavis aparatebi"
+   },
+   "ka": {
+    "title": "სენცორ სეს 4910 სს ესპრესსო მაჩინე",
+    "brand": "სენცორ",
+    "category": "ყავის აპარათები"
+   }
+  },
+  {
+   "id": "175922",
+   "title": "Sencor SSJ 8050SS",
+   "brand": "Sencor",
+   "category": "წვენსაწურები",
+   "latin": {
+    "title": "sencor ssj 8050 ss",
+    "brand": "sencor",
+    "category": "tsvensatsurebi"
+   },
+   "ka": {
+    "title": "სენცორ სსჯ 8050 სს",
+    "brand": "სენცორ",
+    "category": "ცვენსაცურები"
+   }
+  },
+  {
+   "id": "152127",
+   "title": "Electrolux EAF7B Air Fryer",
+   "brand": "Electrolux",
+   "category": "აეროგრილები",
+   "latin": {
+    "title": "electrolux eaf 7 b air fryer",
+    "brand": "electrolux",
+    "category": "aerogrilebi"
+   },
+   "ka": {
+    "title": "ელეცთროლუხ ეაფ 7 ბ აირ ფრყერ",
+    "brand": "ელეცთროლუხ",
+    "category": "აეროგრილები"
+   }
+  },
+  {
+   "id": "129728",
+   "title": "Sencor SHM 5207SS",
+   "brand": "Sencor",
+   "category": "მიქსერები",
+   "latin": {
+    "title": "sencor shm 5207 ss",
+    "brand": "sencor",
+    "category": "mikserebi"
+   },
+   "ka": {
+    "title": "სენცორ შმ 5207 სს",
+    "brand": "სენცორ",
+    "category": "მიქსერები"
+   }
+  },
+  {
+   "id": "96051",
+   "title": "BRAUN SI3042VI",
+   "brand": "Braun",
+   "category": "უთოები",
+   "latin": {
+    "title": "braun si 3042 vi",
+    "brand": "braun",
+    "category": "utoebi"
+   },
+   "ka": {
+    "title": "ბრაუნ სი 3042 ვი",
+    "brand": "ბრაუნ",
+    "category": "უთოები"
+   }
+  },
+  {
+   "id": "113749",
+   "title": "Sencor SSM 9410SS",
+   "brand": "Sencor",
+   "category": "სენდვიჩმეიკერები",
+   "latin": {
+    "title": "sencor ssm 9410 ss",
+    "brand": "sencor",
+    "category": "sendvichmeikerebi"
+   },
+   "ka": {
+    "title": "სენცორ სსმ 9410 სს",
+    "brand": "სენცორ",
+    "category": "სენდვიჩმეიქერები"
+   }
+  },
+  {
+   "id": "106210",
+   "title": "Sencor STS 5050SS",
+   "brand": "Sencor",
+   "category": "ტოსტერები",
+   "latin": {
+    "title": "sencor sts 5050 ss",
+    "brand": "sencor",
+    "category": "tosterebi"
+   },
+   "ka": {
+    "title": "სენცორ სც 5050 სს",
+    "brand": "სენცორ",
+    "category": "თოსთერები"
+   }
+  },
+  {
+   "id": "158526",
+   "title": "Sencor SRM 0650SS",
+   "brand": "Sencor",
+   "category": "ბრინჯის მადუღარები",
+   "latin": {
+    "title": "sencor srm 0650 ss",
+    "brand": "sencor",
+    "category": "brinjis madugharebi"
+   },
+   "ka": {
+    "title": "სენცორ სრმ 0650 სს",
+    "brand": "სენცორ",
+    "category": "ბრინჯის მადუგარები"
    }
   },
   {
@@ -1152,35 +1952,35 @@
    }
   },
   {
-   "id": "158942",
-   "title": "LG GC-GR-B509FMFW.APYQMER Silver",
-   "brand": "LG",
-   "category": "მაცივრები",
+   "id": "131836",
+   "title": "Panasonic ES-LS9A-K820",
+   "brand": "Panasonic",
+   "category": "სილამაზე და ჯანმრთელობა",
    "latin": {
-    "title": "lg gc gr b 509 fmfw apyqmer silver",
-    "brand": "lg",
-    "category": "matsivrebi"
+    "title": "panasonic es ls 9 a k 820",
+    "brand": "panasonic",
+    "category": "silamaze da janmrteloba"
    },
    "ka": {
-    "title": "ლგ გც გრ ბ 509 ფმფვ აპყყმერ სილვერ",
-    "brand": "ლგ",
-    "category": "მაცივრები"
+    "title": "პანასონიც ეს ლს 9 ა ქ 820",
+    "brand": "პანასონიც",
+    "category": "სილამაზე და ჯანმრთელობა"
    }
   },
   {
-   "id": "160575",
-   "title": "TCL P275BFW",
-   "brand": "TCL",
-   "category": "მაცივრები",
+   "id": "163663",
+   "title": "Philips QP6552/15 One Blade",
+   "brand": "Philips",
+   "category": "სილამაზე და ჯანმრთელობა",
    "latin": {
-    "title": "tcl p 275 bfw",
-    "brand": "tcl",
-    "category": "matsivrebi"
+    "title": "philips qp 6552 15 one blade",
+    "brand": "philips",
+    "category": "silamaze da janmrteloba"
    },
    "ka": {
-    "title": "თცლ პ 275 ბფვ",
-    "brand": "თცლ",
-    "category": "მაცივრები"
+    "title": "ფილიპს ყპ 6552 15 ონე ბლადე",
+    "brand": "ფილიპს",
+    "category": "სილამაზე და ჯანმრთელობა"
    }
   },
   {
@@ -1197,6 +1997,54 @@
     "title": "თოშიბა თვ ბქ 100 გფ 4 უზ ვქ",
     "brand": "თოშიბა",
     "category": "სარეცხი მანქანები"
+   }
+  },
+  {
+   "id": "158942",
+   "title": "LG GC-GR-B509FMFW.APYQMER Silver",
+   "brand": "LG",
+   "category": "მაცივრები",
+   "latin": {
+    "title": "lg gc gr b 509 fmfw apyqmer silver",
+    "brand": "lg",
+    "category": "matsivrebi"
+   },
+   "ka": {
+    "title": "ლგ გც გრ ბ 509 ფმფვ აპყყმერ სილვერ",
+    "brand": "ლგ",
+    "category": "მაცივრები"
+   }
+  },
+  {
+   "id": "140877",
+   "title": "DeLonghi Eletta Explore (ECAM450.65.G)",
+   "brand": "DeLonghi",
+   "category": "ყავის აპარატები",
+   "latin": {
+    "title": "delonghi eletta explore ecam 450 65 g",
+    "brand": "delonghi",
+    "category": "qavis aparatebi"
+   },
+   "ka": {
+    "title": "დელონგი ელეთთა ეხპლორე ეცამ 450 65 გ",
+    "brand": "დელონგი",
+    "category": "ყავის აპარათები"
+   }
+  },
+  {
+   "id": "160575",
+   "title": "TCL P275BFW",
+   "brand": "TCL",
+   "category": "მაცივრები",
+   "latin": {
+    "title": "tcl p 275 bfw",
+    "brand": "tcl",
+    "category": "matsivrebi"
+   },
+   "ka": {
+    "title": "თცლ პ 275 ბფვ",
+    "brand": "თცლ",
+    "category": "მაცივრები"
    }
   },
   {
@@ -1341,230 +2189,6 @@
     "title": "ელეცთროლუხ ეეა 23200 ლ",
     "brand": "ელეცთროლუხ",
     "category": "ჩასაშენებელი ჩურჩლის სარეცხი მანქანები"
-   }
-  },
-  {
-   "id": "140877",
-   "title": "DeLonghi Eletta Explore (ECAM450.65.G)",
-   "brand": "DeLonghi",
-   "category": "ყავის აპარატები",
-   "latin": {
-    "title": "delonghi eletta explore ecam 450 65 g",
-    "brand": "delonghi",
-    "category": "qavis aparatebi"
-   },
-   "ka": {
-    "title": "დელონგი ელეთთა ეხპლორე ეცამ 450 65 გ",
-    "brand": "დელონგი",
-    "category": "ყავის აპარათები"
-   }
-  },
-  {
-   "id": "165728",
-   "title": "Sencor SES 4910SS Espresso Machine",
-   "brand": "Sencor",
-   "category": "ყავის აპარატები",
-   "latin": {
-    "title": "sencor ses 4910 ss espresso machine",
-    "brand": "sencor",
-    "category": "qavis aparatebi"
-   },
-   "ka": {
-    "title": "სენცორ სეს 4910 სს ესპრესსო მაჩინე",
-    "brand": "სენცორ",
-    "category": "ყავის აპარათები"
-   }
-  },
-  {
-   "id": "152127",
-   "title": "Electrolux EAF7B Air Fryer",
-   "brand": "Electrolux",
-   "category": "აეროგრილები",
-   "latin": {
-    "title": "electrolux eaf 7 b air fryer",
-    "brand": "electrolux",
-    "category": "aerogrilebi"
-   },
-   "ka": {
-    "title": "ელეცთროლუხ ეაფ 7 ბ აირ ფრყერ",
-    "brand": "ელეცთროლუხ",
-    "category": "აეროგრილები"
-   }
-  },
-  {
-   "id": "175922",
-   "title": "Sencor SSJ 8050SS",
-   "brand": "Sencor",
-   "category": "წვენსაწურები",
-   "latin": {
-    "title": "sencor ssj 8050 ss",
-    "brand": "sencor",
-    "category": "tsvensatsurebi"
-   },
-   "ka": {
-    "title": "სენცორ სსჯ 8050 სს",
-    "brand": "სენცორ",
-    "category": "ცვენსაცურები"
-   }
-  },
-  {
-   "id": "106210",
-   "title": "Sencor STS 5050SS",
-   "brand": "Sencor",
-   "category": "ტოსტერები",
-   "latin": {
-    "title": "sencor sts 5050 ss",
-    "brand": "sencor",
-    "category": "tosterebi"
-   },
-   "ka": {
-    "title": "სენცორ სც 5050 სს",
-    "brand": "სენცორ",
-    "category": "თოსთერები"
-   }
-  },
-  {
-   "id": "158526",
-   "title": "Sencor SRM 0650SS",
-   "brand": "Sencor",
-   "category": "ბრინჯის მადუღარები",
-   "latin": {
-    "title": "sencor srm 0650 ss",
-    "brand": "sencor",
-    "category": "brinjis madugharebi"
-   },
-   "ka": {
-    "title": "სენცორ სრმ 0650 სს",
-    "brand": "სენცორ",
-    "category": "ბრინჯის მადუგარები"
-   }
-  },
-  {
-   "id": "113749",
-   "title": "Sencor SSM 9410SS",
-   "brand": "Sencor",
-   "category": "სენდვიჩმეიკერები",
-   "latin": {
-    "title": "sencor ssm 9410 ss",
-    "brand": "sencor",
-    "category": "sendvichmeikerebi"
-   },
-   "ka": {
-    "title": "სენცორ სსმ 9410 სს",
-    "brand": "სენცორ",
-    "category": "სენდვიჩმეიქერები"
-   }
-  },
-  {
-   "id": "129728",
-   "title": "Sencor SHM 5207SS",
-   "brand": "Sencor",
-   "category": "მიქსერები",
-   "latin": {
-    "title": "sencor shm 5207 ss",
-    "brand": "sencor",
-    "category": "mikserebi"
-   },
-   "ka": {
-    "title": "სენცორ შმ 5207 სს",
-    "brand": "სენცორ",
-    "category": "მიქსერები"
-   }
-  },
-  {
-   "id": "161396",
-   "title": "Russell Hobbs 27160-56/RH SatisFry Air Medium 4L",
-   "brand": "Russell Hobbs",
-   "category": "აეროგრილები",
-   "latin": {
-    "title": "russell hobbs 27160 56 rh satisfry air medium 4 l",
-    "brand": "russell hobbs",
-    "category": "aerogrilebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 27160 56 რხ სათისფრყ აირ მედიუმ 4 ლ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "აეროგრილები"
-   }
-  },
-  {
-   "id": "161368",
-   "title": "Russell Hobbs 23912-70/RH Adventure Kettle Bru 2.4kW",
-   "brand": "Russell Hobbs",
-   "category": "ელექტროჩაიდნები",
-   "latin": {
-    "title": "russell hobbs 23912 70 rh adventure kettle bru 2 4 kw",
-    "brand": "russell hobbs",
-    "category": "elektrochaidnebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 23912 70 რხ ადვენთურე ქეთთლე ბრუ 2 4 ქვ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "ელექთროჩაიდნები"
-   }
-  },
-  {
-   "id": "161378",
-   "title": "Russell Hobbs 24620-56/RH",
-   "brand": "Russell Hobbs",
-   "category": "ვაფლის აპარატები",
-   "latin": {
-    "title": "russell hobbs 24620 56 rh",
-    "brand": "russell hobbs",
-    "category": "vaflis aparatebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 24620 56 რხ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "ვაფლის აპარათები"
-   }
-  },
-  {
-   "id": "161390",
-   "title": "Russell Hobbs 26520-56/RH SatisFry Air&Grill Multi 5.5",
-   "brand": "Russell Hobbs",
-   "category": "აეროგრილები",
-   "latin": {
-    "title": "russell hobbs 26520 56 rh satisfry air&grill multi 5 5",
-    "brand": "russell hobbs",
-    "category": "aerogrilebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 26520 56 რხ სათისფრყ აირ&გრილლ მულთი 5 5",
-    "brand": "რუსსელლ ხობბს",
-    "category": "აეროგრილები"
-   }
-  },
-  {
-   "id": "161375",
-   "title": "Russell Hobbs 27350-56/RH Essentials Air Fryer",
-   "brand": "Russell Hobbs",
-   "category": "აეროგრილები",
-   "latin": {
-    "title": "russell hobbs 27350 56 rh essentials air fryer",
-    "brand": "russell hobbs",
-    "category": "aerogrilebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 27350 56 რხ ესსენთიალს აირ ფრყერ",
-    "brand": "რუსსელლ ხობბს",
-    "category": "აეროგრილები"
-   }
-  },
-  {
-   "id": "161367",
-   "title": "Russell Hobbs 26060-56/RH Honeycomb 2S Toaster White",
-   "brand": "Russell Hobbs",
-   "category": "ტოსტერები",
-   "latin": {
-    "title": "russell hobbs 26060 56 rh honeycomb 2 s toaster white",
-    "brand": "russell hobbs",
-    "category": "tosterebi"
-   },
-   "ka": {
-    "title": "რუსსელლ ხობბს 26060 56 რხ ხონეყცომბ 2 ს თოასთერ ვხითე",
-    "brand": "რუსსელლ ხობბს",
-    "category": "თოსთერები"
    }
   },
   {
