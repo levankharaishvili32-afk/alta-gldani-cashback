@@ -11,8 +11,8 @@ import MessengerButton from "@/components/MessengerButton";
 
 export const metadata: Metadata = {
   title: {
-    default: "დიდი ფასდაკლება გლდანში!",
-    template: "%s — დიდი ფასდაკლება გლდანში",
+    default: "დიდი ფასდაკლება ვარკეთილში!",
+    template: "%s — დიდი ფასდაკლება ვარკეთილში",
   },
   description:
     "ალტას დიდი ფასდაკლება გლდანის ფილიალში — 12–13 სექტემბერს. სამზარეულოს, სახლისა და პერსონალური მოვლის ტექნიკა, ოფიციალური გარანტიით.",
