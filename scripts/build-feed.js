@@ -13,10 +13,12 @@
  *
  * Two decisions worth knowing about
  * ---------------------------------
- * `g:id` is `TLV_<id>`, not the bare id. The prefix has to match the
- * `content_ids` the Meta Pixel fires on this site or nothing attributes, and it
- * keeps this campaign catalog from colliding with the main alta.ge one, which
- * uses the same product codes.
+ * `g:id` is the bare Alta product id (`170001`), the same number that is in
+ * the campaign spreadsheet and in the product URL. That is what lets a product
+ * set in Commerce Manager be built by pasting ids ("Bulk add products by
+ * content ID") or by searching for one. Keep this feed in its own campaign
+ * catalog: the main alta.ge catalog uses the same codes, and two feeds with the
+ * same id inside one catalog fight over the item.
  *
  * `g:item_group_id` groups colour and capacity variants — see
  * `scripts/lib/variants.mjs`. Without it a dynamic ad carousel shows the same
@@ -295,7 +297,7 @@ function buildItem(product, context) {
 
   /** @type {Array<[string, string | null]>} */
   const fields = [
-    ["g:id", `TLV_${product.id}`],
+    ["g:id", String(product.id)],
     ["g:title", truncate(product.title, MAX_TITLE)],
     ["g:description", description],
     ["g:link", productLink(product, domain)],
@@ -526,7 +528,7 @@ async function main() {
   const groups = new Map(
     [...groupSizes.keys()].map((key) => [
       key,
-      `TLVG_${key.replace(/[^\p{L}\p{N}]+/gu, "_").replace(/^_+|_+$/g, "").slice(0, 60)}`,
+      `GRP_${key.replace(/[^\p{L}\p{N}]+/gu, "_").replace(/^_+|_+$/g, "").slice(0, 60)}`,
     ]),
   );
 

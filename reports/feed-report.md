@@ -1,8 +1,8 @@
 # Meta პროდუქტ-ფიდის ანგარიში
 
-გენერირებულია: Wed, 23 Sep 2026 16:36:43 GMT
+გენერირებულია: Wed, 23 Sep 2026 16:53:42 GMT
 მისამართი: https://alta-varketili.vercel.app/feed.xml
-ფაილი: public/feed.xml (806 KB)
+ფაილი: public/feed.xml (804 KB)
 
 | მაჩვენებელი | რაოდენობა |
 | --- | --- |
