@@ -405,11 +405,42 @@ function scoreAccessory({
   wantedTypes,
   mainTokens,
   modelGated,
+  brandGated,
+  isLocal,
 }) {
   let score = 0;
   const why = [];
   const itemTitle = norm(item.name);
   const matchesModel = mainTokens.all.some((t) => itemTitle.includes(t));
+  const sameBrand = Boolean(
+    main.brand && item.brand && norm(main.brand) === norm(item.brand),
+  );
+
+  /*
+   * Brand-specific types are gated the same way models are. A Samsung
+   * washer-dryer stacking kit, a DeLonghi water filter or a Braun shaver head
+   * fits one manufacturer's machines and nobody else's — offered under an
+   * Electrolux washer it is not a weak suggestion but a wrong one. The feed
+   * leaves `brand` empty on a third of its rows, and an unknown brand is
+   * treated as a mismatch: for these types, silence beats a guess.
+   */
+  if (brandGated?.size && itemTypes.some((t) => brandGated.has(t)) && !sameBrand) {
+    return { score: 0, why: ["brand-mismatch"], type: null };
+  }
+
+  /*
+   * Price sanity. A 469 ₾ designer kettle under a 49 ₾ sandwich maker, or a
+   * 399 ₾ wireless microphone under a 49 ₾ pocket speaker, is technically a
+   * matching accessory and obviously not a bundle anyone would buy. Cap the
+   * accessory at three times the price the shopper actually sees — the
+   * campaign price — with a 100 ₾ floor so a cheap product can still be paired
+   * with an ordinary charger or cable.
+   */
+  const basePrice = main.promo_price || main.old_price;
+  const accessoryPrice = item.sale_price ?? item.price;
+  if (basePrice && accessoryPrice != null && accessoryPrice > Math.max(basePrice * 3, 100)) {
+    return { score: 0, why: ["too-expensive"], type: null };
+  }
 
   /*
    * Device-specific types are gated, not merely scored. A case or a screen
@@ -426,7 +457,7 @@ function scoreAccessory({
     }
   }
 
-  if (main.brand && item.brand && norm(main.brand) === norm(item.brand)) {
+  if (sameBrand) {
     score += 3;
     why.push("brand");
   }
@@ -459,6 +490,19 @@ function scoreAccessory({
   if (itemPrice != null && main.promo_price && itemPrice <= main.promo_price * 0.25) {
     score += 1;
     why.push("cheap");
+  }
+
+  /*
+   * An accessory that is itself in the campaign is what the widget is named
+   * for: "ერთად იაფია" — cheaper together — is only literally true when the
+   * second item also carries the campaign price and opens on this site. Worth
+   * a little less than a brand match, so a same-brand accessory from alta.ge
+   * still beats an unrelated local one, but enough to break every other tie
+   * in the campaign's favour.
+   */
+  if (isLocal) {
+    score += 2;
+    why.push("local");
   }
 
   return { score, why, type: bestType?.type ?? itemTypes[0] ?? null };
@@ -498,6 +542,11 @@ async function main() {
   const modelGated = new Set(
     Object.entries(rules.accessoryTypes ?? {})
       .filter(([, def]) => def.requiresModelMatch)
+      .map(([id]) => id),
+  );
+  const brandGated = new Set(
+    Object.entries(rules.accessoryTypes ?? {})
+      .filter(([, def]) => def.requiresBrandMatch)
       .map(([id]) => id),
   );
 
@@ -561,6 +610,8 @@ async function main() {
         wantedTypes,
         mainTokens,
         modelGated,
+        brandGated,
+        isLocal: localById.has(String(item.retailer_id)),
       });
       if (score <= 0) continue;
       scored.push({ item, score, why, type });

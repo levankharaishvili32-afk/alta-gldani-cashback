@@ -43,6 +43,5 @@ next-env.d.ts
 # scraper cache — raw alta.ge responses, re-fetchable with `npm run scrape`
 /.cache/
 
-
-# one-off helper, not part of the site
-push-to-github.cmd
+# alta.ge catalog cache for `npm run bundles` (~5 MB, rebuilt from the feed)
+/data/alta-catalog.json

@@ -18,7 +18,9 @@
     "",
     "Add a type here and re-run `npm run bundles` — no code change needed.",
     "",
-    "`requiresModelMatch: true` on a type means it only pairs with an accessory whose title names this exact model, or names no model at all (a universal fit). Set it on anything that physically has to fit one device — a case, a screen protector, a watch strap."
+    "`requiresModelMatch: true` on a type means it only pairs with an accessory whose title names this exact model, or names no model at all (a universal fit). Set it on anything that physically has to fit one device — a case, a screen protector, a watch strap.",
+    "`requiresBrandMatch: true` on a type means it only pairs with an accessory of the same brand as the product — stacking kits, coffee-machine filters, shaver heads, Wi-Fi adapters. An accessory whose brand the feed does not name is treated as a mismatch.",
+    "The September 2026 additions (from `surge-protector` down) cover the home-appliance, gaming and audio categories of the East Point file. Built-in hoods, hobs and ovens are told apart by the model-code prefixes alta.ge uses (LFP/LFG = hood, EOF/EOD/KOD = oven, EGG/EIV/KGG = hob); a new prefix goes into `match` and nothing else changes."
   ],
   "accessoryTypes": {
     "case": {
@@ -65,6 +67,14 @@
       "exclude": [
         "case",
         "cover",
+        "grip",
+        "holder",
+        "lanyard",
+        "mount",
+        "ring",
+        "stand",
+        "strap",
+        "wallet",
         "ქეისი"
       ],
       "requiresModelMatch": true
@@ -188,18 +198,23 @@
     "flash-card": {
       "label": "მეხსიერების ბარათი",
       "slugs": [
-        "mobiluri-telefonis-aqsesuarebi",
-        "kompiuteris-aqsesuarebi"
+        "cifruli-kameris-aqsesuarebi",
+        "kompiuteris-aqsesuarebi",
+        "mobiluri-telefonis-aqsesuarebi"
       ],
       "match": [
-        "microsd",
-        "micro sd",
-        "sdxc",
-        "sdhc",
         "memory card",
+        "micro sd",
+        "microsd",
+        "sd card",
+        "sdhc",
+        "sdxc",
         "მეხსიერების ბარათი"
       ],
-      "exclude": []
+      "exclude": [
+        "reader",
+        "წამკითხ"
+      ]
     },
     "wall-mount": {
       "label": "საკიდი",
@@ -229,24 +244,40 @@
         "sound bar",
         "საუნდბარი"
       ],
-      "exclude": []
+      "exclude": [
+        "rear",
+        "sa-rs",
+        "sa-sw",
+        "subwoofer"
+      ]
     },
     "hdmi-cable": {
       "label": "HDMI კაბელი",
       "slugs": [
-        "televizoris-aqsesuarebi",
-        "kompiuteris-aqsesuarebi"
+        "kabelebi-da-adapterebi",
+        "kompiuteris-aqsesuarebi",
+        "televizoris-aqsesuarebi"
       ],
       "match": [
         "hdmi"
       ],
-      "exclude": []
+      "exclude": [
+        "adapter",
+        "capture",
+        "converter",
+        "dvi",
+        "micro hdmi",
+        "splitter",
+        "switch",
+        "vga"
+      ]
     },
     "joystick": {
       "label": "ჯოისტიკი",
       "slugs": [
+        "geiming-aqsesuarebi",
         "geiming-kontroleri",
-        "geiming-aqsesuarebi"
+        "satamasho-konsolebi"
       ],
       "match": [
         "controller",
@@ -256,7 +287,13 @@
         "dualsense",
         "dualshock"
       ],
-      "exclude": []
+      "exclude": [
+        "case",
+        "charging",
+        "cover",
+        "stand",
+        "station"
+      ]
     },
     "keyboard": {
       "label": "კლავიატურა",
@@ -267,7 +304,15 @@
         "keyboard",
         "კლავიატურა"
       ],
-      "exclude": []
+      "exclude": [
+        "cover",
+        "pad",
+        "protector",
+        "rest",
+        "skin",
+        "sticker",
+        "wrist"
+      ]
     },
     "mouse-pad": {
       "label": "მაუსპადი",
@@ -294,7 +339,558 @@
         "სამაჯი"
       ],
       "exclude": [],
+      "requiresModelMatch": true,
+      "requiresBrandMatch": true
+    },
+    "usb-cable": {
+      "label": "კაბელი",
+      "slugs": [
+        "usb-kabeli",
+        "mobiluri-telefonis-aqsesuarebi",
+        "kompiuteris-aqsesuarebi"
+      ],
+      "match": [
+        "usb-c cable",
+        "type-c cable",
+        "c to c",
+        "c-to-c",
+        "lightning cable",
+        "usb cable",
+        "charging cable",
+        "კაბელი"
+      ],
+      "exclude": [
+        "hdmi",
+        "vga",
+        "dvi",
+        "utp",
+        "lan",
+        "audio",
+        "aux",
+        "charger",
+        "adapter",
+        "hub",
+        "dock",
+        "case",
+        "cover",
+        "lanyard",
+        "strap"
+      ]
+    },
+    "car-charger": {
+      "label": "მანქანის დამტენი",
+      "slugs": [
+        "manqanis-damteni"
+      ],
+      "match": [],
+      "exclude": []
+    },
+    "surge-protector": {
+      "label": "ძაბვის დამცავი",
+      "slugs": [
+        "kvebis-tsyaroebi",
+        "kabelebi-da-adapterebi",
+        "chkviani-chamrtvelebi"
+      ],
+      "match": [
+        "surge",
+        "stabiliz",
+        "სტაბილიზ"
+      ],
+      "exclude": [
+        "ups",
+        "tapo",
+        "smart",
+        "wi-fi",
+        "wifi",
+        "ჭკვიან"
+      ]
+    },
+    "smart-plug": {
+      "label": "ჭკვიანი როზეტი",
+      "slugs": [
+        "chkviani-chamrtvelebi"
+      ],
+      "match": [
+        "smart plug",
+        "socket",
+        "როზეტ"
+      ],
+      "exclude": [
+        "frame",
+        "ჩარჩო",
+        "switch",
+        "module"
+      ]
+    },
+    "ac-installation": {
+      "label": "მონტაჟი",
+      "slugs": [
+        "portatuli-kondicioneri",
+        "klimaturi-teqnika"
+      ],
+      "match": [
+        "მონტაჟის სერვისი",
+        "installation"
+      ],
+      "exclude": [
+        "უფასო"
+      ]
+    },
+    "appliance-wifi": {
+      "label": "Wi-Fi ადაპტერი",
+      "slugs": [
+        "sayofacovrebo-teqnikis-aqsesuarebi"
+      ],
+      "match": [
+        "wifi",
+        "wi-fi"
+      ],
+      "exclude": [],
+      "requiresBrandMatch": true
+    },
+    "stacking-kit": {
+      "label": "სამონტაჟო კომპლექტი",
+      "slugs": [
+        "sayofacovrebo-teqnikis-aqsesuarebi"
+      ],
+      "match": [
+        "stacking",
+        "docking",
+        "e1wyhsk",
+        "skk-"
+      ],
+      "exclude": [],
+      "requiresBrandMatch": true
+    },
+    "hood": {
+      "label": "გამწოვი",
+      "slugs": [
+        "gamtsovi",
+        "chasashenebeli-gamtsovi",
+        "chasashenebeli-teqnika"
+      ],
+      "match": [
+        "hood",
+        "გამწოვ",
+        "lfp",
+        "lfg",
+        "lfv",
+        "lft",
+        "efc",
+        "dge",
+        "dpb",
+        "dbb",
+        "dvb",
+        "dkb",
+        "cwb",
+        "ndb"
+      ],
+      "exclude": []
+    },
+    "built-in-oven": {
+      "label": "ჩასაშენებელი ღუმელი",
+      "slugs": [
+        "chasashenebeli-teqnika"
+      ],
+      "match": [
+        "oven",
+        "ღუმელ",
+        "eof",
+        "eod",
+        "eoe",
+        "eob",
+        "eoh",
+        "kod",
+        "koe",
+        "koa",
+        "kob",
+        "opeb",
+        "bpe",
+        "bse",
+        "bce",
+        "bpk",
+        "bek",
+        "nbe",
+        "nbp",
+        "nbr"
+      ],
+      "exclude": [
+        "microwave",
+        "მიკროტალღ",
+        "lms",
+        "nms",
+        "kmf"
+      ]
+    },
+    "built-in-hob": {
+      "label": "ქურის ზედაპირი",
+      "slugs": [
+        "chasashenebeli-teqnika"
+      ],
+      "match": [
+        "hob",
+        "ზედაპირ",
+        "cooking zones",
+        "egg",
+        "egs",
+        "egt",
+        "eiv",
+        "eit",
+        "eis",
+        "lit",
+        "kgg",
+        "kgu",
+        "kdi",
+        "kdk",
+        "gme",
+        "gpe",
+        "hkb",
+        "hk6",
+        "ike",
+        "iae"
+      ],
+      "exclude": [
+        "oven",
+        "hood",
+        "microwave"
+      ]
+    },
+    "ironing-board": {
+      "label": "საუთაო დაფა",
+      "slugs": [
+        "utos-aqsesuarebi"
+      ],
+      "match": [],
+      "exclude": []
+    },
+    "shaver-heads": {
+      "label": "სათადარიგო თავაკი",
+      "slugs": [
+        "tsversaparsis-tavaki"
+      ],
+      "match": [],
+      "exclude": [],
+      "requiresBrandMatch": true
+    },
+    "vacuum-acc": {
+      "label": "ფილტრი / პარკი",
+      "slugs": [
+        "mtversasrutis-aqsesuarebi"
+      ],
+      "match": [],
+      "exclude": [],
+      "requiresBrandMatch": true,
       "requiresModelMatch": true
+    },
+    "descaler": {
+      "label": "ნადების საწინააღმდეგო",
+      "slugs": [
+        "samzareulos-tsvrili-teqnika",
+        "yavis-aparatis-aqsesuarebi",
+        "yavis-moyvarultatvis"
+      ],
+      "match": [
+        "descal",
+        "decalk"
+      ],
+      "exclude": []
+    },
+    "coffee-beans": {
+      "label": "ყავის მარცვალი",
+      "slugs": [
+        "yava"
+      ],
+      "match": [],
+      "exclude": []
+    },
+    "coffee-acc": {
+      "label": "ყავის აპარატის აქსესუარი",
+      "slugs": [
+        "yavis-aparatis-aqsesuarebi",
+        "yavis-moyvarultatvis"
+      ],
+      "match": [
+        "filter",
+        "tamper",
+        "frother",
+        "ფილტრ"
+      ],
+      "exclude": [
+        "descal",
+        "decalk"
+      ],
+      "requiresBrandMatch": true
+    },
+    "kitchen-scale": {
+      "label": "სამზარეულოს სასწორი",
+      "slugs": [
+        "samzareulos-sastsori",
+        "sastsori",
+        "samzareulos-tsvrili-teqnika"
+      ],
+      "match": [
+        "kitchen scale",
+        "სამზარეულოს სასწორ",
+        "sks "
+      ],
+      "exclude": [
+        "luggage",
+        "bathroom",
+        "body",
+        "personal"
+      ]
+    },
+    "kettle": {
+      "label": "ელექტროჩაიდანი",
+      "slugs": [
+        "eleqtro-chaidani",
+        "samzareulos-tsvrili-teqnika"
+      ],
+      "match": [
+        "kettle",
+        "ჩაიდან",
+        "swk "
+      ],
+      "exclude": [
+        "baby",
+        "bottle",
+        "agu"
+      ]
+    },
+    "toaster": {
+      "label": "ტოსტერი",
+      "slugs": [
+        "tosteri",
+        "samzareulos-tsvrili-teqnika"
+      ],
+      "match": [
+        "toaster",
+        "ტოსტერ"
+      ],
+      "exclude": [
+        "sandwich",
+        "waffle"
+      ]
+    },
+    "game": {
+      "label": "თამაში",
+      "slugs": [
+        "satamasho-konsolebi"
+      ],
+      "match": [],
+      "exclude": [
+        "controller",
+        "headset",
+        "station",
+        "remote",
+        "console",
+        "stand",
+        "cover",
+        "charging",
+        "dualsense",
+        "gamepad",
+        "earbuds",
+        "camera",
+        "cable",
+        "portal",
+        "adapter",
+        "player",
+        "legion",
+        "xbox series",
+        "nintendo",
+        "switch",
+        "steam deck",
+        "rog ally",
+        "claw",
+        "quest",
+        "case",
+        "bag",
+        "strap"
+      ]
+    },
+    "charging-station": {
+      "label": "დამტენი სადგამი",
+      "slugs": [
+        "satamasho-konsolebi",
+        "geiming-aqsesuarebi",
+        "geiming-kontroleri"
+      ],
+      "match": [
+        "charging station",
+        "charging stand",
+        "charging dock",
+        "dock"
+      ],
+      "exclude": [
+        "portal"
+      ]
+    },
+    "microphone": {
+      "label": "მიკროფონი",
+      "slugs": [
+        "audio-sistemebi",
+        "strimingis-aqsesuarebi",
+        "kompiuteris-aqsesuarebi"
+      ],
+      "match": [
+        "microphone",
+        "karaoke",
+        "მიკროფონ",
+        "mic-",
+        "wireless mic"
+      ],
+      "exclude": [
+        "arm",
+        "cable",
+        "ergonomic",
+        "filter",
+        "hdmi",
+        "keyboard",
+        "micro hdmi",
+        "micro sd",
+        "microsd",
+        "mouse",
+        "pad",
+        "stand"
+      ]
+    },
+    "soundbar-addon": {
+      "label": "სუბვუფერი / უკანა დინამიკები",
+      "slugs": [
+        "audio-sistemebi"
+      ],
+      "match": [
+        "subwoofer",
+        "sa-sw",
+        "sa-rs",
+        "rear speaker",
+        "სუბვუფერ"
+      ],
+      "exclude": [
+        "sound bar ht",
+        "soundbar ht"
+      ],
+      "requiresBrandMatch": true
+    },
+    "monitor-mount": {
+      "label": "მონიტორის სადგამი",
+      "slugs": [
+        "monitoris-aqsesuarebi",
+        "kedlis-sakidi"
+      ],
+      "match": [],
+      "exclude": []
+    },
+    "projector-screen": {
+      "label": "პროექტორის ეკრანი / სადგამი",
+      "slugs": [
+        "proeqtoris-aqsesuarebi"
+      ],
+      "match": [],
+      "exclude": []
+    },
+    "camera-acc": {
+      "label": "შტატივი",
+      "slugs": [
+        "cifruli-kameris-aqsesuarebi"
+      ],
+      "match": [
+        "tripod",
+        "stativ",
+        "შტატივ",
+        "gimbal",
+        "stand",
+        "monopod"
+      ],
+      "exclude": [
+        "lens",
+        "mm f",
+        "sel",
+        "rf "
+      ]
+    },
+    "lan-cable": {
+      "label": "ქსელის კაბელი",
+      "slugs": [
+        "qseluri-motsyobilobebi",
+        "kompiuteris-aqsesuarebi",
+        "kabelebi-da-adapterebi"
+      ],
+      "match": [
+        "utp",
+        "patch cord",
+        "ethernet cable",
+        "lan cable",
+        "rj45 cable",
+        "cat5e",
+        "cat 5e",
+        "cat6 cable",
+        "cat 6 cable",
+        "cat6a"
+      ],
+      "exclude": [
+        "4g",
+        "5g",
+        "access point",
+        "adapter",
+        "archer",
+        "deco",
+        "extender",
+        "hub",
+        "lanyard",
+        "lte",
+        "mesh",
+        "modem",
+        "router",
+        "switch"
+      ]
+    },
+    "enclosure": {
+      "label": "გარე კორპუსი",
+      "slugs": [
+        "kompiuteris-aqsesuarebi"
+      ],
+      "match": [
+        "enclosure",
+        "external case",
+        "hdd case",
+        "ssd case"
+      ],
+      "exclude": []
+    },
+    "gaming-headset": {
+      "label": "გეიმინგ ყურსასმენი",
+      "slugs": [
+        "satamasho-konsolebi",
+        "geiming-aqsesuarebi",
+        "kompiuteris-aqsesuarebi",
+        "kompiuteris-yursasmeni"
+      ],
+      "match": [
+        "gaming headset",
+        "pulse elite",
+        "pulse explore",
+        "playstation",
+        "xbox"
+      ],
+      "exclude": [
+        "controller",
+        "stand",
+        "charging",
+        "cover",
+        "console",
+        "remote",
+        "portal",
+        "game",
+        "camera",
+        "cable",
+        "adapter",
+        "holder",
+        "hanger",
+        "skin",
+        "sticker"
+      ]
     }
   },
   "byCategory": {
@@ -325,20 +921,21 @@
       "flash-drive"
     ],
     "TV": [
-      "wall-mount",
       "soundbar",
       "hdmi-cable",
-      "joystick"
+      "wall-mount",
+      "surge-protector"
     ],
     "Monitor": [
       "hdmi-cable",
+      "monitor-mount",
       "keyboard",
-      "mouse",
-      "headphones"
+      "mouse"
     ],
     "Gaming": [
       "joystick",
-      "headphones",
+      "gaming-headset",
+      "game",
       "hdmi-cable"
     ],
     "Joystick": [
@@ -358,12 +955,12 @@
     "Headphone": [
       "charger",
       "power-bank",
-      "flash-drive"
+      "usb-cable"
     ],
     "Speaker": [
-      "charger",
+      "microphone",
       "power-bank",
-      "hdmi-cable"
+      "charger"
     ],
     "Flash Drive": [
       "flash-card",
@@ -380,8 +977,8 @@
       "keyboard"
     ],
     "Router": [
-      "flash-drive",
-      "hdmi-cable"
+      "lan-cable",
+      "surge-protector"
     ],
     "Notebook Bag": [
       "mouse",
@@ -399,8 +996,8 @@
       "flash-drive"
     ],
     "Adapter": [
-      "flash-drive",
-      "hdmi-cable"
+      "usb-cable",
+      "power-bank"
     ],
     "UPS": [
       "hdmi-cable",
@@ -417,6 +1014,180 @@
     "Microphone": [
       "headphones",
       "mouse-pad"
+    ],
+    "Mobile Phone Cases": [
+      "screen-protector",
+      "charger",
+      "usb-cable",
+      "power-bank"
+    ],
+    "Smart Watch": [
+      "smartwatch-strap",
+      "charger",
+      "power-bank"
+    ],
+    "PowerBank": [
+      "usb-cable",
+      "charger"
+    ],
+    "Cable": [
+      "charger",
+      "power-bank"
+    ],
+    "Transmitter": [
+      "car-charger",
+      "usb-cable"
+    ],
+    "Network": [
+      "lan-cable",
+      "surge-protector"
+    ],
+    "SSD/HDD": [
+      "enclosure",
+      "usb-cable",
+      "flash-drive"
+    ],
+    "Gaming Accessories": [
+      "charging-station",
+      "gaming-headset",
+      "game"
+    ],
+    "Console": [
+      "gaming-headset",
+      "hdmi-cable"
+    ],
+    "Sound Bar": [
+      "soundbar-addon",
+      "hdmi-cable"
+    ],
+    "Projector": [
+      "projector-screen",
+      "hdmi-cable"
+    ],
+    "Camera": [
+      "flash-card",
+      "camera-acc"
+    ],
+    "Audio": [
+      "microphone",
+      "hdmi-cable"
+    ],
+    "AC": [
+      "ac-installation",
+      "surge-protector",
+      "appliance-wifi"
+    ],
+    "კლიმატური ტექნიკა": [
+      "smart-plug"
+    ],
+    "Refrigerator": [
+      "surge-protector"
+    ],
+    "Washing Machine": [
+      "stacking-kit",
+      "surge-protector"
+    ],
+    "Dryer": [
+      "stacking-kit",
+      "surge-protector"
+    ],
+    "Dishwasher": [
+      "surge-protector"
+    ],
+    "Built-in Dishwasher": [
+      "surge-protector"
+    ],
+    "Microwave": [
+      "surge-protector"
+    ],
+    "Cooker": [
+      "hood",
+      "surge-protector"
+    ],
+    "Gas Cooker": [
+      "hood",
+      "surge-protector"
+    ],
+    "Built-in Hob": [
+      "hood",
+      "built-in-oven"
+    ],
+    "Built-in Oven": [
+      "built-in-hob",
+      "hood"
+    ],
+    "Built-in Hood": [
+      "built-in-hob",
+      "built-in-oven"
+    ],
+    "Built-in Microwave": [
+      "built-in-oven",
+      "built-in-hob"
+    ],
+    "სილამაზე და ჯანმრთელობა": [
+      "shaver-heads"
+    ],
+    "უთო": [
+      "ironing-board"
+    ],
+    "მტვერსასრუტი": [
+      "vacuum-acc"
+    ],
+    "Kettle": [
+      "descaler",
+      "toaster"
+    ],
+    "Toaster": [
+      "kettle",
+      "kitchen-scale"
+    ],
+    "Sandwich Maker": [
+      "kettle",
+      "kitchen-scale"
+    ],
+    "Waffle Maker": [
+      "kettle",
+      "kitchen-scale"
+    ],
+    "Grill": [
+      "kettle",
+      "kitchen-scale"
+    ],
+    "Air Fryer": [
+      "kitchen-scale"
+    ],
+    "Blender": [
+      "kitchen-scale"
+    ],
+    "Hand Blender": [
+      "kitchen-scale"
+    ],
+    "Kitchen Machine": [
+      "kitchen-scale"
+    ],
+    "Juicer": [
+      "kitchen-scale"
+    ],
+    "Mixer": [
+      "kitchen-scale"
+    ],
+    "Kitchen Scale": [
+      "kettle",
+      "toaster"
+    ],
+    "Coffee Maker": [
+      "coffee-beans",
+      "coffee-acc",
+      "descaler"
+    ],
+    "Coffee Press": [
+      "coffee-beans",
+      "coffee-acc",
+      "descaler"
+    ],
+    "Coffee Grinder": [
+      "coffee-beans",
+      "kettle"
     ]
   }
 }
