@@ -1,6 +1,6 @@
 # Meta პროდუქტ-ფიდის ანგარიში
 
-გენერირებულია: Tue, 22 Sep 2026 14:36:09 GMT
+გენერირებულია: Wed, 23 Sep 2026 06:23:04 GMT
 მისამართი: https://alta-gldani-cashback.vercel.app/feed.xml
 ფაილი: public/feed.xml (728 KB)
 

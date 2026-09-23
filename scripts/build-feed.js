@@ -57,7 +57,7 @@ const DEFAULT_DOMAIN = "https://alta-gldani-cashback.vercel.app";
 
 const UTM = {
   source: "Facebookads",
-  campaign: "eastpoint_october",
+  campaign: "eastpoint_september",
 };
 
 /** Meta truncates past these; better to cut deliberately than be cut. */

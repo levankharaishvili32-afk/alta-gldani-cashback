@@ -1,7 +1,7 @@
 # ალტას რეგიონული კამპანიის ლენდინგი — ისთ ფოინთის დიდი ფასდაკლება
 
 Campaign landing site for ALTA branch promotions. Currently the East Point
-(Varketili) branch sale, 25–27 October, 10:00–22:00; it ran the Gldani and
+(Varketili) branch sale, 25–27 September, 10:00–22:00; it ran the Gldani and
 Telavi sales before that. Campaign dates, branch address, hours and map link live in
 `lib/campaign.ts` — change them there and every page picks them up.
 
