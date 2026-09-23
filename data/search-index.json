@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22T14:36:09.778Z",
- "products": 373,
+ "generated_at": "2026-09-23T07:27:28.985Z",
+ "products": 409,
  "code_pattern": "^\\d{5,7}$",
  "aliases": [
   {
@@ -1837,6 +1837,566 @@
     "title": "აპპლე იფონე 15 სილიცონე ცასე ვითხ მაგსაფე გუავა მთ 0 ვ 3 ზმ ა",
     "brand": "აპპლე",
     "category": "თელეფონის ქეისები"
+   }
+  },
+  {
+   "id": "171323",
+   "title": "Apple iPhone 17 Pro e-Sim Only 12GB/512GB - Cosmic Orange",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro e sim only 12 gb 512 gb cosmic orange",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო ე სიმ ონლყ 12 გბ 512 გბ ცოსმიც ორანგე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170903",
+   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/512GB - Cosmic Orange",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro max e sim only 12 gb 512 gb cosmic orange",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 512 გბ ცოსმიც ორანგე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170902",
+   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/256GB - Cosmic Orange",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro max e sim only 12 gb 256 gb cosmic orange",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 256 გბ ცოსმიც ორანგე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170908",
+   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - White",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 e sim only 8 gb 256 gb white",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ ვხითე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "171321",
+   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - Sage",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 e sim only 8 gb 256 gb sage",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ საგე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "171322",
+   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - Mist Blue",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 e sim only 8 gb 256 gb mist blue",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ მისთ ბლუე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170901",
+   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/256GB - Deep Blue",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro max e sim only 12 gb 256 gb deep blue",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 256 გბ დეეპ ბლუე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170906",
+   "title": "Apple iPhone 17 Pro e-SIM Only 12GB/256GB - Cosmic Orange",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro e sim only 12 gb 256 gb cosmic orange",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო ე სიმ ონლყ 12 გბ 256 გბ ცოსმიც ორანგე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170907",
+   "title": "Apple iPhone 17 e-Sim Only (8GB/256GB) - Black",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 e sim only 8 gb 256 gb black",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 ე სიმ ონლყ 8 გბ 256 გბ ბლაცქ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "171022",
+   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/256GB - Silver",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro max e sim only 12 gb 256 gb silver",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 256 გბ სილვერ",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170904",
+   "title": "Apple iPhone 17 Pro Max e-Sim Only 12GB/512GB - Deep Blue",
+   "brand": "Apple",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "apple iphone 17 pro max e sim only 12 gb 512 gb deep blue",
+    "brand": "apple",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "აპპლე იფონე 17 პრო მახ ე სიმ ონლყ 12 გბ 512 გბ დეეპ ბლუე",
+    "brand": "აპპლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "172094",
+   "title": "Google Pixel 10 12GB/128GB Obsidian",
+   "brand": "Google",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "google pixel 10 12 gb 128 gb obsidian",
+    "brand": "google",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "გოოგლე პიხელ 10 12 გბ 128 გბ ობსიდიან",
+    "brand": "გოოგლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "175611",
+   "title": "Google Pixel 10a 8GB/256GB Obsidian",
+   "brand": "Google",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "google pixel 10 a 8 gb 256 gb obsidian",
+    "brand": "google",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "გოოგლე პიხელ 10 ა 8 გბ 256 გბ ობსიდიან",
+    "brand": "გოოგლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "174579",
+   "title": "Google Pixel 10 Pro XL 16GB/256GB Moonstone",
+   "brand": "Google",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "google pixel 10 pro xl 16 gb 256 gb moonstone",
+    "brand": "google",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "გოოგლე პიხელ 10 პრო ხლ 16 გბ 256 გბ მოონსთონე",
+    "brand": "გოოგლე",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "164076",
+   "title": "HONOR Magic 7 (12GB/256GB) Dual SIM 5G - Black",
+   "brand": "Honor",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "honor magic 7 12 gb 256 gb dual sim 5 g black",
+    "brand": "honor",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ხონორ მაგიც 7 12 გბ 256 გბ დუალ სიმ 5 გ ბლაცქ",
+    "brand": "ხონორ",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "175615",
+   "title": "Nothing Phone 4a Pro 12GB/256GB Black",
+   "brand": "Nothing",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "nothing phone 4 a pro 12 gb 256 gb black",
+    "brand": "nothing",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ნოთხინგ ფონე 4 ა პრო 12 გბ 256 გბ ბლაცქ",
+    "brand": "ნოთხინგ",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "175612",
+   "title": "Nothing Phone 4a 12GB/256GB Black",
+   "brand": "Nothing",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "nothing phone 4 a 12 gb 256 gb black",
+    "brand": "nothing",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ნოთხინგ ფონე 4 ა 12 გბ 256 გბ ბლაცქ",
+    "brand": "ნოთხინგ",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170131",
+   "title": "Nothing Phone 3 12GB/256GB Black",
+   "brand": "Nothing",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "nothing phone 3 12 gb 256 gb black",
+    "brand": "nothing",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ნოთხინგ ფონე 3 12 გბ 256 გბ ბლაცქ",
+    "brand": "ნოთხინგ",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "175614",
+   "title": "Nothing Phone 4a 8GB/128GB White",
+   "brand": "Nothing",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "nothing phone 4 a 8 gb 128 gb white",
+    "brand": "nothing",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ნოთხინგ ფონე 4 ა 8 გბ 128 გბ ვხითე",
+    "brand": "ნოთხინგ",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "176665",
+   "title": "OnePlus Nord 6 12GB/512GB Mint",
+   "brand": "OnePlus",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oneplus nord 6 12 gb 512 gb mint",
+    "brand": "oneplus",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ონეპლუს ნორდ 6 12 გბ 512 გბ მინთ",
+    "brand": "ონეპლუს",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "176666",
+   "title": "OnePlus Nord 6 8GB/256GB Black",
+   "brand": "OnePlus",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oneplus nord 6 8 gb 256 gb black",
+    "brand": "oneplus",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ონეპლუს ნორდ 6 8 გბ 256 გბ ბლაცქ",
+    "brand": "ონეპლუს",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "175129",
+   "title": "OnePlus 15 12GB/256GB Infinite Black",
+   "brand": "OnePlus",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oneplus 15 12 gb 256 gb infinite black",
+    "brand": "oneplus",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ონეპლუს 15 12 გბ 256 გბ ინფინითე ბლაცქ",
+    "brand": "ონეპლუს",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "175128",
+   "title": "OnePlus 15R 12GB/512GB Charcoal Black",
+   "brand": "OnePlus",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oneplus 15 r 12 gb 512 gb charcoal black",
+    "brand": "oneplus",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ონეპლუს 15 რ 12 გბ 512 გბ ჩარცოალ ბლაცქ",
+    "brand": "ონეპლუს",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "176663",
+   "title": "OnePlus Nord CE 6 8GB/256GB Fresh Blue",
+   "brand": "OnePlus",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oneplus nord ce 6 8 gb 256 gb fresh blue",
+    "brand": "oneplus",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ონეპლუს ნორდ ცე 6 8 გბ 256 გბ ფრეშ ბლუე",
+    "brand": "ონეპლუს",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "176664",
+   "title": "OnePlus Nord CE 6 8GB/256GB Pitch Black",
+   "brand": "OnePlus",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oneplus nord ce 6 8 gb 256 gb pitch black",
+    "brand": "oneplus",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ონეპლუს ნორდ ცე 6 8 გბ 256 გბ პითჩ ბლაცქ",
+    "brand": "ონეპლუს",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "176667",
+   "title": "OPPO Reno 16 12GB/256GB 5G Twilight Violet",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo reno 16 12 gb 256 gb 5 g twilight violet",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო რენო 16 12 გბ 256 გბ 5 გ თვილიგთ ვიოლეთ",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "176668",
+   "title": "OPPO A6s Pro 8GB/256GB Eclipse Blue",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo a 6 s pro 8 gb 256 gb eclipse blue",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო ა 6 ს პრო 8 გბ 256 გბ ეცლიპსე ბლუე",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "170134",
+   "title": "OPPO Reno 14F 12GB/256GB Luminous Green",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo reno 14 f 12 gb 256 gb luminous green",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო რენო 14 ფ 12 გბ 256 გბ ლუმინოუს გრეენ",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "164678",
+   "title": "OPPO Find X8 Pro (16GB/512GB) - Black",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo find x 8 pro 16 gb 512 gb black",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო ფინდ ხ 8 პრო 16 გბ 512 გბ ბლაცქ",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "173431",
+   "title": "OPPO Reno 15F 8GB/256GB 5G Aurora Blue",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo reno 15 f 8 gb 256 gb 5 g aurora blue",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო რენო 15 ფ 8 გბ 256 გბ 5 გ აურორა ბლუე",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "173436",
+   "title": "OPPO Reno 15 12GB/512GB 5G Aurora white",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo reno 15 12 gb 512 gb 5 g aurora white",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო რენო 15 12 გბ 512 გბ 5 გ აურორა ვხითე",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "173434",
+   "title": "OPPO Reno 15F 12GB/512GB 5G Aurora Blue",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo reno 15 f 12 gb 512 gb 5 g aurora blue",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო რენო 15 ფ 12 გბ 512 გბ 5 გ აურორა ბლუე",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "173432",
+   "title": "OPPO Reno 15F 8GB/256GB 5G Twilight Blue",
+   "brand": "OPPO",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "oppo reno 15 f 8 gb 256 gb 5 g twilight blue",
+    "brand": "oppo",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "ოპპო რენო 15 ფ 8 გბ 256 გბ 5 გ თვილიგთ ბლუე",
+    "brand": "ოპპო",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169492",
+   "title": "Samsung S731B Galaxy S25 FE 5G 8GB/256GB Duos Jet Black",
+   "brand": "Samsung",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "samsung s 731 b galaxy s 25 fe 5 g 8 gb 256 gb duos jet black",
+    "brand": "samsung",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "სამსუნგ ს 731 ბ გალახყ ს 25 ფე 5 გ 8 გბ 256 გბ დუოს ჯეთ ბლაცქ",
+    "brand": "სამსუნგ",
+    "category": "სმართფონები"
+   }
+  },
+  {
+   "id": "169494",
+   "title": "Samsung S731B Galaxy S25 FE 5G 8GB/256GB Duos Navy",
+   "brand": "Samsung",
+   "category": "სმარტფონები",
+   "latin": {
+    "title": "samsung s 731 b galaxy s 25 fe 5 g 8 gb 256 gb duos navy",
+    "brand": "samsung",
+    "category": "smartfonebi"
+   },
+   "ka": {
+    "title": "სამსუნგ ს 731 ბ გალახყ ს 25 ფე 5 გ 8 გბ 256 გბ დუოს ნავყ",
+    "brand": "სამსუნგ",
+    "category": "სმართფონები"
    }
   },
   {
@@ -5771,6 +6331,22 @@
    },
    "ka": {
     "title": "პლაყსთათიონ 5 დუალსენსე ედგე ვირელესს ცონთროლლერ მიდნიგთ ბლაცქ",
+    "brand": "პლაყსთათიონ",
+    "category": "გეიმინგ აქსესუარები"
+   }
+  },
+  {
+   "id": "175942",
+   "title": "PlayStation 5 DualSense Wireless Controller - Galactic Purple",
+   "brand": "PlayStation",
+   "category": "გეიმინგ აქსესუარები",
+   "latin": {
+    "title": "playstation 5 dualsense wireless controller galactic purple",
+    "brand": "playstation",
+    "category": "geiming aksesuarebi"
+   },
+   "ka": {
+    "title": "პლაყსთათიონ 5 დუალსენსე ვირელესს ცონთროლლერ გალაცთიც პურპლე",
     "brand": "პლაყსთათიონ",
     "category": "გეიმინგ აქსესუარები"
    }

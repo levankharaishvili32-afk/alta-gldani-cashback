@@ -24,6 +24,10 @@
         "label": "სმარტ საათები"
       },
       {
+        "id": "smartphone",
+        "label": "სმარტფონები"
+      },
+      {
         "id": "mobile-phone-cases",
         "label": "ტელეფონის ქეისები"
       },

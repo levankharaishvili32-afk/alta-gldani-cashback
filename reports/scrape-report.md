@@ -1,13 +1,13 @@
 # alta.ge სქრეიპის ანგარიში
 
-დაწყება: 2026-09-22 14:35
+დაწყება: 2026-09-23 07:27
 რეჟიმი: full + no-images
 
 | მაჩვენებელი | რაოდენობა |
 | --- | --- |
-| CSV-ში სულ | 378 |
-| დამუშავებული | 378 |
-| წარმატებული | 373 |
+| CSV-ში სულ | 414 |
+| დამუშავებული | 414 |
+| წარმატებული | 409 |
 | ვერ მოიძებნა alta.ge-ზე | 0 |
 | შეცდომით დასრულდა | 5 |
 | ფოტოს გარეშე | 0 |
@@ -43,10 +43,10 @@ _არცერთი._
 | კოდი | CSV დასახელება | მიზეზი |
 | --- | --- | --- |
 | 135564 | HOCO BS47 Uno sports BT speaker FOC | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
+| 175610 | Google Pixel 10a 8GB/128GB Obsidian | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
 | 124369 | BRAUN SI5037VI | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
 | 113770 | BRAUN SI3053BL | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
 | 157029 | Type C Gigabit Ethernet Adapter_20th | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
-| 175942 | Playstation DualSense Wireless Controller Galactic Purple /KIA | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
 
 ## ფოტოს გარეშე (0)
 
