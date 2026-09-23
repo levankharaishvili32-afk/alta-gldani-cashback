@@ -140,7 +140,7 @@ export default function Footer() {
         </div>
 
         <p className="alta-corners mt-8 border-l-4 border-alta-teal bg-alta-50 px-4 py-3 text-xs leading-relaxed text-alta-700">
-          აქციის ფასები მოქმედებს მხოლოდ გლდანის ფილიალში ({BRANCH.address}),{" "}
+          აქციის ფასები მოქმედებს მხოლოდ {BRANCH.nameIn} ({BRANCH.address}),{" "}
           {CAMPAIGN_DATES_ON}. ფასები მითითებულია ლარში, დღგ-ის ჩათვლით.
         </p>
       </div>

@@ -4,20 +4,36 @@
     "label": "მობილურები და აქსესუარები",
     "subcategories": [
       {
+        "id": "adapter",
+        "label": "ადაპტერები"
+      },
+      {
         "id": "speaker",
         "label": "დინამიკები"
       },
       {
-        "id": "smartphone",
-        "label": "სმარტფონები"
+        "id": "cable",
+        "label": "კაბელები"
       },
       {
-        "id": "wireless-charger",
-        "label": "უსადენო დამტენები"
+        "id": "powerbank",
+        "label": "პაუერბანკები"
+      },
+      {
+        "id": "smart-watch",
+        "label": "სმარტ საათები"
+      },
+      {
+        "id": "mobile-phone-cases",
+        "label": "ტელეფონის ქეისები"
       },
       {
         "id": "headphone",
         "label": "ყურსასმენები"
+      },
+      {
+        "id": "transmitter",
+        "label": "FM ტრანსმიტერები"
       }
     ]
   },
@@ -30,8 +46,24 @@
         "label": "აეროგრილები"
       },
       {
-        "id": "rice-cooker",
-        "label": "ბრინჯის მადუღარები"
+        "id": "accessories-sda",
+        "label": "აქსესუარები"
+      },
+      {
+        "id": "blender",
+        "label": "ბლენდერები"
+      },
+      {
+        "id": "gas-cooker",
+        "label": "გაზქურები"
+      },
+      {
+        "id": "built-in-hood",
+        "label": "გამწოვები"
+      },
+      {
+        "id": "grill",
+        "label": "გრილები"
       },
       {
         "id": "kettle",
@@ -46,16 +78,28 @@
         "label": "კლიმატური ტექნიკა"
       },
       {
+        "id": "ac",
+        "label": "კონდიციონერები"
+      },
+      {
         "id": "refrigerator",
         "label": "მაცივრები"
       },
       {
-        "id": "mixer",
-        "label": "მიქსერები"
+        "id": "microwave",
+        "label": "მიკროტალღური ღუმელები"
       },
       {
         "id": "vacuum",
         "label": "მტვერსასრუტები"
+      },
+      {
+        "id": "kitchen-machine",
+        "label": "სამზარეულოს კომბაინები"
+      },
+      {
+        "id": "kitchen-scale",
+        "label": "სამზარეულოს სასწორები"
       },
       {
         "id": "washing-machine",
@@ -74,16 +118,40 @@
         "label": "სილამაზე და ჯანმრთელობა"
       },
       {
-        "id": "toaster",
-        "label": "ტოსტერები"
-      },
-      {
         "id": "iron",
         "label": "უთოები"
       },
       {
+        "id": "window-cleaner",
+        "label": "ფანჯრის საწმენდები"
+      },
+      {
+        "id": "cooker",
+        "label": "ქურები"
+      },
+      {
         "id": "coffee-maker",
         "label": "ყავის აპარატები"
+      },
+      {
+        "id": "coffee-press",
+        "label": "ყავის პრესები"
+      },
+      {
+        "id": "coffee-grinder",
+        "label": "ყავის საფქვავები"
+      },
+      {
+        "id": "built-in-microwave",
+        "label": "ჩასაშენებელი მიკროტალღური ღუმელები"
+      },
+      {
+        "id": "built-in-hob",
+        "label": "ჩასაშენებელი ქურის ზედაპირები"
+      },
+      {
+        "id": "built-in-oven",
+        "label": "ჩასაშენებელი ღუმელები"
       },
       {
         "id": "built-in-dishwasher",
@@ -96,6 +164,10 @@
       {
         "id": "dishwasher",
         "label": "ჭურჭლის სარეცხი მანქანები"
+      },
+      {
+        "id": "hand-blender",
+        "label": "ხელის ბლენდერები"
       }
     ]
   },
@@ -104,36 +176,12 @@
     "label": "IT ტექნიკა",
     "subcategories": [
       {
-        "id": "cooling-stand",
-        "label": "გამაგრილებელი სადგამები"
-      },
-      {
-        "id": "car-camera",
-        "label": "ვიდეორეგისტრატორები"
-      },
-      {
-        "id": "power-supply",
-        "label": "კვების ბლოკები"
-      },
-      {
-        "id": "keyboard",
-        "label": "კლავიატურები"
-      },
-      {
-        "id": "desktop-pc",
-        "label": "კომპიუტერები"
-      },
-      {
         "id": "mouse",
         "label": "მაუსები"
       },
       {
         "id": "monitor",
         "label": "მონიტორები"
-      },
-      {
-        "id": "pc-all-in-one",
-        "label": "მონობლოკები"
       },
       {
         "id": "notebook",
@@ -144,24 +192,20 @@
         "label": "ნოუთბუქის ჩანთები"
       },
       {
-        "id": "ram",
-        "label": "ოპერატიული მეხსიერება"
+        "id": "smart-lock",
+        "label": "სმარტ საკეტები"
       },
       {
-        "id": "printer",
-        "label": "პრინტერები"
-      },
-      {
-        "id": "router",
-        "label": "როუტერები"
+        "id": "network",
+        "label": "ქსელური მოწყობილობები"
       },
       {
         "id": "headphone",
         "label": "ყურსასმენები"
       },
       {
-        "id": "hdd-internal",
-        "label": "შიდა მყარი დისკები"
+        "id": "ssd-hdd",
+        "label": "SSD და მყარი დისკები"
       }
     ]
   },
@@ -170,8 +214,24 @@
     "label": "ტელევიზორები და გეიმინგი",
     "subcategories": [
       {
-        "id": "audio",
-        "label": "აუდიო"
+        "id": "gaming-accessories",
+        "label": "გეიმინგ აქსესუარები"
+      },
+      {
+        "id": "speaker",
+        "label": "დინამიკები"
+      },
+      {
+        "id": "console",
+        "label": "კონსოლები"
+      },
+      {
+        "id": "projector",
+        "label": "პროექტორები"
+      },
+      {
+        "id": "sound-bar",
+        "label": "საუნდბარები"
       },
       {
         "id": "tv",

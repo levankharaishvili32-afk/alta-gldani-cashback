@@ -1,19 +1,19 @@
 # alta.ge სქრეიპის ანგარიში
 
-დაწყება: 2026-09-11 11:17
+დაწყება: 2026-09-22 14:35
 რეჟიმი: full + no-images
 
 | მაჩვენებელი | რაოდენობა |
 | --- | --- |
-| CSV-ში სულ | 173 |
-| დამუშავებული | 173 |
-| წარმატებული | 168 |
+| CSV-ში სულ | 378 |
+| დამუშავებული | 378 |
+| წარმატებული | 373 |
 | ვერ მოიძებნა alta.ge-ზე | 0 |
 | შეცდომით დასრულდა | 5 |
 | ფოტოს გარეშე | 0 |
 | ფიდიდან აღდგენილი (მახასიათებლების გარეშე) | 0 |
 | ხელით ამოღებული (excluded-products.json) | 0 |
-| CSV-ში ფასის კონფლიქტით მონიშნული | 0 |
+| CSV-ში ფასის კონფლიქტით მონიშნული | 10 |
 
 ## ხელით ამოღებული (0)
 
@@ -42,11 +42,11 @@ _არცერთი._
 
 | კოდი | CSV დასახელება | მიზეზი |
 | --- | --- | --- |
-| 174398 | Aukey EP-M3A Move Vibe Wireless Earbuds Dark Gray | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
-| 170828 | Remington AC9140 E51 PRO-Luxe Dryer | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
-| 128153 | BRAUN SI7160BL | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
-| 106258 | PHILIPS HC5650/15 | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
-| 172456 | Nubi NK87 White - Mechanical Gaming Keyboard | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
+| 135564 | HOCO BS47 Uno sports BT speaker FOC | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
+| 124369 | BRAUN SI5037VI | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
+| 113770 | BRAUN SI3053BL | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
+| 157029 | Type C Gigabit Ethernet Adapter_20th | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
+| 175942 | Playstation DualSense Wireless Controller Galactic Purple /KIA | not found on alta.ge (საძიებო API-მ კოდი ვერ იპოვა) |
 
 ## ფოტოს გარეშე (0)
 
@@ -56,12 +56,23 @@ _არცერთი._
 
 _არცერთი._
 
-## CSV-ში ფასის კონფლიქტით მონიშნული (0)
+## CSV-ში ფასის კონფლიქტით მონიშნული (10)
 
 ამ სტრიქონებს თავად CSV-ს სვეტი `price_conflict` ნიშნავს. ფასები მაინც CSV-დან
 აიღება უცვლელად — სია მხოლოდ იმისთვისაა, რომ ხელით გადაამოწმო.
 
-_არცერთი._
+| კოდი | დასახელება | ძველი ფასი | აქციის ფასი |
+| --- | --- | --- | --- |
+| 137465 | Playstation Standart Console Cover PS5 Grey Camo (50074603) /PS5 | 149 | 89 |
+| 140255 | Playstation VR2 Sense Controller Charging Station | 149 | 69 |
+| 147930 | Playstation DualSense Edge Wireless Controller White /KIA | 699 | 299 |
+| 149516 | Playstation DualSense Wireless Controller Cobalt Blue | 239 | 109 |
+| 157795 | Playstation Pulse Explore Wireless Earbuds | 529 | 349 |
+| 163899 | Playstation DualSense Wireless Controller Chroma Indigo | 239 | 119 |
+| 163909 | Playstation Pulse Elite Wireless Headset Midnight Black | 439 | 209 |
+| 142660 | Razer Quick Charging Stand for PlayStation®5 – Red – FRML Packaging | 149 | 39 |
+| 142661 | Razer Quick Charging Stand for PlayStation®5 – Blue | 149 | 39 |
+| 142662 | Razer Quick Charging Stand for PlayStation®5 – Purple | 179 | 39 |
 
 ---
 

@@ -203,7 +203,7 @@ export default function Catalog() {
           დიდი ფასდაკლება ვარკეთილში!
         </h1>
         <p className="mt-1.5 text-sm text-alta-700">
-          მხოლოდ {CAMPAIGN_DATES_ON}, გლდანის ფილიალში.
+          მხოლოდ {CAMPAIGN_DATES_ON}, {BRANCH.nameIn}.
         </p>
         {/* Campaign facts as pills: dates, branch, hours. This is the strip a
             hero banner would normally carry; it keeps the page self-explanatory

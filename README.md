@@ -1,8 +1,8 @@
-# ალტას რეგიონული კამპანიის ლენდინგი — გლდანის დიდი ფასდაკლება
+# ალტას რეგიონული კამპანიის ლენდინგი — ისთ ფოინთის დიდი ფასდაკლება
 
-Campaign landing site for ALTA branch promotions. Currently the Gldani branch
-sale (12–13 September, City Mall, 10:00–22:00); it ran the Telavi sale before
-that. Campaign dates, branch address, hours and map link live in
+Campaign landing site for ALTA branch promotions. Currently the East Point
+(Varketili) branch sale, 25–27 October, 10:00–22:00; it ran the Gldani and
+Telavi sales before that. Campaign dates, branch address, hours and map link live in
 `lib/campaign.ts` — change them there and every page picks them up.
 
 Hero banners: `data/banners.json` is an empty list right now, so the carousel
