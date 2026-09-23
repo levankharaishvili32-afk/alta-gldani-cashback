@@ -53,7 +53,7 @@ const GPC_FILE = path.join(ROOT, "data", "gpc-mapping.json");
  * absolute — Meta fetches the feed from its own servers, so a relative path
  * resolves against nothing.
  */
-const DEFAULT_DOMAIN = "https://alta-gldani-cashback.vercel.app";
+const DEFAULT_DOMAIN = "https://alta-varketili.vercel.app";
 
 const UTM = {
   source: "Facebookads",

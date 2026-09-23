@@ -1,8 +1,8 @@
 # Meta პროდუქტ-ფიდის ანგარიში
 
-გენერირებულია: Wed, 23 Sep 2026 07:27:29 GMT
-მისამართი: https://alta-gldani-cashback.vercel.app/feed.xml
-ფაილი: public/feed.xml (808 KB)
+გენერირებულია: Wed, 23 Sep 2026 16:36:43 GMT
+მისამართი: https://alta-varketili.vercel.app/feed.xml
+ფაილი: public/feed.xml (806 KB)
 
 | მაჩვენებელი | რაოდენობა |
 | --- | --- |
