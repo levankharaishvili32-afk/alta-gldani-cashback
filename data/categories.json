@@ -43,7 +43,7 @@
   },
   {
     "id": "home",
-    "label": "თეთრი ტექნიკა",
+    "label": "მსხვილი საყოფაცხოვრებო ტექნიკა",
     "subcategories": [
       {
         "id": "air-fryer",
@@ -177,7 +177,7 @@
   },
   {
     "id": "it",
-    "label": "IT ტექნიკა",
+    "label": "კომპიუტერული ტექნიკა",
     "subcategories": [
       {
         "id": "mouse",

@@ -62,7 +62,7 @@ function inferSpecKeys(scoped: Product[]): string[] {
 /**
  * Spec dimensions available for filtering, given the selected category and —
  * when the shopper has narrowed to one — subcategory. The narrower scope wins:
- * a group as broad as "IT ტექნიკა" has almost no attribute in common across
+ * a group as broad as "კომპიუტერული ტექნიკა" has almost no attribute in common across
  * mice, monitors and printers, so its useful dimensions only exist per
  * subcategory.
  */
