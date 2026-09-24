@@ -1,4 +1,4 @@
-# ალტას რეგიონული კამპანიის ლენდინგი — ისთ ფოინთის დიდი ფასდაკლება
+# ალტას რეგიონული კამპანიის ლენდინგი — დიდი ფასდაკლება East Point-ის ფილიალში
 
 Campaign landing site for ALTA branch promotions. Currently the East Point
 (Varketili) branch sale, 25–27 September, 10:00–22:00; it ran the Gldani and

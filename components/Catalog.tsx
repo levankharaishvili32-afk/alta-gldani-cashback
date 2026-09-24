@@ -200,7 +200,7 @@ export default function Catalog() {
           search results, and this is the page's actual subject. */}
       <header className="mb-6 border-b border-alta-100 pb-5">
         <h1 className="text-2xl font-bold text-alta-purple-deep sm:text-3xl">
-          დიდი ფასდაკლება ვარკეთილში!
+          დიდი ფასდაკლება East Point-ის ფილიალში!
         </h1>
         <p className="mt-1.5 text-sm text-alta-700">
           მხოლოდ {CAMPAIGN_DATES_ON}, {BRANCH.nameIn}.

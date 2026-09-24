@@ -12,11 +12,11 @@ export const CAMPAIGN_END_DATE = "27 სექტემბერი";
 export const CAMPAIGN_END_INCLUSIVE = "27 სექტემბრის ჩათვლით";
 
 export const BRANCH = {
-  name: "ისთ ფოინთის ფილიალი",
+  name: "East Point-ის ფილიალი",
   /** the same, in the locative — "…ფილიალში" — for running text */
-  nameIn: "ისთ ფოინთის ფილიალში",
+  nameIn: "East Point-ის ფილიალში",
   city: "თბილისი",
-  address: "ქ. თბილისი, თვალჭრელიძის ქ. 2, სავაჭრო ცენტრი „ისთ ფოინთი“",
+  address: "ქ. თბილისი, თვალჭრელიძის ქ. 2, სავაჭრო ცენტრი „East Point“",
   hours: "ყოველდღე: 10:00 – 22:00",
   phone: "+995 32 238 00 38",
   /** `tel:` needs the number without spaces. */

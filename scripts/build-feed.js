@@ -195,8 +195,8 @@ function generateDescription(product, { subcategoryLabel, discount }) {
 
   parts.push(
     discount > 0
-      ? `ფასდაკლება ${discount}% — ${product.promo_price}₾ ${product.old_price}₾-ის ნაცვლად. ალტა, ისთ ფოინთის ფილიალი.`
-      : "ალტა, ისთ ფოინთის ფილიალი.",
+      ? `ფასდაკლება ${discount}% — ${product.promo_price}₾ ${product.old_price}₾-ის ნაცვლად. ალტა, East Point-ის ფილიალი.`
+      : "ალტა, East Point-ის ფილიალი.",
   );
 
   return parts.join(" ");
@@ -542,10 +542,10 @@ async function main() {
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">',
     "  <channel>",
-    `    <title>${escapeXml("ალტა — დიდი ფასდაკლება ვარკეთილში")}</title>`,
+    `    <title>${escapeXml("ალტა — დიდი ფასდაკლება East Point-ის ფილიალში")}</title>`,
     `    <link>${escapeXml(domain)}</link>`,
     `    <description>${escapeXml(
-      "ალტას ისთ ფოინთის ფილიალის სააქციო კატალოგი Meta Commerce Manager-ისთვის.",
+      "ალტას East Point-ის ფილიალის სააქციო კატალოგი Meta Commerce Manager-ისთვის.",
     )}</description>`,
     `    <lastBuildDate>${now}</lastBuildDate>`,
     ...items.map(renderItem),
