@@ -216,7 +216,7 @@ export default function Catalog() {
             {BRANCH.address}
           </li>
           <li className="alta-corners bg-alta-50 px-3 py-1.5 text-alta-purple-deep ring-1 ring-alta-100">
-            {BRANCH.hours}
+            სამუშაო საათები: {BRANCH.hours}
           </li>
         </ul>
       </header>

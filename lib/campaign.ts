@@ -17,7 +17,8 @@ export const BRANCH = {
   nameIn: "East Point-ის ფილიალში",
   city: "თბილისი",
   address: "ქ. თბილისი, თვალჭრელიძის ქ. 2, სავაჭრო ცენტრი „East Point“",
-  hours: "ყოველდღე: 10:00 – 22:00",
+  /** bare time range; the header pill and the footer each add their own label */
+  hours: "10:00 – 22:00",
   phone: "+995 32 238 00 38",
   /** `tel:` needs the number without spaces. */
   phoneHref: "tel:+995322380038",
